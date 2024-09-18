@@ -1,0 +1,19 @@
+# section information
+section:
+  name: Bewerbung
+  id: bewerbung
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  template: sections/mdifyr.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  # Can optionally show button:
+resourceLinks:
+  - title: "Zur Bewerbungsplattform"
+    url: "bewerbung.prototypefund.de"
+
+
+summary: |
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+  Alles Klar? Dann fangt an zu tippen und bewerbt euch!

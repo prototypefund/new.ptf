@@ -1,0 +1,121 @@
+# section information
+section:
+  name: Timeline
+  id: timeline
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Bewerbungsphase
+    # location: Dhaka Branch
+    # logo: /images/sections/experiences/company1.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: "Wir sammeln Bewerbungen - ihr müsst Fragen beantworten. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+  positions:
+  - designation: Senior Software Engineer #wird nicht angezeigt
+    start: 01. November 2024
+    end: 02. Januar 2025
+    responsibilities: Design and develop XYZ tool for ABC task #wird nicht angezeigt
+
+- company:
+    name: Auswahlphase
+    # location: Dhaka Branch
+    # logo: /images/sections/experiences/company1.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: "Shortlist + Die Jury macht Jury Dinge. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+  positions:
+  - designation: Senior Software Engineer #wird nicht angezeigt
+    start: Januar 2025
+    end:  Mai 2025
+    responsibilities: Design and develop XYZ tool for ABC task #wird nicht angezeigt
+
+- company:
+    name: Antrag
+    # location: Dhaka Branch
+    # logo: /images/sections/experiences/company1.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: "Antragsworkshop + Antrag. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+  positions:
+  - designation: Senior Software Engineer #wird nicht angezeigt
+    start: Mai 2025
+    end:  Mai 2025
+    responsibilities: Design and develop XYZ tool for ABC task #wird nicht angezeigt
+
+- company:
+    name: Kick-Off Workshop
+    # location: Dhaka Branch
+    # logo: /images/sections/experiences/company1.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: "Workshop mit allen anderen des Jahrgangs. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+  positions:
+  - designation: Senior Software Engineer #wird nicht angezeigt
+    start: um den 01. Juni 2025
+    responsibilities: Design and develop XYZ tool for ABC task #wird nicht angezeigt
+
+- company:
+    name: Förderphase
+    # location: Dhaka Branch
+    # logo: /images/sections/experiences/company1.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: "Es gibt Cash Cash Cash! Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+  positions:
+  - designation: Senior Software Engineer #wird nicht angezeigt
+    start: Juni 2025
+    end: Dezember 2025
+    responsibilities: Design and develop XYZ tool for ABC task #wird nicht angezeigt
+
+- company:
+    name: Demo Day
+    # location: Dhaka Branch
+    # logo: /images/sections/experiences/company1.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: "Demo Day Demo Day Demo Day! Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+  positions:
+  - designation: Senior Software Engineer #wird nicht angezeigt
+    start: um den 01. Dezember 2025
+    responsibilities: Design and develop XYZ tool for ABC task #wird nicht angezeigt
+
+- company:
+    name: Second Stage
+    # location: Dhaka Branch
+    # logo: /images/sections/experiences/company1.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: "Es gibt nochmal Geld. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+  positions:
+  - designation: Senior Software Engineer #wird nicht angezeigt
+    start: Dezember 2025
+    end: April 2026
+    responsibilities: Design and develop XYZ tool for ABC task #wird nicht angezeigt
+
+
+- company:
+    name: Abschlussworkshop der Second Stage
+    # location: Dhaka Branch
+    # logo: /images/sections/experiences/company1.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: "halböffentlich bla bla. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+  positions:
+  - designation: Senior Software Engineer #wird nicht angezeigt
+    start: um den 01. April 2026
+    responsibilities: Design and develop XYZ tool for ABC task #wird nicht angezeigt

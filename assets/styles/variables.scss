@@ -1,0 +1,126 @@
+@use 'sass:map';
+
+$breakpoints: (
+  tiny: 320px,
+  small: 640px,
+  medium: 768px,
+  large: 1024px,
+  very-large: 1280px,
+  extra-large: 1536px,
+  ultra-large: 2560px,
+);
+
+// Color are chosen from TailwindCSS color scheme
+// https://tailwindcss.com/docs/customizing-colors
+
+// transitions
+$transition-duration: 0.3s;
+$transition-type: ease-out;
+
+// borders and shadows
+$box-shadow: 0px 8px 56px rgba(15, 80, 100, 0.16);
+
+// themes
+$themes: (
+  'light': (
+    // ptf-blau (wird noch nicht verwendet)
+    'main-color': #0050D1,
+    // ptf-lila
+    'accent-color': #D33BDB,
+    // arbeitsgrün: #64DB30,
+    //ptf-blau
+    'hover-over-accent-color': #0050D1,
+    // ptf-blau
+    'text-over-accent-color': #0050D1,
+    // weiß
+    'bg-primary': #FFFFFF,
+    // schwarz
+    'bg-primary-inverse': #000000,
+    // weiß
+    'bg-secondary': #FFFFFF,
+    // weiß
+    'bg-card': #FFFFFF,
+    // ptf-blau
+    'heading-color': #0050D1,
+    // ptf-blau oder schwarz? #000000
+    'text-color': #000000,
+    // ptf-blau
+    'inverse-text-color': #0050D1,
+    // ptf-lila
+    'muted-text-color': #D33BDB,
+    // red 600
+    'inline-code-color': #dc2626,
+    // amber 200
+    'highlight-color': #fde68a,
+    // slate 900
+    'footer-color': #ffffff,
+  ),
+  'dark': (
+    // cyan 600
+    'accent-color': #0891b2,
+    // cyan 500
+    'hover-over-accent-color': #06b6d4,
+    // zinc 200
+    'text-over-accent-color': #e4e4e7,
+    // gray-800
+    'bg-primary': #FFFFFF,
+    // slate 900
+    'bg-primary-inverse': #0f172a,
+    // gray 900
+    'bg-secondary': #FFFFFF,
+    // slate 800
+    'bg-card': #ffffff,
+    // slate 100
+    'heading-color': #f1f5f9,
+    // slate 300
+    'text-color': #cbd5e1,
+    // slate 900
+    'inverse-text-color': #0f172a,
+    // slate 500
+    'muted-text-color': #64748b,
+    // red 600
+    'inline-code-color': #dc2626,
+    // amber 200
+    'highlight-color': #fde68a,
+    // slate 900
+    'footer-color': #ffffff,
+  ),
+);
+
+$brand-colors: (
+  'facebook': #3b5998,
+  'twitter': #1da1f2,
+  'linkedin': #0077b5,
+  'reddit': #ff4500,
+  'tumblr': #35465c,
+  'pocket': #ef4056,
+  'diaspora': #1e1e1e,
+  'whatsapp': #25d366,
+);
+
+$alerts: (
+  'success': (
+    // green 100
+    'bg-color': #dcfce7,
+    // green 800
+    'text-color': #166534,
+  ),
+  'info': (
+    // sky 100
+    'bg-color': #e0f2fe,
+    // sky 800
+    'text-color': #075985,
+  ),
+  'warning': (
+    // yellow 100
+    'bg-color': #fef9c3,
+    // yellow 800
+    'text-color': #854d0e,
+  ),
+  'danger': (
+    // red 100
+    'bg-color': #fee2e2,
+    // red 800
+    'text-color': #991b1b,
+  ),
+);

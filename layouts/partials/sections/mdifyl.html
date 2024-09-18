@@ -1,0 +1,30 @@
+
+{{ $sectionID := replace (lower .section.name) " " "-"  }}
+{{ if .section.id }}
+  {{ $sectionID = .section.id }}
+{{ end }}
+
+<div class="container">
+  <div class= "row">
+    <div class="col-md-4 align-self-center">
+      {{ if not (.section.hideTitle) }}
+        <h1 class="text-center">
+            <span id="{{ $sectionID }}"></span>{{ .section.name }}</h1>
+      {{ else }}
+        <h1 class="text-center" style="display: none">
+            <span id="{{ $sectionID }}"></span>{{ .section.name }}</h1>
+      {{ end }}
+    </div>
+    <div class="col-md">
+      <p class="p-1 text-justify">
+        {{ .summary | markdownify }}
+
+      </p>
+      {{ range .resourceLinks }}
+      <a href="{{ .url | relURL }}" title="{{ .title }}" target="#"
+        ><button class="btn btn-dark">{{ .title }}</button></a
+      >
+      {{ end }}
+    </div>
+  </div>
+</div>

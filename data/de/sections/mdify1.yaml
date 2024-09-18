@@ -1,0 +1,21 @@
+# section information
+section:
+  name: Testüberschrift!
+  id: testüberschrift
+  enable: false
+  weight: 7
+  showOnNavbar: true
+  template: sections/mdifyl.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  # Can optionally show button:
+  resourceLinks:
+  - title: "Zur Bewerbungsplattform"
+    url: "https://LINK.com"
+
+
+summary: |
+  Auch den Prototype Fund selbst verstehen wir als Prototypen.
+  Unser Programm ist das erste öffentliche Förderprogramm eines Bundesministeriums, das sich gezielt an Open-Source-Entwickler*innen
+  in Selbstständigkeit oder Freiberufliche richtet. Wir wollen lernen, unsere Erfahrungen teilen und euch dabei unterstützen, eure Projekte und Vorhaben
+  bestmöglich zu stemmen. Hier findet ihr die wichtigsten Informationen zur Bewerbung.

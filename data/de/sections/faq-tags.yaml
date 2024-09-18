@@ -1,0 +1,67 @@
+# section information
+section:
+  name: FAQ
+  id: faq
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  template: sections/projects.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+summary: "Auch den Prototype Fund selbst verstehen wir als Prototypen. Unser Programm ist das erste öffentliche Förderprogramm eines Bundesministeriums, das sich gezielt an Open-Source-Entwickler*innen in Selbstständigkeit oder Freiberufliche richtet. Wir wollen lernen, unsere Erfahrungen teilen und euch dabei unterstützen, eure Projekte und Vorhaben bestmöglich zu stemmen. Hier findet ihr die wichtigsten Informationen zur Bewerbung."
+
+buttons:
+- name: Alle
+  filter: "all"
+- name: Grundlagen
+  filter: "grundlagen"
+- name: Bewerbung
+  filter: "bewerbung"
+- name: Auswahl
+  filter: "auswahl"
+- name: Förderung
+  filter: "foerderung"
+
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+projects:
+- name: Was bietet der Prototype Fund?
+  url: "test.com"
+  tags: ["grundlagen"]
+  summary: |
+    * Eine Förderung mit bis zu 47.500€ über 6 bis 10 Monate
+    * Unterstützung durch Mentor\*innen und Coaching in den Bereichen User Centered Design, Projektmanagement, Security und Business
+    * Aufmerksamkeit für dein Projekt über unsere Kanäle
+
+    Neben dem finanziellen Support steht der Aufbau eines Netzwerks für uns im Vordergrund. Während der Umsetzungsphase vernetzen wir Teams und Teilnehmer\*innen mit weiteren Geldgeber*innen, potentiellen Partner\*innen und Förderprogrammen Nachhaltigkeit ist uns wichtig – unser Ziel ist es, Teilnehmer\*innen so gut wie möglich bei der Weiterführung ihrer Projekte unterstützen."
+
+- name: FRAGE 2
+  tags: ["tag1", "tag3"]
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+
+- name: Warum werden ausschließlich Open-Source-Projekte gefördert?
+  tags: ["grundlagen"]
+  summary: "Wir sind der Überzeugung, dass Ideen, die geteilt werden, neue Anknüpfungspunkte für Projekte und Kooperationen bieten. Wir wollen gewährleisten, dass geförderte Projekte auch in Zukunft weiterentwickelt werden können."
+
+- name: Können sich Unternehmen, Institutionen oder andere Organisationen bewerben?
+  tags: ["bewerbung"]
+  summary: "Nein. Teams müssen sich für die Förderung als GbR zusammen schließen. Der Sitz dieser GbR muss in Deutschland liegen."
+
+- name: Wie aufwändig ist der Bewerbungsprozess?
+  tags: ["bewerbung"]
+  summary: "Nicht aufwändig. Über das Bewerbungsformular (schematische Darstellung hier) könnt ihr der Jury im ersten Schritt kurz und klar beschreiben, was ihr umsetzen möchtet: In prägnanten Texten, die den Kern deiner Idee erklären und die Verbindung zu unseren geförderten Schwerpunkten deutlich machen. Wichtige Hinweise in den Learnings aus den ersten vier Jahren Prototype Fund findet ihr hier. Falls euer Projekt von der Jury ausgewählt wird, müsst ihr im Anschluss einen etwas umfangreicheren formalen Antrag gemäß der Förderrichtlinie des BMBF einreichen. Wir helfen euch selbstverständlich bei der Antragstellung und richten dazu einen gemeinsamen Antragsworkshop aus."
+
+- name: Von wann bis wann kann ich mich bewerben?
+  tags: ["bewerbung"]
+  summary: "Der Bewerbungszeitraum für den Jahrgang 2025 beginnt am 01. November 2024 und endet am 02. Januar 2025."
+
+- name: Kann ich mich auch mit einem bereits bestehenden Projekt bewerben?
+  tags: ["bewerbung"]
+  summary: "Ja, euer Vorhaben für den Prototype Fund sollte aber innerhalb deines Projekts klar abgrenzbar sein und einen eigenständigen Neuheitsgrad haben, z. B. wenn ihr vorhabt, euer Projekt um ein Modul zu erweitern oder zu ergänzen. In jedem Fall muss klar erkennbar sein, was in den 6 Monaten erarbeitet wird."
+
+- name: Kann ich mich mit einer Idee für Open Hardware bewerben?
+  url: "https://hardware.prototypefund.de/"
+  tags: ["bewerbung"]
+  summary: "Nein. Es wird ausschließlich Open-Source-Software gefördert. Mit einer Idee für Open Hardware konntet ihr euch 2022 erstmals beim Prototype Fund Hardware bewerben."

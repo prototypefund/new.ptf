@@ -1,0 +1,19 @@
+# section information
+section:
+  name: Second Stage?
+  id: secondstage
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  template: sections/mdifyl.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  # Can optionally show button:
+resourceLinks:
+  - title: "Mehr Infos im Blog"
+    url: "https://prototypefund.de/BLOGBEITRAG"
+
+
+summary: |
+  Ja, man kann jetzt auch länger als sechs Monate gefördert werden. Viele Projekte brauchen das auch, um...
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.

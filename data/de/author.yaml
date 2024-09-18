@@ -1,0 +1,27 @@
+# some information about you
+name: "Prototype Fund"
+nickname: "Prototype Fund"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: " "
+image: "images/ptf-author.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  1_email: "info@prototypefund.de"
+  # phone: ""
+
+  3_linkedin: prototype-fund
+  2_mastodon: prototypefund
+  4_github: prototypefund
+
+  # researchgate: Prototype-Fund
+
+# some summary about what you do
+summary:
+  - Jetzt bewerben!
+  - Wir entwickeln deine Idee
+  - Entwickel deine Projektidee
+  - Dein Projekt entwickeln
+  - Von der Idee zum Prototypen
+  - Von der Idee zum Software-Prototypen.
+  - Prototypen entwickeln – Infrastruktur schaffen.
+  - Bewerbungen bis zum 02. Januar 2025 möglich!

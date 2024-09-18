@@ -1,0 +1,34 @@
+/* override this file for custom css */
+
+/* you can import bootstrap mixins */
+// @import 'bootstrap/scss/mixins';
+// Example usage
+// .some-class {
+//   @include media-breakpoint-up(sm) {
+//     // Larger than sm: 576px
+//     display: inline;
+//   }
+//   @include media-breakpoint-down(md) {
+//     // Smaller than md: 768px
+//     display: block;
+//   }
+// }
+
+.body {
+  @font-face {
+      font-family: surt;
+      src: url("./fonts/Surt-Bold.otf") format("opentype");
+      font-weight: bold;
+  }
+
+  @font-face {
+      font-family: surt;
+      src: url("./fonts/Surt-Regular.otf") format("opentype");
+      font-weight: normal;
+  }
+}
+
+body {
+  font-family: surt;
+  font-weight: normal;
+}
