@@ -22,3 +22,11 @@ Aufgerufen werden sie dann mit /images/image.svg
 ## Anpassungen
 
 Viele Custom SCSS und angepasste HTML. z.T. nicht so sauber, work in Progress.
+
+#### Farben
+
+Können in /assets/styles/variables.scss verändert werden - einige Anpassungen funktionieren (visuell) nur, wenn an den richtigen Stellen gleiche Farben genutzt werden.
+
+#### Fonts
+
+Liegen in /static/fonts. Werden in /assets/styles/overide.scss eingebunden.
