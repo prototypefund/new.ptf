@@ -61,19 +61,6 @@
 @import './sections/footer';
 
 
-@font-face {
-    font-family: 'surt';
-    src: url("./fonts/Surt-Bold.otf") format("opentype");
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'surt';
-    src: url("./fonts/Surt-Regular.otf") format("opentype");
-    font-weight: normal;
-}
-
-
 
 // override
 @import './override';
