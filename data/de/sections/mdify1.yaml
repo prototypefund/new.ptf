@@ -13,6 +13,8 @@ section:
   - title: "Zur Bewerbungsplattform"
     url: "https://LINK.com"
 
+#Can optionally show tagline:
+# tagline: "Test-Tagline!"
 
 summary: |
   Auch den Prototype Fund selbst verstehen wir als Prototypen.
