@@ -85,22 +85,18 @@
             {{ range $key,$value:= $author.contactInfo }}
               {{ if (eq $key "1_email") }}
                 <a href={{ printf "mailto:%s" $value }} target="_blank" rel="noopener">
-                  <i class="fas fa-envelope"></i>
-                </a>
+                  <i class="fas fa-envelope"></i></a>
               {{ else if (eq $key "phone") }}
                 <span><i class="fas fa-phone-alt"></i></span> <span>{{ $value }}</span>
               {{ else if (eq $key "2_mastodon") }}
                 <a href={{ printf "https://mastodon.social/@%s" $value }} target="_blank" rel="noopener">
-                  <i class="fab fa-mastodon"></i>
-                </a>
+                  <i class="fab fa-mastodon"></i></a>
               {{ else if (eq $key "3_linkedin") }}
                 <a href={{ printf "https://www.linkedin.com/company/%s" $value }} target="_blank" rel="noopener">
-                  <i class="fab fa-linkedin"></i>
-                </a>
+                  <i class="fab fa-linkedin"></i></a>
               {{ else if (eq $key "4_github") }}
                 <a href={{ printf "https://github.com/%s" $value }} target="_blank" rel="noopener">
-                  <i class="fab fa-github"></i>
-                </a>
+                  <i class="fab fa-github"></i></a>
               {{ end }}
             {{ end }}
           </ul>

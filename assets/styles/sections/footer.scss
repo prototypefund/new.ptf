@@ -20,17 +20,6 @@
     }
   }
 
-  i {
-    color: get-light-color('bg-primary-inverse');
-    @include transition();
-    &:hover {
-      color: get-light-color('accent-color');
-      -webkit-text-decoration: none;
-              text-decoration: none;
-      @include transition();
-    }
-  }
-
   h5 {
     color: get-light-color('bg-primary-inverse');
   }
