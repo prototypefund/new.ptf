@@ -4,9 +4,6 @@
   position: relative;
   z-index: 9999;
 
-  h5 {
-    color: get-light-color('bg-primary-inverse');
-  }
 
   img {
     padding: 10px;
@@ -16,12 +13,28 @@
     color: get-light-color('bg-primary-inverse');
     @include transition();
     &:hover {
-      margin-left: 5px;
-      -webkit-text-decoration: get-light-color('bg-primary-inverse') underline;
-              text-decoration: get-light-color('bg-primary-inverse') underline;
+      color: get-light-color('accent-color');
+      -webkit-text-decoration: get-light-color('accent-color') underline;
+              text-decoration: get-light-color('accent-color') underline;
       @include transition();
     }
   }
+
+  i {
+    color: get-light-color('bg-primary-inverse');
+    @include transition();
+    &:hover {
+      color: get-light-color('accent-color');
+      -webkit-text-decoration: none;
+              text-decoration: none;
+      @include transition();
+    }
+  }
+
+  h5 {
+    color: get-light-color('bg-primary-inverse');
+  }
+
 
   ul {
     list-style: none;

@@ -85,42 +85,27 @@
             {{ range $key,$value:= $author.contactInfo }}
               {{ if (eq $key "1_email") }}
                 <a href={{ printf "mailto:%s" $value }} target="_blank" rel="noopener">
-                  <span><i class="fas fa-envelope"></i></span>
+                  <i class="fas fa-envelope"></i>
                 </a>
               {{ else if (eq $key "phone") }}
-                <li><span><i class="fas fa-phone-alt"></i></span> <span>{{ $value }}</span></li>
+                <span><i class="fas fa-phone-alt"></i></span> <span>{{ $value }}</span>
               {{ else if (eq $key "2_mastodon") }}
                 <a href={{ printf "https://mastodon.social/@%s" $value }} target="_blank" rel="noopener">
-                  <span><i class="fab fa-mastodon"></i></span>
+                  <i class="fab fa-mastodon"></i>
                 </a>
               {{ else if (eq $key "3_linkedin") }}
                 <a href={{ printf "https://www.linkedin.com/company/%s" $value }} target="_blank" rel="noopener">
-                  <span><i class="fab fa-linkedin"></i></span>
+                  <i class="fab fa-linkedin"></i>
                 </a>
               {{ else if (eq $key "4_github") }}
                 <a href={{ printf "https://github.com/%s" $value }} target="_blank" rel="noopener">
-                  <span><i class="fab fa-github"></i></span>
+                  <i class="fab fa-github"></i>
                 </a>
-              {{ else if reflect.IsMap $value }}
-                <li>
-                  {{ if (and (isset $value "url") (isset $value "icon"))}}
-                  <a href={{ $value.url }} target="_blank" rel="noopener">
-                    <span><i class={{ printf "fab fa-%s" $value.icon }}></i></span> <span>{{ $value.text }}</span>
-                  </a>
-                  {{ else if isset $value "icon" }}
-                    <span><i class={{ printf "fab fa-%s" $value.icon }}></i></span> <span>{{ $value.text }}</span>
-                  {{ else }}
-                    <a href={{ $value.url }} target="_blank" rel="noopener">
-                      <span>{{ title $key }}: </span> <span>{{ $value.text }}</span>
-                    </a>
-                  {{ end }}
-                </li>
-              {{ else }}
-                <li><span>{{ title $key }}: </span> <span>{{ $value }}</span></li>
               {{ end }}
             {{ end }}
           </ul>
         </div>
+
         {{ end }}
         <div class="col-md-2 col-sm-12">
           <img src="{{ $bmbfLogo }}" alt = "Gefördert vom Bundesministerium für Bildung und Forschung" href="https://www.bmbf.de">
