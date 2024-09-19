@@ -24,7 +24,7 @@ module:
     target: static/files
   - source: ./node_modules/flag-icon-css/flags
     target: static/flags
-  - source: ./node_modules/katex/dist/fonts
+  - source: static/fonts
     target: static/fonts
 
 # Manage languages
