@@ -7,33 +7,15 @@ section:
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
-summary: "Diese Expert*innen unterstützen uns mit ihrem Wissen und Erfahrungsschatz in den Bereichen Civic Tech, Open Data, IT-Sicherheit, Infrastruktur und Open Source, indem sie die zahlreichen Einreichungen hinsichtlich Erfolgsaussichten und Sinnhaftigkeit bewerten und eine Empfehlung abgeben, auf Grundlage derer das BMBF die Förderentscheidung trifft."
+summary: |
+  Die Auswahl der Förderentscheidung durch das BMBF basiert auf einer Empfehlung unserer Jury. Diese unterstützt uns mit ihrem Wissen und Erfahrungsschatz in den Bereichen IT-Sicherheit, Infrastruktur, Software-Bausteine und Open Source. Die Jury bewertet die zahlreichen Einreichungen hinsichtlich Erfolgsaussichent, Sinnhaftigkeit und gesellschaftlichem Mehrwert.
+  Momentan können wir die finale Besetzung der Jury noch nicht bekannt geben – ihr erfahrt es so schnell wie möglich hier auf der Webseite, auf [Mastodon](https://mastodon.social/@PrototypeFund) und [LinkedIn](https://www.linkedin.com/company/prototype-fund/) oder in unserem [Newsletter](https://prototypefund.de/newsletter/).
 
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
+
 skills:
-- name: Anna Biselli
-  summary: "Anna ist Journalistin und schreibt über Digitales, vor allem bei netzpolitik.org – seit 2022 als Chefredakteurin. Nach dem Studium im Bereich Informatik wurde sie Teil der Redaktion von netzpolitik.org und hat seitdem für zahlreiche renommierte deutsche Medien über Technik geschrieben. Am liebsten beschäftigt sie sich mit Datenschutz und spielt den Technik-Erklärbär."
-  url: https://netzpolitik.org/author/anna/
-
-- name: Markus Drenger
-  summary: "Markus Drenger ist IT-Sicherheitsexperte und arbeitet derzeit als Berater bei HI Solutions AG. Zuvor war er als Referent für Netzpolitik für die Fraktion Bündnis 90/ Die Grünen im Deutschen Bundestag tätig. Er ist in verschiedenen Communities rund um den CCC sehr aktiv, wo er sich für offene Daten einsetzt und unter anderem daran gearbeitet hat, die Risiken des elektronischen Anwaltspostfachs und der elektronischen Patientenakte zu analysieren."
-
-- name: Lisa Gutermuth
-  summary: "Lisa Gutermuth ist Programmverantwortliche beim Data Futures Lab der Mozilla Foundation. Das Data Futures Lab ist ein Experimentierraum für neue Lösungsansätze für den Umgang mit und dem Schutz von Daten im digitalen Raum. Vor ihrer Zeit beim Data Futures Lab war Lisa Programm-Managerin bei Ranking Digital Rights und Projektkoordinatorin beim Tactical Technology Collective. Sie hat hauptsächlich an Projekten zur digitalen Sicherheit gearbeitet (wie z. B. Security in a Box) sowie an Projekten, die digitale Tools und offene Daten für bürgerorientierte Interessenvertretung und OSINT nutzen."
-  url: https://twitter.com/gutermul?lang=de
-
-- name: Lars Hohl
-  summary: "Lars Hohl (derPUPE) arbeitet aktuell als Information Security Manager bei der Deutschen Bahn AG und ist langjähriger Open-Source-Fürsprecher. Seit über 25 Jahren ist er in verschiedenen IT- und Management-Positionen innerhalb von großen Unternehmen und Institutionen tätig und interessiert sich besonders für die Schnittstellen zwischen Technik, Prozessen und Menschen. Ihn treibt sowohl beruflich wie auch privat das Thema IT-Sicherheit mit gelebtem Datenschutz an und bringt sich damit bei mehreren zivilgesellschaftlichen Organisationen ein."
-  url: https://www.linkedin.com/in/lars-hohl-89265a20/
-
-- name: Jana Kludas
-  summary: "Jana Kludas ist Lead Data Scientist bei der msg systems ag, wo sie sich als Consultant mit Data Science im öffentlichen Sektor beschäftigt. Zuvor hat sie zu Machine Learning, künstlichen neuronalen Netzwerken und Künstlicher Intelligenz geforscht."
-
-- name: Dr. Irmhild Rogalla
-  summary: "Dr. Irmhild Rogalla ist Mitglied im Leitungsteam des Instituts für Digitale Teilhabe (IDT) an der Hochschule Bremen und Leiterin des Instituts für praktische Interdiziplinarität. Ihre wesentlichen Themen sind „Digitalisierung und Arbeit“ sowie „Digitale Barrierefreiheit.“ Aus Überzeugung ist sie seit Jahrzehnten Nutzerin von FOSS und engagiert sich insbesondere in der LibreOffice Community."
-
-- name: Prof. Dr. Sebastian Meier
-  summary: "Sebastian Meier ist Professor im Fachbereich Design für die Gestaltung von Wissensvermittlung an der Fachhochschule Potsdam. Er engagiert sich im Bereich Open Data und setzt sich für offene Software in Verwaltung und Hochschulen ein. In seiner Arbeit und Forschung fokussiert er sich besonders auf barrierearme und interaktive Formen der Wissensvermittlung und Open Educational Ressources."
-  url: https://www.fh-potsdam.de/hochschule-netzwerk/personen/sebastian-meier
+#- name:
+#  summary:
+#  url:

@@ -8,10 +8,10 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Deine Idee wird
+designation: Hier kommt die Tagline hin.
 # your company information
-company:
-  name: uns gefördert
+# company:
+#  name: uns gefördert
 #  url: "https://www.example.com"
 
 # a summary about you
