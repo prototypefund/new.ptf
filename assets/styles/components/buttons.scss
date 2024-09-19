@@ -23,13 +23,15 @@
 }
 
 .btn-outline-info {
-  color: get-light-color('accent-color') !important;
-  border-color: get-light-color('accent-color') !important;
+  color: get-light-color('main-color') !important;
+  border-color: get-light-color('main-color') !important;
 
   &:hover,
   &:focus {
     background-color: get-light-color('accent-color') !important;
+    border-color: get-light-color('accent-color') !important;
     color: get-light-color('bg-primary') !important;
+    text-decoration: none;
   }
 }
 

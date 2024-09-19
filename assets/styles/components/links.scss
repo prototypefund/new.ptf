@@ -1,16 +1,19 @@
 a {
-  color: get-light-color('accent-color');
+  //falls wie auf ptf.de: durch 'text-color' ersetzen
+  color: get-light-color('main-color');
   @include transition();
 
   &:link {
     text-decoration: none;
+    //falls wie auf ptf.de:
+    //text-decoration: get-light-color('text-color') underline;
   }
 
   &:hover,
   &:focus {
-    -webkit-text-decoration: get-light-color('hover-over-accent-color') underline;
-            text-decoration: get-light-color('hover-over-accent-color') underline;
-    color: get-light-color('hover-over-accent-color');
+    -webkit-text-decoration: get-light-color('accent-color') underline;
+            text-decoration: get-light-color('accent-color') underline;
+    color: get-light-color('accent-color');
     @include transition();
   }
 }
