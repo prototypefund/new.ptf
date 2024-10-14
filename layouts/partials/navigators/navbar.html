@@ -136,8 +136,11 @@
               </li>
             {{ end }}
         {{ end }}
+        {{ if $shouldAddSeparator }}
+          <div id="top-navbar-divider"></div>
+        {{ end }}
         {{ if .IsTranslated }}
-          {{ partial "navigators/lang-selector.html" . }}
+            {{ partial "navigators/lang-selector.html" . }}
         {{ end }}
         {{ if or site.Params.features.darkMode.enable site.Params.features.theme.enable }}
           {{ partial "navigators/theme-selector.html" . }}
