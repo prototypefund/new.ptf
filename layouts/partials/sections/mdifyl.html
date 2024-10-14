@@ -9,13 +9,14 @@
     <div class="col-md-4 align-self-center">
       {{ if not (.section.hideTitle) }}
         <h1 class="text-center">
-            <span id="{{ $sectionID }}"></span>{{ .section.name }}</h1>
+            {{ .section.name }}</h1>
       {{ else }}
         <h1 class="text-center" style="display: none">
-            <span id="{{ $sectionID }}"></span>{{ .section.name }}</h1>
+            {{ .section.name }}</h1>
       {{ end }}
     </div>
     <div class="col-md">
+      <span id="{{ $sectionID }}"></span><h3> {{ .tagline | markdownify }} </h3>
       <p class="p-1 text-justify">
         {{ .summary | markdownify }}
 
@@ -25,7 +26,6 @@
         ><button class="btn btn-dark">{{ .title }}</button></a
       >
       {{ end }}
-      <h3> {{ .tagline | markdownify }} </h3>
     </div>
   </div>
 </div>

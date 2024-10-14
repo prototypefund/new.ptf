@@ -1,19 +1,16 @@
 # section information
 section:
   name: Jury
+  navbar: Jury
   id: jury
-  enable: true
+  enable: false
   weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 summary: |
-  Die Auswahl der Förderentscheidung durch das BMBF basiert auf einer Empfehlung unserer Jury. Diese unterstützt uns mit ihrem Wissen und Erfahrungsschatz in den Bereichen IT-Sicherheit, Infrastruktur, Software-Bausteine und Open Source. Die Jury bewertet die zahlreichen Einreichungen hinsichtlich Erfolgsaussichent, Sinnhaftigkeit und gesellschaftlichem Mehrwert.
-  Momentan können wir die finale Besetzung der Jury noch nicht bekannt geben – ihr erfahrt es so schnell wie möglich hier auf der Webseite, auf [Mastodon](https://mastodon.social/@PrototypeFund) und [LinkedIn](https://www.linkedin.com/company/prototype-fund/) oder in unserem [Newsletter](https://prototypefund.de/newsletter/).
-
-
-# Your Skills.
-# Give a summary of you each skill in the summary section.
+  Die Auswahl der Förderentscheidung durch das BMBF basiert auf einer Empfehlung unserer Jury. Diese unterstützt uns mit ihrem Wissen und Erfahrungsschatz in den Bereichen IT-Sicherheit, Infrastruktur, Software-Bausteine und Open Source. Die Jury bewertet die zahlreichen Einreichungen hinsichtlich Erfolgsaussichen, Sinnhaftigkeit und gesellschaftlichen Mehrwert.
+  Momentan können wir die finale Besetzung der Jury noch nicht bekannt geben – ihr erfahrt es bald hier.
 
 skills:
 #- name:

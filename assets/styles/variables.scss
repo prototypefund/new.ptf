@@ -24,14 +24,14 @@ $box-shadow: 0px 8px 56px rgba(15, 80, 100, 0.16);
 $themes: (
   'light': (
     // ptf-blau (wird noch nicht verwendet)
-    'main-color': #0050D1,
+    'main-color': #001775,
     // ptf-lila
-    'accent-color': #D33BDB,
+    'accent-color': #9800ad,
     // arbeitsgrün: #64DB30,
     //ptf-blau
-    'hover-over-accent-color': #0050D1,
+    'hover-over-accent-color': #001775,
     // ptf-blau
-    'text-over-accent-color': #0050D1,
+    'text-over-accent-color': #001775,
     // weiß
     'bg-primary': #FFFFFF,
     // schwarz
@@ -41,13 +41,13 @@ $themes: (
     // weiß
     'bg-card': #FFFFFF,
     // ptf-blau
-    'heading-color': #0050D1,
+    'heading-color': #001775,
     // ptf-blau oder schwarz? #000000
     'text-color': #000000,
     // ptf-blau
-    'inverse-text-color': #0050D1,
+    'inverse-text-color': #001775,
     // ptf-lila
-    'muted-text-color': #D33BDB,
+    'muted-text-color': #9800ad,
     // red 600
     'inline-code-color': #dc2626,
     // amber 200

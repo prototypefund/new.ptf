@@ -1,6 +1,7 @@
 # section information
 section:
   name: Second Stage?
+  navbar: Second Stage
   id: secondstage
   enable: true
   weight: 3
@@ -15,5 +16,6 @@ resourceLinks:
 
 
 summary: |
-  Ja, man kann jetzt auch länger als sechs Monate gefördert werden. Viele Projekte brauchen das auch, um...
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+  In der Technologie- sowie im speziellen der FOSS-Förderung gibt es ein Problem: Innovationen werden gut und gerne finanziert, nur bleibt oft offen, wie es danach weitergeht. Wenige Technologien sind nach der initialen Finanzierung so weit, dass sie in den Produktivbetrieb gehen und sich selbst finanzieren können. Deswegen bieten wir mit der Second-Stage die Möglichkeit, weitere vier Monate an der nachhaltigen Absicherung des Projektes zu arbeiten. Dies geschieht z. B. duch Community-Aufbau, Verbreitung und Verbesserung der Nutzbarkeit der Software oder durch Aufbau z. B. einer Vereinsstruktur. Dafür nehmen die Geförderten an Gründungscoachings teil, betreiben Öffentlichkeitsarbeit, führen User Tests durch oder kümmern sich um die Dokumentation ihrer Arbeit – ganz abhängig davon, was das einzelne Projekt braucht.
+
+  Schon bei der initialen Bewerbung könnt ihr angeben, dass ihr mit eurem Projekt in der Second Stage gefördert werden wollt. Drei Monate nach Beginn der regulären Förderphase folgt ein niedrigschwelliges Bewerbungs- und Auswahlverfahren, in dem 10-15 Projekte ausgewählt werden.

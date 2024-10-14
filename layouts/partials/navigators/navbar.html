@@ -85,7 +85,7 @@
 
     <div class="collapse navbar-collapse dynamic-navbar" id="top-nav-items">
       <ul class="nav navbar-nav ms-auto">
-        
+
         {{ if $sections }}
           {{ $sectionCount := 1 }}
           {{ range sort $sections "section.weight" }}
@@ -93,7 +93,7 @@
               {{ $sectionCount  = add $sectionCount 1}}
               {{ if le $sectionCount $maxVisibleSections }}
                 <li class="nav-item">
-                  <a class="nav-link" href="{{ partial "helpers/get-section-url.html" . }}">{{ .section.name }}</a>
+                  <a class="nav-link" href="{{ partial "helpers/get-section-url.html" . }}">{{ .section.navbar }}</a>
                 </li>
               {{ end }}
             {{ end }}

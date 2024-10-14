@@ -1,7 +1,8 @@
 # section information
 section:
   name: Kurz & Knapp
-  id: about
+  navbar: Kurz & Knapp
+  id: kurzundknapp
   enable: true
   weight: 1
   showOnNavbar: true
@@ -15,7 +16,10 @@ designation: Hier kommt die Tagline hin.
 #  url: "https://www.example.com"
 
 # a summary about you
-summary: "Der Prototype Fund ist das erste niedrigschwellige Förderprogramm für freie Entwickler*innen und kleine Teams, die innovative Open-Source-Software entwickeln. Seit 2016 haben wir in acht Jahren fast 400 Projekte gefördert. Dabei haben wir als lernendes Förderprogramm immer wieder Anpassungen vorgenommen, um effizienter und wirkungsvoller zu werden. Nun gehen wir den nächsten Schritt und strukturieren einiges um. Für die zukünftigen Förderphasen konzentrieren wir uns auf die Förderschwerpunkte Datensicherheit und Softwarebausteine."
+summary: |
+  Der Prototype Fund ist das erste niedrigschwellige Förderprogramm für freie Entwickler*innen und kleine Teams, die innovative Open-Source-Software entwickeln. Seit 2016 haben wir in acht Jahren fast 400 Projekte gefördert. Dabei haben wir als lernendes Förderprogramm immer wieder Anpassungen vorgenommen, um effizienter und wirkungsvoller zu werden. Nun gehen wir den nächsten Schritt und strukturieren einiges um. Für die zukünftigen Förderphasen konzentrieren wir uns auf die Förderschwerpunkte Datensicherheit und Softwarebausteine.
+
+  Bewerbt euch mit euren Ideen für innovative Open-Source-Software mit einem Mehrwert für die Gesellschaft! Als Einzelperson erhaltet ihr bis zu 47.500 € für sechs Monate oder 79.167 € für zehn Monate. In Teams von bis zu vier Personen erhaltet ihr bis zu 95.000 € für sechs Monate oder 158.333 € für zehn Monate. Außerdem versorgen wir euch mit Coachings, Beratungs- und Vernetzungsangeboten.
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
@@ -47,6 +51,6 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "Zur Bewerbungsplattform"
-  url: "https://LINK.com"
+  url: "https://bewerben.prototypefund.de"
 - title: "Mehr Informationen im Blog"
   url: "https://prototypefund.de"
