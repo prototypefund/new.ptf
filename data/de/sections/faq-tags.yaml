@@ -47,13 +47,16 @@ projects:
     Werkzeuge mit Fokus auf Privatsphäre, sichere Kommunikation bzw. Datenübertragung und Datensparsamkeit.
 
     [Softwareinfrastruktur](https://prototypefund.de/softwareinfrastruktur/):\
-    Software-Pakete oder standardisierte Implementierungen von Protokollen, die nötig sind, um Anwendungen zu schreiben und zu betreiben. Die “Plattenbauelemente der Informationstechnik” werden von Entwickler\*innen eingesetzt, um Arbeitsschritte einzusparen.
+    Software-Pakete oder standardisierte Imple&shy;mentierungen von Protokollen, die nötig sind, um Anwendungen zu schreiben und zu betreiben. Die “Plattenbauelemente der Informationstechnik” werden von Entwickler\*innen eingesetzt, um Arbeitsschritte einzusparen.
 
 - name: Wie sieht der zeitliche Ablauf aus?
   url: "#timeline"
   tags: ["grundlagen"]
   summary: |
-    Die Einreichungsphase läuft jeweils über 2 Monate. Wir geben euch gute 8 Wochen nach Einreichungsschluss – d. h. im März 2025 (Februar 2026) – Bescheid, ob die Jury euer Projekt zur Förderung  vorgeschlagen hat. Wichtig: Wir bitten, von Anfragen zum Stand der Anträge vor Anfang März abzusehen. Alle ausgewählten Projekte, bzw. eine Person pro Team, laden wir zu einem  Antragsworkshop per Videocall ein. An diesem Tag (Mitte März) erhaltet ihr Unterstützung bei der Erstellung des formalen Antrags. Dieser wird dann über den Projektträger DLR beim Bundesministerium für Bildung  und Forschung eingereicht, welches die finale Entscheidung über die  Förderung trifft. Der endgültige Zuwendungsbescheid des Ministeriums trifft in Ausnahmefällen aufgrund notwendiger Bearbeitungszeiten erst zum Förderstart selbst ein. Bedenkt dies, falls ihr beispielsweise Änderungen der Arbeitszeit mit Arbeitgebern o. Ä. verabreden wollt.
+    Die Einreichungsphase läuft jeweils über 2 Monate. Wir geben euch gute 8 Wochen nach Einreichungsschluss – d. h. im März 2025 (Februar 2026) – Bescheid, ob die Jury euer Projekt zur Förderung  vorgeschlagen hat.\
+    **Wichtig**: Wir bitten, von Anfragen zum Stand der Anträge vor Anfang März abzusehen.
+
+    Alle ausgewählten Projekte, bzw. eine Person pro Team, laden wir zu einem  Antragsworkshop per Videocall ein. An diesem Tag (Mitte März) erhaltet ihr Unterstützung bei der Erstellung des formalen Antrags. Dieser wird dann über den Projektträger DLR beim Bundesministerium für Bildung  und Forschung eingereicht, welches die finale Entscheidung über die  Förderung trifft. Der endgültige Zuwendungsbescheid des Ministeriums trifft in Ausnahmefällen aufgrund notwendiger Bearbeitungszeiten erst zum Förderstart selbst ein. Bedenkt dies, falls ihr beispielsweise Änderungen der Arbeitszeit mit Arbeitgebern o. Ä. verabreden wollt.
 
 - name: Warum werden ausschließlich Open-Source-Projekte gefördert?
   tags: ["grundlagen"]
@@ -88,8 +91,8 @@ projects:
 - name: Wie aufwändig ist der Bewerbungsprozess?
   tags: ["bewerbung"]
   summary: |
-    Nicht aufwändig. Über das Bewerbungsformular (schematische Darstellung hier) könnt ihr der Jury im ersten Schritt kurz und klar beschreiben, was ihr umsetzen möchtet: In prägnanten Texten, die den Kern deiner Idee erklären und die Verbindung zu unseren geförderten Schwerpunkten deutlich machen.\
-    Falls euer Projekt von der Jury ausgewählt wird, müsst ihr im Anschluss einen etwas umfangreicheren formalen Antrag gemäß der Förderrichtlinie des BMBF einreichen. Wir helfen euch bei der Antragstellung und richten dazu einen gemeinsamen Antragsworkshop aus.
+    Nicht aufwändig. Über das Bewerbungsformular (schematische Darstellung hier) könnt ihr der Jury im ersten Schritt kurz und klar beschreiben, was ihr umsetzen möchtet: In prägnanten Texten, die den Kern deiner Idee erklären und die Verbindung zu uns&shy;eren geförderten Schwerpunkten deutlich machen.\
+    Falls euer Projekt von der Jury ausgewählt wird, müsst ihr im Anschluss einen etwas umfang&shy;reicheren formalen Antrag gemäß der Förderrichtlinie des BMBF einreichen. Wir helfen euch bei der Antragstellung und richten dazu einen gemeinsamen Antragsworkshop aus.
 
 - name: Von wann bis wann kann ich mich bewerben?
   tags: ["bewerbung"]
@@ -113,12 +116,13 @@ projects:
   url: "https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/In-der-Rente/Hinzuverdienst-und-Einkommensanrechnung/hinzuverdienst-und-einkommensanrechnung_node.html"
   tags: ["bewerbung"]
   summary: |
-    Als Studierende müsst ihr die [Werkstudentenregelung](https://www.mystipendium.de/werkstudent/werkstudent-arbeitszeit) beachten: Ihr könnt neben einem Vollzeitstudium **nicht** Vollzeit am Projekt arbeiten sondern nur im Umfang von max. 20h/Woche während der Semesterlaufzeit für 6 Monate. Für Förderinteressierte im Rentenalter gilt: Nur wer die sogenannte [Regelaltersgrenze](https://www.finanztip.de/gesetzliche-rentenversicherung/) erreicht hat, darf zur gesetzlichen Rente **unbegrenzt dazuverdienen**. Die Regelaltersgrenze ist im Sozialgesetzbuch VI definiert ([§ 35 Satz 2 SGB VI](http://www.gesetze-im-internet.de/sgb_6/__35.html)) und wird mit Vollendung des **67. Lebensjahres** erreicht. Wer früher in die Rente eingetreten ist, für den gelten Verdienstgrenzen.
+    Als Studierende müsst ihr die [Werk&shy;studenten&shy;regelung](https://www.mystipendium.de/werkstudent/werkstudent-arbeitszeit) beachten: Ihr könnt neben einem Voll&shy;zeit&shy;studium **nicht** Vollzeit am Projekt arbeiten sondern nur im Umfang von max. 20h/Woche während der Semester&shy;laufzeit für 6 Monate.\
+    Für Förderinteressierte im Rentenalter gilt: Nur wer die sogenannte [Regelaltersgrenze](https://www.finanztip.de/gesetzliche-rentenversicherung/) erreicht hat, darf zur gesetzlichen Rente **unbegrenzt dazuverdienen**. Die Regelaltersgrenze ist im Sozialgesetzbuch VI definiert ([§ 35 Satz 2 SGB VI](http://www.gesetze-im-internet.de/sgb_6/__35.html)) und wird mit Vollendung des **67. Lebensjahres** erreicht. Wer früher in die Rente eingetreten ist, für den gelten Verdienstgrenzen.
 
 - name: Wer ist nicht antragsberechtigt?
   tags: ["bewerbung"]
   summary: |
-    Unternehmen, Hochschulen, außeruniversitäre Forschungseinrichtungen und sonstige Institutionen und Vereine sind nicht antragsberechtigt.
+    Unternehmen, Hochschulen, außer&shy;universitäre For&shy;schungs&shy;einrichtungen und sonstige Institutionen und Vereine sind nicht antragsberechtigt.
 
 - name: Kann ich mich mit demselben Projekt erneut bewerben, wenn ich schon mal abgelehnt wurde?
   tags: ["bewerbung"]
@@ -134,7 +138,7 @@ projects:
   #url:
   tags: ["bewerbung"]
   summary: |
-    Beantworte alle Fragen auf unserer Bewerbungsplattform und klicke anschließend auf „submit for review“. Du erhältst danach eine automatische E-Mail, um dir Passwort für die Bewerbungsplattform zu setzen.
+    Beantworte alle Fragen auf unserer Bewerbungs&shy;plattform und klicke anschließend auf „submit for review“. Du erhältst danach eine automatische E-Mail, um dir Passwort für die Bewerbungsplattform zu setzen.
 
     Falls du Unterstützung benötigst oder etwas nicht einwandfrei funktioniert, erreichst du uns hier: info@prototypefund.de.
 
@@ -149,15 +153,15 @@ projects:
 - name: Wie setzt sich die Fördersumme zusammen und wie hängt diese mit den Gesamtarbeitsstunden zusammen?
   tags: ["bewerbung"]
   summary: |
-    Die Maximalfördersumme vom 95.000 € für Teams berechnet sich angelehnt an die Gesamtarbeitsstundenzahl von zwei Vollzeitstellen, das heißt zweimal 950 Arbeitsstunden mit einem Stundensatz von max. 50 € für die gesamte Förderlaufzeit. Für Einzelpersonen liegt die maximale Fördersumme bei 47.500 €, also einer Vollzeitstelle mit 950 Arbeitsstunden zu je max. 50€. Wenn der Stundensatz höher liegen soll, muss die Stundenzahl entsprechend verringert werden – außerdem müsst ihr uns über Rechnungen nachweisen, dass ihr als freie Entwickler\*innen höhere Stundenlöhne (maximal 150 €) erzielt habt. Teams benennen und bepreisen Arbeitspakete, die addiert nicht den Umfang der Höchstfördersumme (s. o.) überschreiten dürfen. Die Summen für die Second Stage sind jeweils angelehnt an eine bzw. zwei Vollzeitstellen mit 4 Monaten Laufzeit. Zu beachten ist, dass der Stundenlohn in der Second Stage auf 50 € gedeckelt ist.
+    Die Maximalfördersumme vom 95.000 € für Teams berechnet sich angelehnt an die Gesamt&shy;arbeits&shy;stunden&shy;zahl von zwei Vollzeitstellen, das heißt zweimal 950 Arbeits&shy;stunden mit einem Stundensatz von max. 50 € für die gesamte Förderlaufzeit. Für Einzelpersonen liegt die maximale Fördersumme bei 47.500 €, also einer Vollzeitstelle mit 950 Arbeitsstunden zu je max. 50€. Wenn der Stundensatz höher liegen soll, muss die Stundenzahl entsprechend verringert werden – außerdem müsst ihr uns über Rechnungen nachweisen, dass ihr als freie Entwickler\*innen höhere Stundenlöhne (maximal 150 €) erzielt habt. Teams benennen und bepreisen Arbeitspakete, die addiert nicht den Umfang der Höchstfördersumme (s. o.) überschreiten dürfen. Die Summen für die Second Stage sind jeweils angelehnt an eine bzw. zwei Vollzeitstellen mit 4 Monaten Laufzeit. Zu beachten ist, dass der Stundenlohn in der Second Stage auf 50 € gedeckelt ist.
 
-    Die angegebene Stundenzahl muss in einem angemessenen Verhältnis zur Projektidee stehen. Macht euch im Vorfeld Gedanken, wie viel Zeit ihr sinnvollerweise investieren müsst, um den vorgeschlagenen Prototypen umzusetzen. Die realistische Planung des Projektumfangs zählt auch zu den Bewertungskriterien der Jury. Wenn ihr neben der Förderung durch den Prototype Fund in Teilzeit angestellt seid, bestimmen die Gesetze zum Arbeitsschutz die Begrenzung der Stunden nach oben.
+    Die angegebene Stundenzahl muss in einem angemessenen Verhältnis zur Projektidee stehen. Macht euch im Vorfeld Gedanken, wie viel Zeit ihr sinnvollerweise investieren müsst, um den vorge&shy;schlagenen Prototypen umzusetzen. Die realistische Planung des Projektumfangs zählt auch zu den Bewertungskriterien der Jury. Wenn ihr neben der Förderung durch den Prototype Fund in Teilzeit angestellt seid, bestimmen die Gesetze zum Arbeitsschutz die Begrenzung der Stunden nach oben.
 
 # Auswahl
 - name: Wer bewertet meine Idee?
   tags: ["auswahl"]
   summary: |
-    Die Förderentscheidung durch das BMBF basiert auf einer Empfehlung unserer Jury. Diese unterstützt uns mit ihrem Wissen und Erfahrungsschatz in den Bereichen IT-Sicherheit, Infrastruktur, Software-Bausteine und Open Source. Die Jury bewertet die zahlreichen Einreichungen hinsichtlich Erfolgsaussichten, Sinnhaftigkeit und gesellschaftlichen Mehrwert.
+    Die Förderentscheidung durch das BMBF basiert auf einer Empfehlung unserer Jury. Diese unterstützt uns mit ihrem Wissen und Erfahrungsschatz in den Bereichen IT-Sicherheit, Infrastruktur, Software-Bausteine und Open Source. Die Jury bewertet die zahlreichen Einreichungen hinsichtlich Erfolgs&shy;aussichten, Sinnhaftigkeit und gesellschaftlichen Mehr&shy;wert.
 
     Die Jury schlägt 25 bis 30 pro Runde zur Förderung vor.
 
@@ -238,9 +242,15 @@ projects:
 - name: Was erwartet mich noch während der Projektlaufzeit?
   tags: ["foerderung"]
   summary: |
-    Der Prototype Fund ist auch ein Forschungsprogramm: Es ist uns wichtig, in regem Austausch mit unseren Projekten zu stehen, um noch besser zu verstehen, wie Entwickler\*innen kooperieren, wie Innovation entsteht und wo wir euch auf diesem Weg besonders unterstützen können. Deswegen gibt es im Lauf der sechs Monate vier Update-Calls, im Zwei-Wochen-Takt kurze schriftliche Updates, zwei ausführlichere Zwischengespräche sowie eine Nachhaltigkeitsevaluation. Wir bitten alle Projekte, den Austausch ernstzunehmen, denn so können wir Problemen schneller begegnen und euch helfen, wenn es nötig ist. Außerdem hilft der Austausch uns, das Programm zu evaluieren und ggf. nachzubessern.
+    Der Prototype Fund ist auch ein Forschungs&shy;programm: Es ist uns wichtig, in regem Austausch mit unseren Projekten zu stehen, um noch besser zu verstehen, wie Entwickler\*innen kooperieren, wie Innovation entsteht und wo wir euch auf diesem Weg besonders unterstützen können. Deswegen gibt es im Lauf der sechs Monate vier Update-Calls, im Zwei-Wochen-Takt kurze schriftliche Updates, zwei ausführlichere Zwischengespräche sowie eine Nachhaltigkeitsevaluation. Wir bitten alle Projekte, den Austausch ernstzunehmen, denn so können wir Problemen schneller begegnen und euch helfen, wenn es nötig ist. Außerdem hilft der Austausch uns, das Programm zu evaluieren und ggf. nachzubessern.
 
-    Das sind die **verpflichtenden Termine für die Geförderten**: Kick-Off-Workshop (ganzer Tag in Berlin, alle Teammitglieder, um den 01.06.), Gruppencalls (4 mal 1 h, je ein Teammitglied), Zwischengespräche (zweimal 1 h, alle Teammitglieder), Demo Day (ganzer Tag in Berlin, alle Teammitglieder, um den 30.11.), Abschlussworkshop der Second Stage (ganzer Tag in Berlin, alle Teammitglieder, um den 30.04.). Eine Übersicht über alle Termine inklusive Bewerbungsphase gibt es hier.
+    Das sind die **verpflichtenden Termine für die Geförderten**:
+    * Kick-Off-Workshop (ganzer Tag in Berlin, alle Teammitglieder, um den 01.06.)
+    * Gruppencalls (4 mal 1 h, je ein Teammitglied), Zwischengespräche (zweimal 1 h, alle Teammitglieder)
+    * Demo Day (ganzer Tag in Berlin, alle Teammitglieder, um den 30.11.)
+    * Abschlussworkshop der Second Stage (ganzer Tag in Berlin, alle Teammitglieder, um den 30.04.)
+
+    Eine Übersicht über alle Termine inklusive Be&shy;werb&shy;ungs&shy;phase gibt es hier.
 
 
 - name: Wie sind die Auszahlungsmodalitäten?
