@@ -217,7 +217,7 @@ projects:
 
     Im 4. Monat der regulären Förderphase reicht ihr die (kurze) Bewerbung für die Second Stage ein. Darauf folgt eine Präsentation vor einem Gremium aus Juror\*innen, Vertreter\*innen des Prototype Fund und des DLR Projektträgers. Im Anschluss an diese Präsentation wird über die Bewilligung der Second Stage-Förderung entschieden.
 
-    In der Second Stage könnt ihr als Team maximal 63.333 € und als Einzelperson maximal 31.667 € beantragen, diese Summen sind angelehnt an zwei bzw. eine Vollzeitstelle über vier Monate.. Der Stundenlohn ist auf 50 € gedeckelt.
+    In der Second Stage könnt ihr als Team maximal 63.333 € und als Einzelperson maximal 31.667 € beantragen, diese Summen sind angelehnt an zwei bzw. eine Vollzeitstelle über vier Monate. Der Stundenlohn ist auf 50 € gedeckelt.
     Projekte, die zehn Monate gefördert werden, nehmen ebenfalls am Demo Day nach sechs Monaten teil. Nach Abschluss der Second Stage findet ein Workshop mit wenigen Gästen statt, bei denen die Projektergebnisse detailliert vorgestellt und besprochen werden.
 
 
@@ -256,7 +256,7 @@ projects:
 - name: Wie sind die Auszahlungsmodalitäten?
   tags: ["foerderung"]
   summary: |
-    Die Auszahlung erfolgt in Raten, basierend auf geleisteter Arbeit und jeweils zu Beginn eines neuen Quartals. Wie das genau aussieht, zeigt euch auch unsere Timeline.
+    Die Auszahlung erfolgt in Raten, basierend auf geleisteter Arbeit und jeweils zu Beginn eines neuen Quartals. Wie das genau aussieht, zeigt euch auch unsere Timeline.\
     ***Beispiel**: Förderbeginn ist der 01.06.2025, dann kannst du mit Anfang des neuen Quartals ab dem 01.07.2025 die anteilige Fördersumme für die erbrachte Leistung abrufen.*
 
 - name: Muss ich die Förderung versteuern?
