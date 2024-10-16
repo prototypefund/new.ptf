@@ -36,7 +36,7 @@ languages:
     title: "Prototype Fund"
     weight: 2
   de:
-    languageCode: de
+    languageCode: de-DE
     languageName: DE
     title: "Prototype Fund"
     weight: 1

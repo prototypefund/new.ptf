@@ -61,6 +61,10 @@
     @include nav-item-hover-effect();
   }
 
+  .navbar-nav .active-language {
+    @include nav-item-hover-effect();
+  }
+
   #top-navbar-divider {
     margin-top: 10px;
     background-color: get-light-color('muted-text-color');

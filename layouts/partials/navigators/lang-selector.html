@@ -5,9 +5,17 @@
 
 
   {{ range site.Home.AllTranslations }}
+  {{ if eq .Language.LanguageName $.Language.LanguageName}}
+  <li class="nav-item">
+    <a class="nav-link active-language" href="{{ path.Join "/" (cond (eq .Language.Lang $.Sites.Default.Language.Lang) "" .Language.Lang) $pageURL }}">
+      {{.Language.LanguageName}}
+    </a>
+  </li>
+  {{ else }}
   <li class="nav-item">
     <a class="nav-link" href="{{ path.Join "/" (cond (eq .Language.Lang $.Sites.Default.Language.Lang) "" .Language.Lang) $pageURL }}">
       {{.Language.LanguageName}}
     </a>
   </li>
+  {{ end }}
   {{ end }}
