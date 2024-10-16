@@ -62,7 +62,7 @@
   }
 
   .navbar-nav .active-language {
-    @include nav-item-hover-effect();
+    color: get-light-color('accent-color') !important;
   }
 
   #top-navbar-divider {
