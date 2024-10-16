@@ -4,27 +4,27 @@
   {{ $sectionID = .section.id }}
 {{ end }}
 
-<div class="container">
-  <div class= "row">
-    <div class="col-md">
-      <h3 id="{{ $sectionID }}"> {{ .tagline | markdownify }} </h3>
-      <p class="p-1 text-justify">
-        {{ .summary | markdownify }}
-      </p>
-      {{ range .resourceLinks }}
-      <a href="{{ .url | relURL }}" title="{{ .title }}" target="#"
-        ><button class="btn btn-dark">{{ .title }}</button></a
-      >
-      {{ end }}
+<div class="container anchor p-lg-5" id="{{ $sectionID }}">
+    <div class= "row">
+      <div class="col-md-8">
+        <h3> {{ .tagline | markdownify }} </h3>
+        <p class="p-1 text-justify">
+          {{ .summary | markdownify }}
+        </p>
+      </div>
+      <div class="col-md-4 float-end align-self-center">
+        {{ if not (.section.hideTitle) }}
+          <h1 class="text-center">
+              {{ .section.name | markdownify}}</h1>
+        {{ else }}
+          <h1 class="text-center" style="display: none">
+              {{ .section.name | markdownify}}</h1>
+        {{ end }}
+      </div>
     </div>
-    <div class="col-md-4 align-self-center">
-      {{ if not (.section.hideTitle) }}
-        <h1 class="text-center">
-            {{ .section.name | markdownify}}</h1>
-      {{ else }}
-        <h1 class="text-center" style="display: none">
-            {{ .section.name | markdownify}}</h1>
-      {{ end }}
-    </div>
-  </div>
+    {{ range .resourceLinks }}
+    <a href="{{ .url | relURL }}" title="{{ .title }}" target="#"
+      ><button class="btn btn-dark">{{ .title }}</button></a
+    >
+    {{ end }}
 </div>

@@ -4,7 +4,7 @@
   {{ $sectionID = .section.id }}
 {{ end }}
 
-<div class="container">
+<div class="container anchor p-lg-5" id="{{ $sectionID }}">
   <div class= "row">
     <div class="col-md-4 align-self-center">
       {{ if not (.section.hideTitle) }}
@@ -16,7 +16,7 @@
       {{ end }}
     </div>
     <div class="col-md">
-      <h3 id="{{ $sectionID }}"> {{ .tagline | markdownify }} </h3>
+      <h3> {{ .tagline | markdownify }} </h3>
       <p class="p-1 text-justify">
         {{ .summary | markdownify }}
 
