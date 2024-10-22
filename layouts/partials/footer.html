@@ -50,8 +50,8 @@
   {{/*  footer logos  */}}
   {{ $themeLogo := "/images/theme-logo.png" }}
   {{ $hugoLogo := "/images/hugo-logo.svg" }}
-  {{ $bmbfLogo := "/images/bmbf_internet.jpg" }}
-  {{ $okfLogo := "/images/okf.svg" }}
+  {{ $bmbfLogo := "/images/bmbf.png" }}
+  {{ $okfLogo := "/images/okf.png" }}
 
   {{/* resize the logos. don't resize svg because it is not supported */}}
   {{ $themeLogo:= resources.Get $themeLogo}}
@@ -70,9 +70,6 @@
   {{ $bmbfLogo = $bmbfLogo.RelPermalink}}
 
   {{ $okfLogo:= resources.Get $okfLogo}}
-  {{ if and $okfLogo (ne $okfLogo.MediaType.SubType "svg")}}
-    {{ $okfLogo = $okfLogo.Resize "32x" }}
-  {{ end }}
   {{ $okfLogo = $okfLogo.RelPermalink}}
 
   <footer id="footer" class="container-fluid text-center align-content-center footer pb-2">
