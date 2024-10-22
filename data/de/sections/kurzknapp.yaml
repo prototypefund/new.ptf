@@ -9,7 +9,8 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Hier kommt die Tagline hin.
+designation:
+  Ideen erproben - Offenheit schaffen.
 # your company information
 # company:
 #  name: uns gefördert

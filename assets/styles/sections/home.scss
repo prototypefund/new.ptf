@@ -49,7 +49,9 @@
     margin-bottom: 10px;
   }
 
-  .greeting,
+  .greeting {
+    color: get-light-color('accent-color');
+  }
   .greeting-subtitle {
     color: get-light-color('text-over-accent-color');
   }

@@ -123,7 +123,7 @@
   &.transparent-navbar {
     background-color: transparent !important;
     .navbar-brand {
-      color: get-light-color('inverse-text-color');
+      color: get-light-color('accent-color');
     }
     li {
       a {
