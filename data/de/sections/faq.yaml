@@ -41,13 +41,13 @@ projects:
     * Ein Netzwerk bestehend aus anderen Geförderten und Alumni\*ae, weiteren Förderern, potentiellen Partner\*innen und anderen Kontakten.
 
 - name: Welche Themenschwerpunkte werden gefördert?
-  tags: ["grundlagen"]
+  tags: ["grundlagen", "foerderung"]
   summary: |
     [Datensicherheit](https://prototypefund.de/kenne-deine-daten/):\
-    Werkzeuge mit Fokus auf Privatsphäre, sichere Kommunikation bzw. Datenübertragung und Datensparsamkeit.
+    Dabei handelt sich sich um Werkzeuge mit Fokus auf Privatsphäre, sichere Kommunikation bzw. Datenübertragung und Datensparsamkeit. Das kann beispielsweise ein verschlüsselter und datensparsamer Messenger, ein einfacherer oder sichererer Zugang zu VPN-Verschlüsselung oder eine andere „privacy by design“ Anwendung sein.
 
     [Softwareinfrastruktur](https://prototypefund.de/softwareinfrastruktur/):\
-    Software-Pakete oder standardisierte Imple&shy;mentierungen von Protokollen, die nötig sind, um Anwendungen zu schreiben und zu betreiben. Die “Plattenbauelemente der Informationstechnik” werden von Entwickler\*innen eingesetzt, um Arbeitsschritte einzusparen.
+    Das sind z. B. Software-Pakete oder standardisierte Implementierungen von Protokollen, die nötig sind, um Anwendungen zu schreiben und zu betreiben. Diese Elemente werden von Entwickler\*innen eingesetzt, um Arbeitsschritte einzusparen und bilden das Fundament aller Anwendungen, die wir täglich nutzen.
 
 - name: Wie sieht der zeitliche Ablauf aus?
   url: "#timeline"
@@ -250,7 +250,7 @@ projects:
 - name: Wie sind die Auszahlungsmodalitäten?
   tags: ["foerderung"]
   summary: |
-    Die Auszahlung erfolgt in Raten, basierend auf geleisteter Arbeit und jeweils zu Beginn eines neuen Quartals. Wie das genau aussieht, zeigt euch auch unsere Timeline.\
+    Die Auszahlung erfolgt in Raten, basierend auf geleisteter Arbeit und jeweils zu Beginn eines neuen Quartals.\
     ***Beispiel**: Förderbeginn ist der 01.06.2025, dann kannst du mit Anfang des neuen Quartals ab dem 01.07.2025 die anteilige Fördersumme für die erbrachte Leistung abrufen.*
 
 - name: Was passiert zum Ende und nach der Projektlaufzeit?
