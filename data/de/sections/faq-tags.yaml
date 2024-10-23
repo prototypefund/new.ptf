@@ -74,7 +74,7 @@ projects:
 - name: Wer kann sich bewerben?
   tags: ["bewerbung"]
   summary: |
-    * Ihr seid Einzelentwickler\*innen oder Teil eines maximal vierköpfigen Teams\* (aus Entwickler\*innen + x).
+    * Ihr seid Einzelentwickler\*innen oder Teil eines maximal vierköpfigen Teams\*.
     * Eure Idee ist ein Software-Projekt.
     * Ihr seid volljährig.
     * Als Einzelentwickler\*innen habt ihr euren Wohnsitz in Deutschland, seid selbstständig** oder Freiberufler\*innen und zahlt eure Steuern hier.
@@ -99,7 +99,7 @@ projects:
   summary: |
     Für den Jahrgang 01, für den die Förderung am 01. Juni 2025 startet, könnt ihr euch vom 01. November 2024 bis 02. Januar 2025 bewerben.
 
-    Für den 2. Jahrgang könnt ihr euch ab dem 01. Oktober 2025 bewerben.
+    Für Jahrgang 02 könnt ihr euch ab dem 01. Oktober 2025 bewerben.
 
 - name: Kann ich mich auch mit einem bereits bestehenden Projekt bewerben?
   tags: ["bewerbung"]
@@ -141,9 +141,6 @@ projects:
     Beantworte alle Fragen auf unserer Bewerbungs&shy;plattform und klicke anschließend auf „submit for review“. Du erhältst danach eine automatische E-Mail, um dir Passwort für die Bewerbungsplattform zu setzen.
 
     Falls du Unterstützung benötigst oder etwas nicht einwandfrei funktioniert, erreichst du uns hier: info@prototypefund.de.
-
-    Unser Bewerbungshandbuch führt dich Schritt für Schritt durch die Bewerbungsfragen.
-
 
 - name: Can I apply in English?
   tags: ["bewerbung"]
@@ -209,7 +206,7 @@ projects:
     * GbR Steuernummer/Anmeldung beim Finanzamt (kann auch nach der Bewilligung erfolgen).
 
 
-- name: Was muss ich zur Second Stage-Förderung wissen?
+- name: Was muss ich zur Second-Stage-Förderung wissen?
   tags: ["foerderung"]
   url: https://prototypefund.de/BLOGBEITRAG
   summary: |
@@ -242,27 +239,19 @@ projects:
 - name: Was erwartet mich noch während der Projektlaufzeit?
   tags: ["foerderung"]
   summary: |
-    Der Prototype Fund ist auch ein Forschungs&shy;programm: Es ist uns wichtig, in regem Austausch mit unseren Projekten zu stehen, um noch besser zu verstehen, wie Entwickler\*innen kooperieren, wie Innovation entsteht und wo wir euch auf diesem Weg besonders unterstützen können. Deswegen gibt es im Lauf der sechs Monate vier Update-Calls, im Zwei-Wochen-Takt kurze schriftliche Updates, zwei ausführlichere Zwischengespräche sowie eine Nachhaltigkeitsevaluation. Wir bitten alle Projekte, den Austausch ernstzunehmen, denn so können wir Problemen schneller begegnen und euch helfen, wenn es nötig ist. Außerdem hilft der Austausch uns, das Programm zu evaluieren und ggf. nachzubessern.
+    Der Prototype Fund ist auch ein Forschungs&shy;programm: Es ist uns wichtig, in regem Austausch mit unseren Projekten zu stehen, um noch besser zu verstehen, wie Entwickler\*innen kooperieren, wie Innovation entsteht und wo wir euch auf diesem Weg besonders unterstützen können. Deswegen gibt es im Laufe der sechs Monate monatliche Update-Calls, im Zwei-Wochen-Takt kurze schriftliche Updates, zwei ausführlichere Zwischengespräche sowie eine Nachhaltigkeitsevaluation. Wir bitten alle Projekte, den Austausch ernstzunehmen, denn so können wir Problemen schneller begegnen und euch helfen, wenn es nötig ist. Außerdem hilft der Austausch uns, das Programm zu evaluieren und ggf. nachzubessern.
 
     Das sind die **verpflichtenden Termine für die Geförderten**:
     * Kick-Off-Workshop (ganzer Tag in Berlin, alle Teammitglieder, um den 01.06.)
-    * Gruppencalls (4 mal 1 h, je ein Teammitglied), Zwischengespräche (zweimal 1 h, alle Teammitglieder)
+    * Austauschtermine während der Förderzeit
     * Demo Day (ganzer Tag in Berlin, alle Teammitglieder, um den 30.11.)
     * Abschlussworkshop der Second Stage (ganzer Tag in Berlin, alle Teammitglieder, um den 30.04.)
-
-    Eine Übersicht über alle Termine inklusive Be&shy;werb&shy;ungs&shy;phase gibt es hier.
-
 
 - name: Wie sind die Auszahlungsmodalitäten?
   tags: ["foerderung"]
   summary: |
     Die Auszahlung erfolgt in Raten, basierend auf geleisteter Arbeit und jeweils zu Beginn eines neuen Quartals. Wie das genau aussieht, zeigt euch auch unsere Timeline.\
     ***Beispiel**: Förderbeginn ist der 01.06.2025, dann kannst du mit Anfang des neuen Quartals ab dem 01.07.2025 die anteilige Fördersumme für die erbrachte Leistung abrufen.*
-
-- name: Muss ich die Förderung versteuern?
-  tags: ["foerderung"]
-  summary:
-    Die Förderung durch... #Wird noch überarbeitet
 
 - name: Was passiert zum Ende und nach der Projektlaufzeit?
   tags: ["foerderung"]
@@ -277,4 +266,4 @@ projects:
 - name: Unter welcher Lizenz muss die im Förderzeitraum erstellte Software veröffentlicht werden?
   tags: ["foerderung"]
   summary: |
-    Die Software muss unter einer Open-Source-Lizenz veröffentlicht werden. Der Code muss öffentlich zugänglich sein (z. B. über ein öffentliches Github– oder Bitbucket-Repository). Wir empfehlen die MIT-Lizenz. [Hier](https://prototypefund.de/freie-open-source-lizenzen/) gibt es eine Übersicht über weitere Open-Source-Lizenzen.
+    Die Software muss unter einer Open-Source-Lizenz veröffentlicht werden. Der Code muss öffentlich zugänglich sein (z. B. über ein öffentliches Github– oder Bitbucket-Repository). [Hier](https://prototypefund.de/freie-open-source-lizenzen/) gibt es eine Übersicht über Open-Source-Lizenzen.

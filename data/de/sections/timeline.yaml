@@ -19,7 +19,7 @@ experiences:
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
     overview: |
-      In der Bewerbungsphase könnt ihr eure Projektideen einreichen. Dafür beantwortet ihr XX Fragen zu eurer Idee und teilt mit, ob ihr euch für sechs oder zehn Monate Förderung bewerbt. Der Bewerbungszeitraum startet am 01. November 2024 und endet am 02. Januar 2025. Anders als bisher wird es jährlich nur eine Bewerbungsphase geben. Die Bewerbungsphase für den 2. Jahrgang startet voraussichtlich am 01. Oktober 2025.
+      In der Bewerbungsphase könnt ihr eure Projektideen einreichen. Dafür beantwortet ihr XX Fragen zu eurer Idee und teilt mit, ob ihr euch für sechs oder zehn Monate Förderung bewerbt. Der Bewerbungszeitraum startet am 01. November 2024 und endet am 02. Januar 2025. Anders als bisher wird es jährlich nur eine Bewerbungsphase geben. Die Bewerbungsphase für Jahrgang 02 startet voraussichtlich am 01. Oktober 2025.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
     start: 01. November 2024
@@ -53,7 +53,7 @@ experiences:
 - company:
     name: Förderphase
     overview: |
-      Während der Förderzeit arbeiten die Geförderten intensiv an ihren Projekten. Sie stehen in Form von Updates, Gruppengesprächen und Zwischengesprächen im Austausch mit dem restlichen Jahrgang sowie dem Team des Prototype Fund. Außerdem haben sie Anspruch auf XX Coachings in den Bereichen Projektmanagement, Usability, Branding, Gründung,
+      Während der Förderzeit arbeiten die Geförderten intensiv an ihren Projekten. Sie stehen in Form von Updates, Gruppengesprächen und Zwischengesprächen im Austausch mit dem restlichen Jahrgang sowie dem Team des Prototype Fund. Außerdem haben sie Anspruch auf Coachings in den Bereichen Projektmanagement, Usability, Branding, Gründung etc.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
     start: Juni 2025
@@ -76,7 +76,7 @@ experiences:
 - company:
     name: Demo Day
     overview: |
-      Am Demo Day stellen alle Geförderten nach Ablauf der sechsmonatigen Förderphase ihre Erfahrungen und Projektergebnisse als Demos, in Vorträgen oder auf Panels bei einer öffentlichen Veranstaltung vor.
+      Am Demo Day stellen alle Geförderten nach Ablauf der sechsmonatigen Förderphase ihre Erfahrungen und Projektergebnisse als Demos, in Vorträgen oder auf Panels bei einer öffentlichen Veranstaltung vor. Wie so ein Demo Day aussehen kann, könnt ihr im [Blogbeitrag zum Demo Day der Runde 15](https://prototypefund.de/das-war-der-demo-day-der-runde-15/) nachlesen.
   positions:
   - designation: Senior Software Engineer #wird nicht angezeigt
     start: um den 01. Dezember 2025
