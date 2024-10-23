@@ -8,14 +8,8 @@ module:
   - path: github.com/hugo-toha/hugo-toha.github.io
     disable: false
     mounts:
-    - source: content
-      target: content
-    - source: layouts
-      target: layouts
     - source: assets
       target: assets
-    - source: static
-      target: static
   mounts:
   - source: static/files
     target: static/files
