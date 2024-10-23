@@ -1,8 +1,8 @@
 # section information
 section:
-  name: Kurz & Knapp
-  navbar: Kurz & Knapp
-  id: kurzundknapp
+  name: In Short
+  navbar: In Short
+  id: inshort
   enable: true
   weight: 1
   showOnNavbar: true
@@ -10,7 +10,7 @@ section:
 
 # your designation
 designation:
-  Ideen erproben - Offenheit schaffen.
+  Exploring ideas - fostering openness.
 # your company information
 # company:
 #  name: uns gefördert

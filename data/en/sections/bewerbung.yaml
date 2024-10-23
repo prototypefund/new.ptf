@@ -4,8 +4,8 @@ section:
   name: |
     Alles klar?\
     Dann fangt an zu tippen & bewerbt euch!
-  navbar: Bewerbung
-  id: bewerbung
+  navbar: Application
+  id: application
   enable: true
   weight: 4
   showOnNavbar: true
