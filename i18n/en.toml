@@ -108,7 +108,7 @@ other = "Star"
 other = "Details"
 
 [err_404]
-other = "The page you are looking for is not there yet."
+other = "The page you are looking for is not available."
 
 [more]
 other = "More"
