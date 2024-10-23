@@ -1,0 +1,269 @@
+# section information
+section:
+  name: FAQ
+  navbar: FAQ
+  id: faq
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  template: sections/projects.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+summary: "Auch den Prototype Fund selbst verstehen wir als Prototypen. Unser Programm ist das erste öffentliche Förderprogramm eines Bundesministeriums, das sich gezielt an Open-Source-Entwickler*innen in Selbstständigkeit oder Freiberufliche richtet. Wir wollen lernen, unsere Erfahrungen teilen und euch dabei unterstützen, eure Projekte und Vorhaben bestmöglich zu stemmen. Hier findet ihr die wichtigsten Informationen zur Bewerbung."
+
+buttons:
+- name: Alle
+  filter: "all"
+- name: Grundlagen
+  filter: "grundlagen"
+- name: Bewerbung
+  filter: "bewerbung"
+- name: Auswahl
+  filter: "auswahl"
+- name: Förderung
+  filter: "foerderung"
+
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+projects:
+#Grundlagen
+- name: Was bietet der Prototype Fund?
+  # url: "test.com"
+  tags: ["grundlagen"]
+  summary: |
+    * Eine finanzielle Förderung
+      * für Einzelpersonen mit bis zu 47.500 € für sechs Monate oder 79.167 € für zehn Monate
+      * für kleine Teams bis zu vier Personen mit bis zu 95.000 € für sechs Monate oder 158.333 € für zehn Monate.
+    * Unterstützung durch Beratung und Coaching, z.B. in den Bereichen User Centered Design, Projektmanagement, Security, Gründung, Lizenzen
+    * Aufmerksamkeit für dein Projekt über unsere Kanäle
+    * Ein Netzwerk bestehend aus anderen Geförderten und Alumni\*ae, weiteren Förderern, potentiellen Partner\*innen und anderen Kontakten.
+
+- name: Welche Themenschwerpunkte werden gefördert?
+  tags: ["grundlagen", "foerderung"]
+  summary: |
+    [Datensicherheit](https://prototypefund.de/kenne-deine-daten/):\
+    Dabei handelt sich sich um Werkzeuge mit Fokus auf Privatsphäre, sichere Kommunikation bzw. Datenübertragung und Datensparsamkeit. Das kann beispielsweise ein verschlüsselter und datensparsamer Messenger, ein einfacherer oder sichererer Zugang zu VPN-Verschlüsselung oder eine andere „privacy by design“ Anwendung sein.
+
+    [Softwareinfrastruktur](https://prototypefund.de/softwareinfrastruktur/):\
+    Das sind z. B. Software-Pakete oder standardisierte Implementierungen von Protokollen, die nötig sind, um Anwendungen zu schreiben und zu betreiben. Diese Elemente werden von Entwickler\*innen eingesetzt, um Arbeitsschritte einzusparen und bilden das Fundament aller Anwendungen, die wir täglich nutzen.
+
+- name: Wie sieht der zeitliche Ablauf aus?
+  url: "#timeline"
+  tags: ["grundlagen"]
+  summary: |
+    Die Einreichungsphase läuft jeweils über 2 Monate. Wir geben euch gute 8 Wochen nach Einreichungsschluss – d. h. im März 2025 (Februar 2026) – Bescheid, ob die Jury euer Projekt zur Förderung  vorgeschlagen hat.\
+    **Wichtig**: Wir bitten, von Anfragen zum Stand der Anträge vor Anfang März abzusehen.
+
+    Alle ausgewählten Projekte, bzw. eine Person pro Team, laden wir zu einem  Antragsworkshop per Videocall ein. An diesem Tag (Mitte März) erhaltet ihr Unterstützung bei der Erstellung des formalen Antrags. Dieser wird dann über den Projektträger DLR beim Bundesministerium für Bildung  und Forschung eingereicht, welches die finale Entscheidung über die  Förderung trifft. Der endgültige Zuwendungsbescheid des Ministeriums trifft in Ausnahmefällen aufgrund notwendiger Bearbeitungszeiten erst zum Förderstart selbst ein. Bedenkt dies, falls ihr beispielsweise Änderungen der Arbeitszeit mit Arbeitgebern o. Ä. verabreden wollt.
+
+- name: Warum werden ausschließlich Open-Source-Projekte gefördert?
+  tags: ["grundlagen"]
+  summary: |
+    Wir sind der Überzeugung, dass Ideen, die geteilt werden, neue Anknüpfungspunkte für Projekte und Kooperationen bieten. Wir wollen gewährleisten, dass geförderte Projekte auch in Zukunft weiterentwickelt werden können.
+
+- name: Wo finde ich die Förderrichtlinie?
+  tags: ["grundlagen"]
+  summary: |
+    [Hier](LINK) findet ihr die Richtlinie NAME des BMBF vom DATUM.
+
+
+# Bewerbung
+
+- name: Wer kann sich bewerben?
+  tags: ["bewerbung"]
+  summary: |
+    * Ihr seid Einzelentwickler\*innen oder Teil eines maximal vierköpfigen Teams\*.
+    * Eure Idee ist ein Software-Projekt.
+    * Ihr seid volljährig.
+    * Als Einzelentwickler\*innen habt ihr euren Wohnsitz in Deutschland, seid selbstständig** oder Freiberufler\*innen und zahlt eure Steuern hier.
+    * Bei Teams liegt der Sitz eurer GbR in Deutschland, die Wohnorte einzelner Teammitglieder können sich im EU-Ausland befinden.
+
+    \*Teams: Lest bitte vor der Bewerbung bei den Fragen unter *Förderung* nach, was für Maßgaben für euch gelten.\
+    \*\*oder für die Projektlaufzeit (anteilig) vom Arbeitgeber freigestellt. Das heißt, ihr könnt auch weiterhin in Teilzeit angestellt sein.
+
+- name: Können sich Unternehmen, Institutionen oder andere Organisationen bewerben?
+  tags: ["bewerbung"]
+  summary: |
+    Nein. Teams müssen sich für die Förderung als GbR zusammen schließen (s. im Bereich Förderung).
+
+- name: Wie aufwändig ist der Bewerbungsprozess?
+  tags: ["bewerbung"]
+  summary: |
+    Nicht aufwändig. Über das Bewerbungsformular (schematische Darstellung hier) könnt ihr der Jury im ersten Schritt kurz und klar beschreiben, was ihr umsetzen möchtet: In prägnanten Texten, die den Kern deiner Idee erklären und die Verbindung zu uns&shy;eren geförderten Schwerpunkten deutlich machen.\
+    Falls euer Projekt von der Jury ausgewählt wird, müsst ihr im Anschluss einen etwas umfang&shy;reicheren formalen Antrag gemäß der Förderrichtlinie des BMBF einreichen. Wir helfen euch bei der Antragstellung und richten dazu einen gemeinsamen Antragsworkshop aus.
+
+- name: Von wann bis wann kann ich mich bewerben?
+  tags: ["bewerbung"]
+  summary: |
+    Für den Jahrgang 01, für den die Förderung am 01. Juni 2025 startet, könnt ihr euch vom 01. November 2024 bis 02. Januar 2025 bewerben.
+
+    Für Jahrgang 02 könnt ihr euch ab dem 01. Oktober 2025 bewerben.
+
+- name: Kann ich mich auch mit einem bereits bestehenden Projekt bewerben?
+  tags: ["bewerbung"]
+  summary: |
+    Ja, das Vorhaben für den Prototype Fund sollte aber innerhalb des Projekts klar abgrenzbar sein und einen eigenständigen Neuheitsgrad  haben, z. B. wenn ihr vorhabt, euer Projekt um ein Modul zu erweitern oder zu ergänzen. In jedem Fall muss klar erkennbar sein, was im Förderzeitraum erarbeitet wird.
+
+- name: Kann ich mich mit einer Idee für Open Hardware bewerben?
+  # url: "https://hardware.prototypefund.de/"
+  tags: ["bewerbung"]
+  summary: |
+    Nein.
+
+- name: Du willst dich als Student*in oder Rentner*in bewerben?
+  url: "https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/In-der-Rente/Hinzuverdienst-und-Einkommensanrechnung/hinzuverdienst-und-einkommensanrechnung_node.html"
+  tags: ["bewerbung"]
+  summary: |
+    Als Studierende müsst ihr die [Werk&shy;studenten&shy;regelung](https://www.mystipendium.de/werkstudent/werkstudent-arbeitszeit) beachten: Ihr könnt neben einem Voll&shy;zeit&shy;studium **nicht** Vollzeit am Projekt arbeiten sondern nur im Umfang von max. 20h/Woche während der Semester&shy;laufzeit für 6 Monate.\
+    Für Förderinteressierte im Rentenalter gilt: Nur wer die sogenannte [Regelaltersgrenze](https://www.finanztip.de/gesetzliche-rentenversicherung/) erreicht hat, darf zur gesetzlichen Rente **unbegrenzt dazuverdienen**. Die Regelaltersgrenze ist im Sozialgesetzbuch VI definiert ([§ 35 Satz 2 SGB VI](http://www.gesetze-im-internet.de/sgb_6/__35.html)) und wird mit Vollendung des **67. Lebensjahres** erreicht. Wer früher in die Rente eingetreten ist, für den gelten Verdienstgrenzen.
+
+- name: Wer ist nicht antragsberechtigt?
+  tags: ["bewerbung"]
+  summary: |
+    Unternehmen, Hochschulen, außer&shy;universitäre For&shy;schungs&shy;einrichtungen und sonstige Institutionen und Vereine sind nicht antragsberechtigt.
+
+- name: Kann ich mich mit demselben Projekt erneut bewerben, wenn ich schon mal abgelehnt wurde?
+  tags: ["bewerbung"]
+  summary: |
+    Ja.
+
+- name: Kann ich mich mit mehreren Projektideen gleichzeitig bewerben?
+  tags: ["bewerbung"]
+  summary: |
+    Ja.
+
+- name: Wie reiche ich meine Bewerbung ein?
+  #url:
+  tags: ["bewerbung"]
+  summary: |
+    Beantworte alle Fragen auf unserer Bewerbungs&shy;plattform und klicke anschließend auf „submit for review“. Du erhältst danach eine automatische E-Mail, um dir Passwort für die Bewerbungsplattform zu setzen.
+
+    Falls du Unterstützung benötigst oder etwas nicht einwandfrei funktioniert, erreichst du uns hier: info@prototypefund.de.
+
+- name: Can I apply in English?
+  tags: ["bewerbung"]
+  summary: |
+    Yes. Ideas can be submitted in German and English.
+
+- name: Wie setzt sich die Fördersumme zusammen und wie hängt diese mit den Gesamtarbeitsstunden zusammen?
+  tags: ["foerderung"]
+  summary: |
+    Die Maximalfördersumme vom 95.000 € für Teams berechnet sich angelehnt an die Gesamt&shy;arbeits&shy;stunden&shy;zahl von zwei Vollzeitstellen, das heißt zweimal 950 Arbeits&shy;stunden mit einem Stundensatz von max. 50 € für die gesamte Förderlaufzeit. Für Einzelpersonen liegt die maximale Fördersumme bei 47.500 €, also einer Vollzeitstelle mit 950 Arbeitsstunden zu je max. 50€. Wenn der Stundensatz höher liegen soll, muss die Stundenzahl entsprechend verringert werden – außerdem müsst ihr uns über Rechnungen nachweisen, dass ihr als freie Entwickler\*innen höhere Stundenlöhne (maximal 150 €) erzielt habt. Teams benennen und bepreisen Arbeitspakete, die addiert nicht den Umfang der Höchstfördersumme (s. o.) überschreiten dürfen. Die Summen für die Second Stage sind jeweils angelehnt an eine bzw. zwei Vollzeitstellen mit 4 Monaten Laufzeit. Zu beachten ist, dass der Stundenlohn in der Second Stage auf 50 € gedeckelt ist.
+
+    Die angegebene Stundenzahl muss in einem angemessenen Verhältnis zur Projektidee stehen. Macht euch im Vorfeld Gedanken, wie viel Zeit ihr sinnvollerweise investieren müsst, um den vorge&shy;schlagenen Prototypen umzusetzen. Die realistische Planung des Projektumfangs zählt auch zu den Bewertungskriterien der Jury. Wenn ihr neben der Förderung durch den Prototype Fund in Teilzeit angestellt seid, bestimmen die Gesetze zum Arbeitsschutz die Begrenzung der Stunden nach oben.
+
+# Auswahl
+- name: Wer bewertet meine Idee?
+  tags: ["auswahl"]
+  summary: |
+    Die Förderentscheidung durch das BMBF basiert auf einer Empfehlung unserer Jury. Diese unterstützt uns mit ihrem Wissen und Erfahrungsschatz in den Bereichen IT-Sicherheit, Infrastruktur, Software-Bausteine und Open Source. Die Jury bewertet die zahlreichen Einreichungen hinsichtlich Erfolgs&shy;aussichten, Sinnhaftigkeit und gesellschaftlichen Mehr&shy;wert.
+
+    Die Jury schlägt 25 bis 30 pro Runde zur Förderung vor.
+
+    Sobald die Jurymitglieder feststehen, geben wir sie auf der Website bekannt.
+
+
+- name: Nach welchen Kriterien werden die Einreichungen bewertet?
+  tags: ["auswahl"]
+  summary: |
+    Bei der Bewertung achtet die Jury besonders auf die folgenden Kriterien:
+    * Trifft das Projekt die inhaltliche Ausrichtung des Prototype Funds?
+    * Reichweite und gesellschaftlicher Nutzen des Projekts: Wie viele Menschen profitieren von dem Projekt?
+    * Innovationsgrad: Wie neu und spannend ist die Idee?
+    * Realisierbarkeit: Habt ihr die nötigen Fähigkeiten und Erfahrungen und ist die Idee innerhalb von 6 Monaten umsetzbar?
+
+    Mehr dazu findet ihr unter [Hinweise](https://prototypefund.de/bewerbung/hinweise/).
+
+
+- name: Bekomme ich Feedback, falls meine Idee nicht gefördert wird?
+  tags: ["auswahl"]
+  summary: |
+    Nach der Jurysitzung werden Zu- und Absagen an die Bewerber\*innen verschickt. Solltet ihr  inhaltliche Rückfragen zu den Absagen haben, könnt ihr jederzeit unter info@prototypefund.de nach Feedback fragen.
+
+    Bitte habt Verständnis dafür, dass wir nicht proaktiv Feedback an alle Bewerber\*innen verschicken, keine Notizen der Jury herausgeben und meist nur generelle Aussagen zu den Gründen treffen können.
+
+
+# Förderung
+- name: Wenn die Jury mein Projekt auswählt, wie läuft dann die Antragstellung ab?
+  tags: ["foerderung"]
+  summary: |
+    Falls euer Projekt von der Jury ausgewählt wird, müsst ihr im Anschluss einen formalen Antrag gemäß der Förderrichtlinie des BMBF einreichen. Wir unterstützen euch dabei im Antragsworkshop und bewältigen die Formalien gemeinsam. Falls ihr von der Jury Auflagen erhalten habt, werden diese eingearbeitet. Außerdem müssen weitere Dokumente eingereicht werden. Das Bundesministerium für Bildung und Forschung prüft auf Basis dieses Antrags, ob ein Projekt die Förderung erhält.
+
+    Hier eine Checkliste über die zur Projektbewilligung einzureichenden Dokumente:
+
+    **Für alle:**
+      * Antrag (besteht im wesentlichen aus der initialen Bewerbung),
+      * De-Minimis Erklärung (Vorlage erhaltet ihr von uns),
+      * ein positiver Kontoauszug (mindestens Saldo des Eigenanteils von 5 % des Projektumfangs),
+      * Erklärung über die Strafbarkeit von Subventionsbetrug (erhaltet ihr vom DLR).
+
+    **Für Teams:**
+    * (Binnen-)GbR-Vertrag (eine Person muss einzelvertretungsberechtigt sein, eine Vorlage erhaltet ihr von uns)
+    * die Postadressen aller GbR-Mitglieder,
+    * Kontoverbindung des eingerichteten GbR-Kontos (kann auch nach der Bewilligung erfolgen),
+    * GbR Steuernummer/Anmeldung beim Finanzamt (kann auch nach der Bewilligung erfolgen).
+
+
+- name: Was muss ich zur Second-Stage-Förderung wissen?
+  tags: ["foerderung"]
+  url: https://prototypefund.de/BLOGBEITRAG
+  summary: |
+    Neben der regulären sechsmonatigen Förderung besteht die Möglichkeit, sich auf eine zehnmonatige Förderung zu bewerben. Dies gebt ihr bei der initialen Bewerbung an und beschreibt, was ihr in den vier weiteren Monaten erreichen wollt. In der Second Stage geht es nicht mehr vordergründig um die technische Arbeit am Projekt sondern darum, das Projekt in die Nutzung zu bringen und bekannt zu machen. Der Fokus liegt also auf User Tests, Öffentlichkeitsarbeit, Communityarbeit, Lizenzierung, ggf. der Erarbeitung eines Geschäftsmodells. In der Second Stage nehmt ihr verpflichtend an Coachings teil, die zu euren Bedarfen passen.
+
+    Im 4. Monat der regulären Förderphase reicht ihr die (kurze) Bewerbung für die Second Stage ein. Darauf folgt eine Präsentation vor einem Gremium aus Juror\*innen, Vertreter\*innen des Prototype Fund und des DLR Projektträgers. Im Anschluss an diese Präsentation wird über die Bewilligung der Second Stage-Förderung entschieden.
+
+    In der Second Stage könnt ihr als Team maximal 63.333 € und als Einzelperson maximal 31.667 € beantragen, diese Summen sind angelehnt an zwei bzw. eine Vollzeitstelle über vier Monate. Der Stundenlohn ist auf 50 € gedeckelt.
+    Projekte, die zehn Monate gefördert werden, nehmen ebenfalls am Demo Day nach sechs Monaten teil. Nach Abschluss der Second Stage findet ein Workshop mit wenigen Gästen statt, bei denen die Projektergebnisse detailliert vorgestellt und besprochen werden.
+
+
+- name: Wie setzt sich die Förderung zusammen und welche Kosten kann ich geltend machen?
+  tags: ["foerderung"]
+  summary: |
+    Bis zu 30 Projekte werden sechs Monate lang mit bis zu 95.000 € (Teams), bzw. 47.500 € (Einzelpersonen) gefördert. 10 bis 15 Projekte werden weitere vier Monate mit 63.333 € (Teams), bzw. 31.667 € (Einzelpersonen) gefördert.
+
+    Gefördert wird hauptsächlich die Arbeitszeit an dem Projekt sowie Gemeinkosten. Personalkosten berechnen sich aus den von euch erbrachten Stunden multipliziert mit eurem bewilligten Stundensatz. Gemeinkosten sind alle Kosten, die nicht direkt einzelnen Kostenträgern zugerechnet werden können, also z. B. Kosten für Büromaterialien. Für diese Kosten könnt ihr im Antragsverfahren pauschal 5 % der Personalkosten geltend machen.
+
+    Der Förderbetrag entspricht immer maximal 95 % des gesamten Projektbudgets. Die verbleibenden mindestens 5 % sind der Eigenanteil – d. h. eure Zeit, die in das Projekt einfließt. Ihr habt die Möglichkeit, über weitere Einkünfte (z. B. aus einem Arbeitsverhältnis oder aus Aufträgen) oder Rücklagen nachzuweisen, dass ihr diese Zeit auch tatsächlich unentgeltlich einbringen könnt.
+
+
+- name: Ich arbeite an meinem Projekt mit einem Team, welche Dinge muss ich beachten?
+  tags: ["foerderung"]
+  summary: |
+    Teams müssen zwingend eine GbR gründen. Keine andere Gesellschaftsform ist für die Förderung zulässig.
+
+    Alle Teammitglieder, die vom Prototype Fund gefördert werden, müssen ihren Wohnsitz in der EU angemeldet haben. Der Sitz der GbR (und der Wohnort des Geschäftsführers) muss allerdings in Deutschland liegen. Teams, die von der Jury für die Förderung ausgewählt wurden, reichen den formalen Antrag als [Gesellschaft bürgerlichen Rechts (GbR)](https://de.wikipedia.org/wiki/Gesellschaft_b%C3%BCrgerlichen_Rechts_%28Deutschland%29) ein. Antragsteller ist immer die GbR - alle Personen, die Förderung erhalten sollen, müssen in der GbR zusammengeschlossen sein: eine Unterauftragsvergabe an Dritte ist nicht zulässig. Ihr benennt eine\*n Projektleiter\*in oder eine\*n andere\*n Gesellschafter\*in zur Geschäftsführer\*in, der oder die die GbR nach außen rechtswirksam vertritt (und z. B. am Antragsworkshop teilnimmt und den Antrag unterschreibt). Eine Vorlage für eine GbR-Gründung erhaltet ihr von uns, wenn ihr den Antrag stellt – erst dann ist eine Gründung notwendig. Wenn ihr als Team gefördert werden wollt, solltet ihr außerdem die einzelnen Bausteine des Projekts benennen und den Personen im Team zuweisen.
+
+
+- name: Was erwartet mich noch während der Projektlaufzeit?
+  tags: ["foerderung"]
+  summary: |
+    Der Prototype Fund ist auch ein Forschungs&shy;programm: Es ist uns wichtig, in regem Austausch mit unseren Projekten zu stehen, um noch besser zu verstehen, wie Entwickler\*innen kooperieren, wie Innovation entsteht und wo wir euch auf diesem Weg besonders unterstützen können. Deswegen gibt es im Laufe der sechs Monate monatliche Update-Calls, im Zwei-Wochen-Takt kurze schriftliche Updates, zwei ausführlichere Zwischengespräche sowie eine Nachhaltigkeitsevaluation. Wir bitten alle Projekte, den Austausch ernstzunehmen, denn so können wir Problemen schneller begegnen und euch helfen, wenn es nötig ist. Außerdem hilft der Austausch uns, das Programm zu evaluieren und ggf. nachzubessern.
+
+    Das sind die **verpflichtenden Termine für die Geförderten**:
+    * Kick-Off-Workshop (ganzer Tag in Berlin, alle Teammitglieder, um den 01.06.)
+    * Austauschtermine während der Förderzeit
+    * Demo Day (ganzer Tag in Berlin, alle Teammitglieder, um den 30.11.)
+    * Abschlussworkshop der Second Stage (ganzer Tag in Berlin, alle Teammitglieder, um den 30.04.)
+
+- name: Wie sind die Auszahlungsmodalitäten?
+  tags: ["foerderung"]
+  summary: |
+    Die Auszahlung erfolgt in Raten, basierend auf geleisteter Arbeit und jeweils zu Beginn eines neuen Quartals.\
+    ***Beispiel**: Förderbeginn ist der 01.06.2025, dann kannst du mit Anfang des neuen Quartals ab dem 01.07.2025 die anteilige Fördersumme für die erbrachte Leistung abrufen.*
+
+- name: Was passiert zum Ende und nach der Projektlaufzeit?
+  tags: ["foerderung"]
+  summary: |
+    Am Ende der sechsmonatigen Projektlaufzeit laden wir alle Geförderten zu einem Demo Day ein. Dieser Tag dient dazu, die Prototypen vorzustellen und die Erfahrungen zu teilen, die ihr während der Förderung als Entwickler\*innen gemacht habt. Der Demo Day ist öffentlich, sodass ihr auch mit künftigen Anwender\*innen und anderen Interessierten ins Gespräch kommen könnt. Wir vernetzen euch bereits während der Projektlaufzeit mit Mentor\*innen und weiteren Förderern. Als Teil des Prototype-Fund-Netzwerks seid ihr auch nach der Projektlaufzeit eng mit dem Programm und anderen Teilnehmenden verbunden. Die Projektbeschreibungen bleiben zudem über das Förderende hinaus auf unserer Website abrufbar.
+
+    Nach zehn Monaten findet für die Geförderten der Second Stage ein halböffentlicher Abschlussworkshop mit wenigen geladenen Gästen statt. Der Schwerpunkt liegt hier auf einer detailreichen Präsentation der Projekte.
+
+    Neben der Veröffentlichung des Codes in einem offen zugänglichen Repository zum Projektabschluss erstellt ihr für den Förderträger einen kurzen und allgemeinverständlichen Projektbericht, der ebenfalls veröffentlicht wird. Beispiele aus den vorherigen Jahren findest du [hier](https://www.tib.eu/de/suchen/?tx_tibsearch_search%5Bquery%5D=Software-Sprint&tx_tibsearch_search%5Bcnt%5D=20&tx_tibsearch_search%5Bpg%5D=1&tx_tibsearch_search%5BDlicenseModel%5D%5B0%5D=oa). Etwa ein Jahr nach der Förderung kommen wir außerdem für die Nachhaltigkeitsevaluation auf euch zu – für ein Nachgespräch, bei dem wir uns freuen, etwas über die weitere Projektentwicklung zu erfahren.
+
+
+- name: Unter welcher Lizenz muss die im Förderzeitraum erstellte Software veröffentlicht werden?
+  tags: ["foerderung"]
+  summary: |
+    Die Software muss unter einer Open-Source-Lizenz veröffentlicht werden. Der Code muss öffentlich zugänglich sein (z. B. über ein öffentliches Github– oder Bitbucket-Repository). [Hier](https://prototypefund.de/freie-open-source-lizenzen/) gibt es eine Übersicht über Open-Source-Lizenzen.

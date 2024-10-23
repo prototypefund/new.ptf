@@ -1,0 +1,18 @@
+# section information
+section:
+  name: Jury
+  navbar: Jury
+  id: jury
+  enable: false
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+summary: |
+  Die Auswahl der Förderentscheidung durch das BMBF basiert auf einer Empfehlung unserer Jury. Diese unterstützt uns mit ihrem Wissen und Erfahrungsschatz in den Bereichen IT-Sicherheit, Infrastruktur, Software-Bausteine und Open Source. Die Jury bewertet die zahlreichen Einreichungen hinsichtlich Erfolgsaussichen, Sinnhaftigkeit und gesellschaftlichen Mehrwert.
+  Momentan können wir die finale Besetzung der Jury noch nicht bekannt geben – ihr erfahrt es bald hier.
+
+skills:
+#- name:
+#  summary:
+#  url:

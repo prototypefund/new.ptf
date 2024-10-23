@@ -1,0 +1,41 @@
+# section information
+section:
+  # name: Am XX.XX startet die Bewerbungsphase!
+  name: |
+    Alles klar?\
+    Dann fangt an zu tippen & bewerbt euch!
+  navbar: Bewerbung
+  id: bewerbung
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  template: sections/mdifyr.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  # Can optionally show button:
+resourceLinks:
+  - title: "Zur Bewerbungsplattform"
+    url: "bewerben.prototypefund.de"
+
+#Can optionally show tagline:
+tagline: "Hinweise zur Bewerbung"
+
+
+summary: |
+  Die Bewerbungsphase für den ersten Jahrgang startet am XX. Monat 2024 und endet am XX. Monat 2025.
+
+  Infos und Hilfestellung bei der Bewerbung:
+    * Schritt für Schritt durch die Bewerbung führt euch [das Bewerbungshandbuch](https://prototypefund.de/wp-content/uploads/2023/12/PTF_Handbuch_Bewerbung_12.2023.pdf).
+    * In [diesem Blogpost](https://prototypefund.de/die-perfekte-bewerbung/) haben wir Antworten aus erfolgreichen Bewerbungen aus den Jahren 2016 bis 2024 zusammengetragen und zeigen, warum sie positiv bewertet wurden.
+    * [Das](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2017/08/1395_aenderung-der-bekanntmachung) ist die zugehörige Förderrichtlinie des BMBF.
+    * In [diesem Blogpost](https://prototypefund.de/5-bewerbungstipps/) haben wir zu Dingen, die uns häufig aufgefallen sind, fünf zusätzliche Bewerbungstipps veröffentlicht.
+
+  Bei der Bewertung achtet die Jury besonders auf die folgenden Kriterien:
+    * Trifft das Projekt die inhaltliche Ausrichtung des Prototype Funds?
+    * Innovationsgrad: Wie innovativ ist euer Vorhaben? (dabei wenden wir [diesen Innovationsbegriff](https://prototypefund.de/wp-content/uploads/2021/05/innovation_final.pdf) an)
+    * Realisierbarkeit: Habt ihr die nötigen Fähigkeiten und ist die Idee innerhalb von 6 Monaten umsetzbar? Sind die technische Umsetzung und der Projektplan („Meilensteine“) nachvollziehbar beschrieben?
+    * Reichweite und gesellschaftlicher Nutzen des Projekts: Wie viele Menschen profitieren vom Projekt?
+    * Wie sind die Erfolgsaussichten zu bewerten? Erfolg ist nicht nur, wenn ihr mit eurem Projekt Geld verdient. Es ist trotzdem gut, wenn ihr den Markt und bereits existierende Produkte kennt, euch mit ihnen auseinandersetzt und darstellen könnt, wie sich eure Idee davon abhebt und/oder in das Ökosystem einfügt.
+    * Keine Doppelförderung: Wird oder wurde die grundlegende Idee des Vorhabens bereits anderweitig gefördert oder steht ein ähnliches Produkt bereits mit offenem Quellcode zur Verfügung?
+
+  Wichtig: Wir fördern ausschließlich Open-Source-Software, weil diese neue Anknüpfungspunkte für Projekte und Kooperationen bietet. Wir wollen gewährleisten, dass geförderte Projekte auch in Zukunft instandgehalten und weiterentwickelt werden können.

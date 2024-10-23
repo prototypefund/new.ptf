@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Kurz & Knapp
+  navbar: Kurz & Knapp
+  id: kurzundknapp
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation:
+  Ideen erproben - Offenheit schaffen.
+# your company information
+# company:
+#  name: uns gefördert
+#  url: "https://www.example.com"
+
+# a summary about you
+summary: |
+  Der Prototype Fund ist das erste niedrigschwellige Förderprogramm für freie Entwickler*innen und kleine Teams, die innovative Open-Source-Software entwickeln. Seit 2016 haben wir in acht Jahren fast 400 Projekte gefördert. Dabei haben wir als lernendes Förderprogramm immer wieder Anpassungen vorgenommen, um effizienter und wirkungsvoller zu werden. Nun gehen wir den nächsten Schritt und strukturieren einiges um. Für die zukünftigen Förderphasen konzentrieren wir uns auf die Förderschwerpunkte Datensicherheit und Softwarebausteine.
+
+  Bewerbt euch mit euren Ideen für innovative Open-Source-Software mit einem Mehrwert für die Gesellschaft! Ihr erhaltet bis zu 95.000 € in 6  Monaten oder 158.000 € in 10 Monaten Förderung. Außerdem versorgen wir euch mit Coachings, Beratungs- und Vernetzungsangeboten.
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "info@prototypefund.de"
+
+- name: Mastodon
+  icon: "fab fa-mastodon"
+  url: "https://mastodon.social/@PrototypeFund"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/company/prototype-fund/"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/prototypefund"
+
+# - name: Youtube
+#  icon: "fab fa-youtube"
+#  url: "https://www.youtube.com/channel/UCTytG4zFgLtkXDQ0uC9hioQ/videos"
+
+#- name: Podcast
+#  icon: "fab fa-podcast"
+#  url: "https://public-interest-podcast.podigee.io/"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "Zur Bewerbung"
+  url: "#bewerbung"
+- title: "Mehr Informationen im Blog"
+  url: "https://prototypefund.de"

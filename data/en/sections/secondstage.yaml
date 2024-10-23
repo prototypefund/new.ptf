@@ -1,0 +1,21 @@
+# section information
+section:
+  name: Second Stage?
+  navbar: Second Stage
+  id: secondstage
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  template: sections/mdifyl.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  # Can optionally show button:
+resourceLinks:
+  - title: "Mehr Infos im Blog"
+    url: "https://prototypefund.de/BLOGBEITRAG"
+
+
+summary: |
+  In der Technologie- sowie im speziellen der FOSS-Förderung gibt es ein Problem: Innovationen werden gut und gerne finanziert, nur bleibt oft offen, wie es danach weitergeht. Wenige Technologien sind nach der initialen Finanzierung so weit, dass sie in den Produktivbetrieb gehen und sich selbst finanzieren können. Deswegen bieten wir mit der Second-Stage die Möglichkeit, weitere vier Monate an der nachhaltigen Absicherung des Projektes zu arbeiten. Dies geschieht z. B. duch Community-Aufbau, Verbreitung und Verbesserung der Nutzbarkeit der Software oder durch Aufbau z. B. einer Vereinsstruktur. Dafür nehmen die Geförderten an Gründungscoachings teil, betreiben Öffentlichkeitsarbeit, führen User Tests durch oder kümmern sich um die Dokumentation ihrer Arbeit – ganz abhängig davon, was das einzelne Projekt braucht.
+
+  Schon bei der initialen Bewerbung könnt ihr angeben, dass ihr mit eurem Projekt in der Second Stage gefördert werden wollt. Drei Monate nach Beginn der regulären Förderphase folgt ein niedrigschwelliges Bewerbungs- und Auswahlverfahren, in dem 10-15 Projekte ausgewählt werden.
