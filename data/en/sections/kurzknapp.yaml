@@ -18,9 +18,11 @@ designation:
 
 # a summary about you
 summary: |
-  Der Prototype Fund ist das erste niedrigschwellige Förderprogramm für freie Entwickler*innen und kleine Teams, die innovative Open-Source-Software entwickeln. Seit 2016 haben wir in acht Jahren fast 400 Projekte gefördert. Dabei haben wir als lernendes Förderprogramm immer wieder Anpassungen vorgenommen, um effizienter und wirkungsvoller zu werden. Nun gehen wir den nächsten Schritt und strukturieren einiges um. Für die zukünftigen Förderphasen konzentrieren wir uns auf die Förderschwerpunkte Datensicherheit und Softwarebausteine.
+  The Prototype Fund is the first low-threshold funding program for independent developers and small teams creating innovative open-source software. We provide the tech-savvy civil society with access to the resources and processes needed for developing user-centered, innovative software projects.
+  Since 2016, we have funded almost 400 projects. As a learning funding program, we have repeatedly made adjustments to become more efficient and effective. Now we are taking the next step and implementing some changes. For the future funding phases, we are focusing on funding data security and software building blocks.
 
-  Bewerbt euch mit euren Ideen für innovative Open-Source-Software mit einem Mehrwert für die Gesellschaft! Ihr erhaltet bis zu 95.000 € in 6  Monaten oder 158.000 € in 10 Monaten Förderung. Außerdem versorgen wir euch mit Coachings, Beratungs- und Vernetzungsangeboten.
+  Apply with your ideas for innovative open source software in the public interest! You will receive up to €95,000 in funding over 6 months or €158,000 over 10 months. We will also provide you with coaching, consulting and networking opportunities.
+
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
@@ -51,7 +53,7 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "Zur Bewerbung"
-  url: "#bewerbung"
-- title: "Mehr Informationen im Blog"
-  url: "https://prototypefund.de"
+- title: "Apply now"
+  url: /en/#application
+- title: "More information in our blog"
+  url: https://prototypefund.de
