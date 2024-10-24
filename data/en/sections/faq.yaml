@@ -40,7 +40,7 @@ projects:
     * Exposure for your project through our channels
     * A network consisting of other grantees and alumni, other sponsors, potential partners and other contacts
 
-- name: Welche Themenschwerpunkte werden gefördert?
+- name: Which key topics are funded?
   tags: ["grundlagen", "foerderung"]
   summary: |
     [Data Security](https://prototypefund.de/kenne-deine-daten/):\
@@ -49,7 +49,7 @@ projects:
     [Software infrastructure](https://prototypefund.de/softwareinfrastruktur/):\
     This includes software packages or standardized implementations of protocols that are necessary to write and operate applications. These elements are used by developers to reduce the number of work steps and form the basis for all the applications we use every day.
 
-- name: Wie sieht der zeitliche Ablauf aus?
+- name: What is the timeline?
   url: /en/#timeline
   tags: ["grundlagen"]
   summary: |
