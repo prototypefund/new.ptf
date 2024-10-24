@@ -52,6 +52,6 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "Zur Bewerbung"
-  url: "#bewerbung"
+  url: /#bewerbung
 - title: "Mehr Informationen im Blog"
   url: "https://prototypefund.de"
