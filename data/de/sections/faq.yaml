@@ -35,7 +35,7 @@ projects:
   summary: |
     * Eine finanzielle Förderung
       * für Einzelpersonen mit bis zu 47.500 € für sechs Monate oder 79.167 € für zehn Monate
-      * für kleine Teams bis zu vier Personen mit bis zu 95.000 € für sechs Monate oder 158.333 € für zehn Monate.
+      * für kleine Teams von bis zu vier Personen mit bis zu 95.000 € für sechs Monate oder 158.333 € für zehn Monate
     * Unterstützung durch Beratung und Coaching, z.B. in den Bereichen User Centered Design, Projektmanagement, Security, Gründung, Lizenzen
     * Aufmerksamkeit für dein Projekt über unsere Kanäle
     * Ein Netzwerk bestehend aus anderen Geförderten und Alumni\*ae, weiteren Förderern, potentiellen Partner\*innen und anderen Kontakten.
@@ -164,19 +164,6 @@ projects:
 
     Sobald die Jurymitglieder feststehen, geben wir sie auf der Website bekannt.
 
-
-- name: Nach welchen Kriterien werden die Einreichungen bewertet?
-  tags: ["auswahl"]
-  summary: |
-    Bei der Bewertung achtet die Jury besonders auf die folgenden Kriterien:
-    * Trifft das Projekt die inhaltliche Ausrichtung des Prototype Funds?
-    * Reichweite und gesellschaftlicher Nutzen des Projekts: Wie viele Menschen profitieren von dem Projekt?
-    * Innovationsgrad: Wie neu und spannend ist die Idee?
-    * Realisierbarkeit: Habt ihr die nötigen Fähigkeiten und Erfahrungen und ist die Idee innerhalb von 6 Monaten umsetzbar?
-
-    Mehr dazu findet ihr unter [Hinweise](https://prototypefund.de/bewerbung/hinweise/).
-
-
 - name: Bekomme ich Feedback, falls meine Idee nicht gefördert wird?
   tags: ["auswahl"]
   summary: |
@@ -239,7 +226,7 @@ projects:
 - name: Was erwartet mich noch während der Projektlaufzeit?
   tags: ["foerderung"]
   summary: |
-    Der Prototype Fund ist auch ein Forschungs&shy;programm: Es ist uns wichtig, in regem Austausch mit unseren Projekten zu stehen, um noch besser zu verstehen, wie Entwickler\*innen kooperieren, wie Innovation entsteht und wo wir euch auf diesem Weg besonders unterstützen können. Deswegen gibt es im Laufe der sechs Monate monatliche Update-Calls, im Zwei-Wochen-Takt kurze schriftliche Updates, zwei ausführlichere Zwischengespräche sowie eine Nachhaltigkeitsevaluation. Wir bitten alle Projekte, den Austausch ernstzunehmen, denn so können wir Problemen schneller begegnen und euch helfen, wenn es nötig ist. Außerdem hilft der Austausch uns, das Programm zu evaluieren und ggf. nachzubessern.
+    Der Prototype Fund ist auch ein Forschungs&shy;programm: Es ist uns wichtig, in regem Austausch mit unseren Projekten zu stehen, um noch besser zu verstehen, wie Entwickler\*innen kooperieren, wie Innovation entsteht und wo wir euch auf diesem Weg besonders unterstützen können. Deswegen gibt es im Lauf der sechs Monate einige verpflichtende sowie freiwillige Austauschformate und außerdem eine Nachhaltigkeitsevaluation. Wir bitten alle Projekte, den Austausch ernstzunehmen, denn so können wir Problemen schneller begegnen und euch helfen, wenn es nötig ist. Außerdem hilft der Austausch uns, das Programm zu evaluieren und ggf. nachzubessern.
 
     Das sind die **verpflichtenden Termine für die Geförderten**:
     * Kick-Off-Workshop (ganzer Tag in Berlin, alle Teammitglieder, um den 01.06.)
