@@ -2,8 +2,9 @@
 section:
   # name: Am XX.XX startet die Bewerbungsphase!
   name: |
-    Alles klar?\
-    Dann fangt an zu tippen & bewerbt euch!
+    All set?\
+    Then start typing and apply!
+
   navbar: Application
   id: application
   enable: true
@@ -14,28 +15,28 @@ section:
   # hideTitle: true
   # Can optionally show button:
 resourceLinks:
-  - title: "Zur Bewerbungsplattform"
+  - title: "Application Platform"
     url: "bewerben.prototypefund.de"
 
 #Can optionally show tagline:
-tagline: "Hinweise zur Bewerbung"
+tagline: "Instructions for Application"
 
 
 summary: |
-  Die Bewerbungsphase für den ersten Jahrgang startet am XX. Monat 2024 und endet am XX. Monat 2025.
+  The application phase for class 01 starts on XX.XX. 2024 and ends on XX. XX. 2025.
 
-  Infos und Hilfestellung bei der Bewerbung:
-    * Schritt für Schritt durch die Bewerbung führt euch [das Bewerbungshandbuch](https://prototypefund.de/wp-content/uploads/2023/12/PTF_Handbuch_Bewerbung_12.2023.pdf).
-    * In [diesem Blogpost](https://prototypefund.de/die-perfekte-bewerbung/) haben wir Antworten aus erfolgreichen Bewerbungen aus den Jahren 2016 bis 2024 zusammengetragen und zeigen, warum sie positiv bewertet wurden.
-    * [Das](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2017/08/1395_aenderung-der-bekanntmachung) ist die zugehörige Förderrichtlinie des BMBF.
-    * In [diesem Blogpost](https://prototypefund.de/5-bewerbungstipps/) haben wir zu Dingen, die uns häufig aufgefallen sind, fünf zusätzliche Bewerbungstipps veröffentlicht.
+  Information and assistance with the application:
+    * The application guide will lead you through the application process step by step.
+    * In [this blog post (in German)](https://prototypefund.de/die-perfekte-bewerbung/), we have compiled answers from successful applications from 2016 to 2024 and show why they were positively evaluated.
+    * [This](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2017/08/1395_aenderung-der-bekanntmachung) is the associated funding guideline by the BMBF.
+    * In [this blog post (in German)](https://prototypefund.de/5-bewerbungstipps/) we have published five additional application tips on things that we have frequently noticed.
 
-  Bei der Bewertung achtet die Jury besonders auf die folgenden Kriterien:
-    * Trifft das Projekt die inhaltliche Ausrichtung des Prototype Funds?
-    * Innovationsgrad: Wie innovativ ist euer Vorhaben? (dabei wenden wir [diesen Innovationsbegriff](https://prototypefund.de/wp-content/uploads/2021/05/innovation_final.pdf) an)
-    * Realisierbarkeit: Habt ihr die nötigen Fähigkeiten und ist die Idee innerhalb von 6 Monaten umsetzbar? Sind die technische Umsetzung und der Projektplan („Meilensteine“) nachvollziehbar beschrieben?
-    * Reichweite und gesellschaftlicher Nutzen des Projekts: Wie viele Menschen profitieren vom Projekt?
-    * Wie sind die Erfolgsaussichten zu bewerten? Erfolg ist nicht nur, wenn ihr mit eurem Projekt Geld verdient. Es ist trotzdem gut, wenn ihr den Markt und bereits existierende Produkte kennt, euch mit ihnen auseinandersetzt und darstellen könnt, wie sich eure Idee davon abhebt und/oder in das Ökosystem einfügt.
-    * Keine Doppelförderung: Wird oder wurde die grundlegende Idee des Vorhabens bereits anderweitig gefördert oder steht ein ähnliches Produkt bereits mit offenem Quellcode zur Verfügung?
+  When evaluating applications, the jury pays particular attention to the following criteria:
+    * Does the project fit with the content orientation of the Prototype Fund?
+    * Degree of innovation: How innovative is your project? (we use [this definition of innovation](https://LINK AUF ENGLISCH)).
+    * Feasibility: Do you have the necessary skills and can the idea be implemented within 6 months? Are the technical implementation and the project plan (“milestones”) described in a comprehensible way?
+    * Scope and social benefit of the project: How many people benefit from the project?
+    *	How do you rate the chances of success? Success is not only when you make money with your project. Nevertheless, it is good if you know the market and existing products, have dealt with them and can show how your idea differs from them and/or fits into the ecosystem.
+    * No double funding: Has the basic idea of the project already been elsewhere, or is a similar product already available with open source code?
 
-  Wichtig: Wir fördern ausschließlich Open-Source-Software, weil diese neue Anknüpfungspunkte für Projekte und Kooperationen bietet. Wir wollen gewährleisten, dass geförderte Projekte auch in Zukunft instandgehalten und weiterentwickelt werden können.
+    Important: We only fund open source software because it offers an opportunity for collaboration. We want to ensure that funded projects can be maintained and further developed in the future.

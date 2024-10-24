@@ -12,62 +12,62 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Bewerbungsphase
+    name: Application Phase
     # location: Dhaka Branch
     # logo: /images/sections/experiences/company1.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
     overview: |
-      In der Bewerbungsphase könnt ihr eure Projektideen einreichen. Dafür beantwortet ihr XX Fragen zu eurer Idee und teilt mit, ob ihr euch für sechs oder zehn Monate Förderung bewerbt. Der Bewerbungszeitraum startet am 01. November 2024 und endet am 02. Januar 2025. Anders als bisher wird es jährlich nur eine Bewerbungsphase geben. Die Bewerbungsphase für Jahrgang 02 startet voraussichtlich am 01. Oktober 2025.
+      During the application phase, you can submit your project ideas. To do so, you answer XX questions about your idea and indicate whether you are applying for six or ten months of funding. The application period starts on November 1st, 2024 and ends on January 2nd, 2025. Unlike before, there will only be one application phase per year. The application phase for class 02 is expected to start on October 1st, 2025.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
-    start: 01. November 2024
-    end: 02. Januar 2025
+    start: November 1st, 2024
+    end: January 2nd, 2025
 
 - company:
-    name: Auswahlphase
+    name: Selection Phase
     overview: |
-      Nachdem die Bewerbungen eingegangen sind, begutachten die Teams des Prototype Fund und des DLR Projektträger diese und erstellen anhand formaler Kriterien eine Shortlist. Diese wird danach der Jury vorgestellt und von ihr evaluiert. Anfang Februar gibt es eine Jury-Sitzung, in der eine Projektauswahl getroffen wird, die dem Bundesministerium für Bildung und Forschung (BMBF) zur Förderung vorgeschlagen wird. Das BMBF überprüft die Vorschläge. Alle Bewerber*innen erhalten im März ihre Rückmeldung.
+      After the applications have been received, the Prototype Fund and DLR Projektträger teams review them and create a shortlist based on formal criteria. The shortlist is then presented to the jury and evaluated by them. At the beginning of February, there will be a jury meeting at which 25 to 30  projects will be selected and proposed to the Federal Ministry of Education and Research (BMBF) for funding. The BMBF reviews the proposals. All applicants will receive feedback in March.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
-    start: Januar 2025
-    end:  Mai 2025
+    start: January 2025
+    end:  March 2025
 
 - company:
-    name: Antrag
+    name: Formal Application
     overview: |
-      Alle zur Förderung vorgeschlagenen Projekte benötigen nun noch einen formalen Antrag. Dafür nehmen die Bewerber*innen an unserem Antragsworkshop teil: Bis Mitte April muss der Antrag beim BMBF eingereicht sein, damit dieses ihn bis zum Beginn der Förderphase prüfen kann.
+      All projects proposed for funding now require a formal application. To this end, applicants take part in our formal application workshop (Antragsworkshop): the formal application must be submitted to the BMBF by mid-April so that it can be fully reviewed and approved by the start of the funding phase.
   positions:
-  - designation: Senior Software Engineer # wird nicht angezeigt
-    start: Mai 2025
+    - designation: Senior Software Engineer # wird nicht angezeigt
+      start: April 2025
 
 - company:
     name: Kick-Off Workshop
     overview: |
-      Mit dem Kickoff-Workshop startet die Förderphase offiziell. Alle Projekte des Jahrgangs lernen das Team des Prototype Fund, des Projetträgers und sich gegenseitig kennen, erhalten weitere Infos über die Förderzeit und schärfen die Vision für ihr Projekt.
+      The kick-off workshop marks the official start of the funding phase. All projects in the class get to know the Prototype Fund team, the DLR and each other, receive further information about the funding period and sharpen the vision for their project.
   positions:
   - designation: Senior Software Engineer #wird nicht angezeigt
-    start: um den 01. Juni 2025
+    start: around June 1st, 2025
 
 - company:
-    name: Förderphase
+    name: Funding Phase
     overview: |
       Während der Förderzeit arbeiten die Geförderten intensiv an ihren Projekten. Sie stehen in Form von Updates, Gruppengesprächen und Zwischengesprächen im Austausch mit dem restlichen Jahrgang sowie dem Team des Prototype Fund. Außerdem haben sie Anspruch auf Coachings in den Bereichen Projektmanagement, Usability, Branding, Gründung etc.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
-    start: Juni 2025
-    end: Dezember 2025
+    start: June 2025
+    end: December 2025
 
 - company:
-    name: Auswahl Second Stage-Förderung
+    name: Selection Second Stage Funding
     # location: Dhaka Branch
     # logo: /images/sections/experiences/company1.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
     overview: |
-      Alle, die sich auf eine zehnmonatige Förderung beworben haben, reichen eine Präsentation ein und stellen ihre Projekte in einer Auswahlsitzung (online) vor. Auf Basis der Einreichung sowie der Vorstellung entscheidet ein Gremium aus Juror*innen, Prototype Fund und Projektträger über die viermonatige Weiterförderung.
+      All those who have applied for a ten-month funding period submit a presentation and present their projects in an (online) selection meeting. Based on the submission and the presentation, a committee of jurors, the Prototype Fund and the DLR Projektträger will decide on further funding for a period of four months.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
     start: September 2025
@@ -76,10 +76,10 @@ experiences:
 - company:
     name: Demo Day
     overview: |
-      Am Demo Day stellen alle Geförderten nach Ablauf der sechsmonatigen Förderphase ihre Erfahrungen und Projektergebnisse als Demos, in Vorträgen oder auf Panels bei einer öffentlichen Veranstaltung vor. Wie so ein Demo Day aussehen kann, könnt ihr im [Blogbeitrag zum Demo Day der Runde 15](https://prototypefund.de/das-war-der-demo-day-der-runde-15/) nachlesen.
+      On Demo Day, after the six-month funding phase, all grantees present their experiences and project results as demos, in lectures or on panels at a public event.
   positions:
   - designation: Senior Software Engineer #wird nicht angezeigt
-    start: um den 01. Dezember 2025
+    start: around December 1st, 2025
 
 - company:
     name: Second Stage
@@ -89,21 +89,21 @@ experiences:
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
     overview: |
-      Ausgewählte Projekte arbeiten in der viermonatigen Second Stage daran, ihr Projekt nutzbar und bekanntzumachen. Der Fokus liegt bspw. auf User Testing, Community- und Öffentlichkeitsarbeit oder der finanziellen Absicherung. Technische Arbeiten stehen dabei eher im Hintergrund.
+      During the four-month Second Stage, selected projects work on making their project usable and known. The focus is on user testing, community building and public relations, or financial security. Technical work is less of a priority.
   positions:
   - designation: Senior Software Engineer #wird nicht angezeigt
-    start: Dezember 2025
+    start: December 2025
     end: April 2026
 
 - company:
-    name: Abschlussworkshop der Second Stage
+    name: Concluding Second Stage Workshop
     # location: Dhaka Branch
     # logo: /images/sections/experiences/company1.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
     overview: |
-      Der Abschlussworkshop der Second Stage findet halböffentlich mit ausgewählten, von den Projekten geladenen Gästen sowie Programmbeteiligten statt. Der Fokus liegt auf detaillierten Projektpräsentationen und der inhaltlichen Auseinandersetzung mit den Ergebnissen der zweiten Phase.
+      The final workshop of the second stage will be semi-public, with selected guests invited by the projects and program participants. The focus will be on detailed project presentations and an in-depth discussion of the results of the second phase.
   positions:
   - designation: Senior Software Engineer #wird nicht angezeigt
-    start: um den 01. April 2026
+    start: around April 1st, 2026
