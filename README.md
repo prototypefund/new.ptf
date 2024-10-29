@@ -36,7 +36,7 @@ summary: |
 ```
 würde dazu führen, dass `url: text.com` in die Summary mit aufgenommen wird.
 
-Soll keine Leerzeile zwischen den beiden Textzeilen entstehen, sondern nur ein neuer Absatz beginnen, so kann dies durch ein `\` am Ende der Zeile erreicht werden:
+Ein einfacher Zeilenumbruch ohne Leerzeile wird  mit `\` am Ende signalisiert:
 ```
 summary: |
   Hier ist der erste Absatz des Textes.\
