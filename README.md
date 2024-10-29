@@ -12,7 +12,7 @@ Die Webseite wird nach Veränderungen in diesem Repository automatisch nach [new
 
 # Content
 
-#### Texte
+### Texte
 
 Liegen alle unter /data. In /de die Deutschen, in /en die Englischen. Formatiert werden die Texte per [Markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet).
 Außerdem gibt es unter /i18n/en.toml bzw. /i18n/de.toml einige Übersetzungen, die vor allen Dingen Bezeichnungen und generische Wörter sind.
@@ -43,20 +43,20 @@ summary: |
   Hier fängt ein zweiter Absatz an, der jedoch nicht durch eine Leerzeile getrennt ist.
 ```
 
-#### Bilder
+### Bilder
 
 Liegen unter /assets/images. .png, .jpg und .svg funktionieren als Formate.
 Aufgerufen werden sie dann mit /images/image.svg
 
 
-## Anpassungen
+# Anpassungen
 
 Viele Custom SCSS und angepasste HTML. z.T. nicht so sauber, work in Progress - funktioniert aber alles.
 
-#### Farben
+### Farben
 
 Können in /assets/styles/variables.scss verändert werden - einige Anpassungen funktionieren (visuell) nur, wenn an den richtigen Stellen gleiche Farben genutzt werden.
 
-#### Fonts
+### Fonts
 
 Liegen in /static/fonts. Werden in /assets/styles/overide.scss eingebunden.
