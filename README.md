@@ -10,7 +10,7 @@ Die Webseite basiert auf [Hugo](https://gohugo.io/) und dem [Toha-Theme](https:/
 
 Die Webseite wird nach Veränderungen in diesem Repository automatisch nach [new.prototypefund.de](https://new.prototypefund.de) deployed. Build-Status und eventuelle Fehlermeldungen [finden sich hier](https://lab.okfn.de/build-status/).
 
-## Content
+# Content
 
 #### Texte
 
