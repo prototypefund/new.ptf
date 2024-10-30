@@ -53,10 +53,11 @@ socialLinks:
 
 # You can put custom buttons to link on this site
 # These won't open in a new tab.
-siteLinks:
-- title: "Application"
-  url: "/en/#application"
+# siteLinks:
+# - title: "Application"
+#  url: "/en/#application"
 # You can put custom buttons to link your relevant resources.
 # These will open in a new tab
+resourceLinks:
 - title: "More information in our blog"
   url: https://prototypefund.de/en/the-prototype-fund-is-going-strong/
