@@ -2,8 +2,8 @@
 section:
   # name: Am XX.XX startet die Bewerbungsphase!
   name: |
-    All set?\
-    Then start typing and apply!
+    Application is\
+    possible from november 11th!
 
   navbar: Application
   id: application
@@ -40,5 +40,3 @@ summary: |
     * No double funding: Has the basic idea of the project already been elsewhere, or is a similar product already available with open source code?
 
     Important: We only fund open source software because it offers an opportunity for collaboration. We want to ensure that funded projects can be maintained and further developed in the future.
-
-    **The application phase will start on November 11th, 2024.**
