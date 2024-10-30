@@ -13,9 +13,9 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
   # Can optionally show button:
-resourceLinks:
-  - title: "Zur Bewerbungsplattform"
-    url: "bewerben.prototypefund.de"
+#resourceLinks:
+#  - title: "Zur Bewerbungsplattform"
+#    url: ""
 
 #Can optionally show tagline:
 tagline: "Hinweise zur Bewerbung"
@@ -39,3 +39,5 @@ summary: |
     * Keine Doppelförderung: Wird oder wurde die grundlegende Idee des Vorhabens bereits anderweitig gefördert oder steht ein ähnliches Produkt bereits mit offenem Quellcode zur Verfügung?
 
   Wichtig: Wir fördern ausschließlich Open-Source-Software, weil diese neue Anknüpfungspunkte für Projekte und Kooperationen bietet. Wir wollen gewährleisten, dass geförderte Projekte auch in Zukunft instandgehalten und weiterentwickelt werden können.
+
+  **Die Bewerbung startet am 11. November 2024.**

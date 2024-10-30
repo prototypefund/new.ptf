@@ -14,9 +14,9 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
   # Can optionally show button:
-resourceLinks:
-  - title: "Application Platform"
-    url: "bewerben.prototypefund.de"
+#resourceLinks:
+#  - title: "Application Platform"
+#    url: ""
 
 #Can optionally show tagline:
 tagline: "Instructions for Application"
@@ -33,10 +33,12 @@ summary: |
 
   When evaluating applications, the jury pays particular attention to the following criteria:
     * Does the project fit with the content orientation of the Prototype Fund?
-    * Degree of innovation: How innovative is your project? (we use [this definition of innovation](/files/Innovation_en.pdf).
+    * Degree of innovation: How innovative is your project? (we use [this definition of innovation](/files/Innovation_en.pdf)).
     * Feasibility: Do you have the necessary skills and can the idea be implemented within 6 months? Are the technical implementation and the project plan (“milestones”) described in a comprehensible way?
     * Scope and social benefit of the project: How many people benefit from the project?
     *	How do you rate the chances of success? Success is not only when you make money with your project. Nevertheless, it is good if you know the market and existing products, have dealt with them and can show how your idea differs from them and/or fits into the ecosystem.
     * No double funding: Has the basic idea of the project already been elsewhere, or is a similar product already available with open source code?
 
     Important: We only fund open source software because it offers an opportunity for collaboration. We want to ensure that funded projects can be maintained and further developed in the future.
+
+    **The application phase will start on November 11th, 2024.**

@@ -28,7 +28,7 @@ experiences:
 - company:
     name: Selection Phase
     overview: |
-      After the applications have been received, the Prototype Fund and DLR Projektträger teams review them and create a shortlist based on formal criteria. The shortlist is then presented to the jury and evaluated by them. At the beginning of February, there will be a jury meeting at which 25 to 30  projects will be selected and proposed to the Federal Ministry of Education and Research (BMBF) for funding. The BMBF reviews the proposals. All applicants will receive feedback in March.
+      After the applications have been received, the Prototype Fund and DLR Projektträger teams review them and create a shortlist based on formal criteria. The shortlist is then presented to the jury and evaluated by them. At the beginning of February, there will be a jury meeting at which 25 to 30  projects will be selected and proposed to the Federal Ministry of Education and Research (BMBF) for funding. The BMBF reviews the proposals. All applicants will be notified of the decision in March.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
     start: January 2025
@@ -56,8 +56,8 @@ experiences:
       During the funding period, the grantees work intensively on their projects. They are in contact with the rest of their class and the Prototype Fund team. They are also entitled to coaching in the areas of project management, usability, branding, founding, etc.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
-    start: June 2025
-    end: December 2025
+    start: June 1st, 2025
+    end: November 31st, 2025
 
 - company:
     name: Selection Second Stage Funding
@@ -96,14 +96,14 @@ experiences:
     end: April 2026
 
 - company:
-    name: Concluding Second Stage Workshop
+    name: Second Stage Final Workshop
     # location: Dhaka Branch
     # logo: /images/sections/experiences/company1.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
     overview: |
-      The final workshop of the second stage will be semi-public, with selected guests invited by the projects and program participants. The focus will be on detailed project presentations and an in-depth discussion of the results of the second phase.
+      The final workshop of the Second Stage will be semi-public, with selected guests invited by the projects and program participants. The focus will be on detailed project presentations and an in-depth discussion of the results of the Second Stage.
   positions:
   - designation: Senior Software Engineer #wird nicht angezeigt
     start: around April 1st, 2026

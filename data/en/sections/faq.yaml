@@ -35,7 +35,7 @@ projects:
   summary: |
     * Financial support
       * for individuals of up to €47,500 for six months or €79,167 for ten months
-      * for small teams (max. four people) of up to €95,000 for six months or €158,333 for ten months
+      * for small teams (max. of four people) of up to €95,000 for six months or €158,333 for ten months
     * Support through consulting and coaching, e.g. in the areas of user-centered design, project management, security, founding, licenses
     * Exposure for your project through our channels
     * A network consisting of other grantees and alumni, other sponsors, potential partners and other contacts
@@ -43,17 +43,17 @@ projects:
 - name: Which key topics are funded?
   tags: ["grundlagen", "foerderung"]
   summary: |
-    [Data Security](https://prototypefund.de/kenne-deine-daten/):\
+    [Data Security](/files/DataSecurity.pdf):\
     These are tools with a focus on privacy, secure communication and data transfer, and data minimization. This could be, for example, an encrypted and data-minimized messenger, easier or more secure access to VPN encryption or another “privacy by design” application.
 
-    [Software infrastructure](https://prototypefund.de/softwareinfrastruktur/):\
+    [Software infrastructure](/files/SoftwareInfrastructure.pdf):\
     This includes software packages or standardized implementations of protocols that are necessary to write and operate applications. These elements are used by developers to reduce the number of work steps and form the basis for all the applications we use every day.
 
 - name: What is the timeline?
   url: /en/#timeline
   tags: ["grundlagen"]
   summary: |
-    The submission period lasts for two months. We will let you know whether the jury has recommended your project for funding within eight weeks of the submission deadline, i.e. in March 2025 (February 2026).\
+    The submission period lasts for two months. We will let you know whether the jury has recommended your project for funding within eight weeks of the submission deadline, i.e. in March 2025.\
     **Please note**: We ask that you refrain from making inquiries about the status of applications before the beginning of March.
 
     We will invite all selected projects, or one person per team, to a formal application workshop via video call. On this day (mid-March), you will receive support in preparing the formal application. This will then be submitted to the Federal Ministry of Education and Research (BMBF), which will make the final decision on funding. Due to necessary processing times, the final funding decision from the ministry may not arrive until the start of the funding period in exceptional cases. Please bear this in mind if, for example, you want to arrange changes to working hours with employers.
@@ -151,7 +151,7 @@ projects:
 - name: How is the funding amount determined and how does it relate to the total working hours?
   tags: ["foerderung"]
   summary: |
-    The maximum funding amount of €95,000 for teams is calculated based on the total number of working hours for two full-time positions, i.e. 950 working hours for each position, with a maximum hourly rate of €50 for the entire funding period. For individuals, the maximum funding amount is €47,500, i.e. a full-time position with 950 working hours at a maximum of €50 each. If the hourly rate needs to be higher, the number of hours must be reduced accordingly – you will also need to provide us with invoices to prove that you, as a freelance developer, have earned higher hourly wages (maximum €150). Teams name and price work packages, which, when added together, may not exceed the maximum funding amount (see above). The sums for the second stage are each based on one or two full-time positions with a duration of four months. Please note that the hourly wage in the second stage is capped at €50.
+    The maximum funding amount of €95,000 for teams is calculated based on the total number of working hours for two full-time positions, i.e. 1900 working hours or 950 working hours for each position, with a maximum hourly rate of €50 for the entire funding period. For individuals, the maximum funding amount is €47,500, i.e. a full-time position with 950 working hours at a maximum of €50 each. If the hourly rate needs to be higher, the number of hours must be reduced accordingly – you will also need to provide us with invoices to prove that you, as a freelance developer, have earned higher hourly wages (maximum €150). Teams name and price work packages, which, when added together, may not exceed the maximum funding amount (see above). The sums for the Second Stage are each based on one or two full-time positions with a duration of four months. Please note that the hourly wage in the second stage is capped at €50.
 
     The number of hours indicated must be in reasonable proportion to the project idea. Think about how much time you will need to invest to implement the proposed prototype in advance. Realistic planning of the project scope is also one of the evaluation criteria of the jury. If you are employed part-time in addition to receiving funding from the Prototype Fund, the laws on occupational safety and health determine the upper limit for hours.
 
@@ -192,15 +192,15 @@ projects:
     * details of the GbR bank account (can also be done after approval),
     * GbR tax number/registration with the tax office (can also be done after approval).
 
-- name: What do I need to know about second-stage funding?
+- name: What do I need to know about Second Stage funding?
   tags: ["foerderung"]
-  url: https://prototypefund.de/BLOGBEITRAG-EN
+  #url: https://prototypefund.de/BLOGBEITRAG-EN
   summary: |
-    In addition to the regular six-month funding, there is the option to apply for a ten-month funding. You indicate this in your initial application and describe what you want to achieve in the four additional months - the so-called second stage. The second stage is no longer primarily abouttechnical work on the project, but about bringing the project into use and making it known. The focus is on user testing, outreach, community building, licensing, and, if necessary, developing a business model. In the second stage, you will participate in coaching sessions that match your needs.
+    In addition to the regular six-month funding, there is the option to apply for a ten-month funding. You indicate this in your initial application and describe what you want to achieve in the four additional months - the so-called Second Stage. The Second Stage is no longer primarily abouttechnical work on the project, but about bringing the project into use and making it known. The focus is on user testing, outreach, community building, licensing, and, if necessary, developing a business model. In the Second Stage, you will participate in coaching sessions that match your needs.
 
-    In the fourth month of the regular funding phase, you submit a (short) application for the second stage. This is followed by a presentation to a committee of judges, representatives of the Prototype Fund and the DLR Projektträger. After this presentation, a decision will be made on whether to grant Second Stage funding.
+    In the fourth month of the regular funding phase, you submit a (short) application for the Second Stage. This is followed by a presentation to a committee of judges, representatives of the Prototype Fund and the DLR Projektträger. After this presentation, a decision will be made on whether to grant Second Stage funding.
 
-    In the second stage, you can apply for a maximum of €63,333 as a team and €31,667 as an individual; these sums are based on two or one full-time positions over four months. The hourly wage is capped at €50.\
+    In the Second Stage, you can apply for a maximum of €63,333 as a team and €31,667 as an individual; these sums are based on two or one full-time positions over four months. The hourly wage is capped at €50.\
     Projects that receive funding for ten months also take part in the Demo Day after six months. After the Second Stage has been completed, a workshop is held with a few guests, at which the project results are presented and discussed in detail.
 
 - name: What does the funding consist of and what costs can I claim?
@@ -230,7 +230,7 @@ projects:
     * kick-off workshop (full day in Berlin, all team members, around June 1st)
     * scheduled exchanges during the funding period
     * demo day (full day in Berlin, all team members, around December 1st)
-    * second stage final workshop (full day in Berlin, all team members, around April 30th).
+    * Second Stage final workshop (full day in Berlin, all team members, around April 30th).
 
 
 

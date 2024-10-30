@@ -43,17 +43,17 @@ projects:
 - name: Welche Themenschwerpunkte werden gefördert?
   tags: ["grundlagen", "foerderung"]
   summary: |
-    [Datensicherheit](https://prototypefund.de/kenne-deine-daten/):\
+    [Datensicherheit](/files/Datensicherheit.pdf):\
     Dabei handelt sich sich um Werkzeuge mit Fokus auf Privatsphäre, sichere Kommunikation bzw. Datenübertragung und Datensparsamkeit. Das kann beispielsweise ein verschlüsselter und datensparsamer Messenger, ein einfacherer oder sichererer Zugang zu VPN-Verschlüsselung oder eine andere „privacy by design“ Anwendung sein.
 
-    [Softwareinfrastruktur](https://prototypefund.de/softwareinfrastruktur/):\
+    [Softwareinfrastruktur](/files/SoftwareInfrastruktur.pdf):\
     Das sind z. B. Software-Pakete oder standardisierte Implementierungen von Protokollen, die nötig sind, um Anwendungen zu schreiben und zu betreiben. Diese Elemente werden von Entwickler\*innen eingesetzt, um Arbeitsschritte einzusparen und bilden das Fundament aller Anwendungen, die wir täglich nutzen.
 
 - name: Wie sieht der zeitliche Ablauf aus?
   url: "#timeline"
   tags: ["grundlagen"]
   summary: |
-    Die Einreichungsphase läuft jeweils über 2 Monate. Wir geben euch gute 8 Wochen nach Einreichungsschluss – d. h. im März 2025 (Februar 2026) – Bescheid, ob die Jury euer Projekt zur Förderung  vorgeschlagen hat.\
+    Die Einreichungsphase läuft jeweils über 2 Monate. Wir geben euch gute 8 Wochen nach Einreichungsschluss – d. h. im März 2025 – Bescheid, ob die Jury euer Projekt zur Förderung  vorgeschlagen hat.\
     **Wichtig**: Wir bitten, von Anfragen zum Stand der Anträge vor Anfang März abzusehen.
 
     Alle ausgewählten Projekte, bzw. eine Person pro Team, laden wir zu einem  Antragsworkshop per Videocall ein. An diesem Tag (Mitte März) erhaltet ihr Unterstützung bei der Erstellung des formalen Antrags. Dieser wird dann über den Projektträger DLR beim Bundesministerium für Bildung  und Forschung eingereicht, welches die finale Entscheidung über die  Förderung trifft. Der endgültige Zuwendungsbescheid des Ministeriums trifft in Ausnahmefällen aufgrund notwendiger Bearbeitungszeiten erst zum Förderstart selbst ein. Bedenkt dies, falls ihr beispielsweise Änderungen der Arbeitszeit mit Arbeitgebern o. Ä. verabreden wollt.
@@ -150,7 +150,7 @@ projects:
 - name: Wie setzt sich die Fördersumme zusammen und wie hängt diese mit den Gesamtarbeitsstunden zusammen?
   tags: ["foerderung"]
   summary: |
-    Die Maximalfördersumme vom 95.000 € für Teams berechnet sich angelehnt an die Gesamt&shy;arbeits&shy;stunden&shy;zahl von zwei Vollzeitstellen, das heißt zweimal 950 Arbeits&shy;stunden mit einem Stundensatz von max. 50 € für die gesamte Förderlaufzeit. Für Einzelpersonen liegt die maximale Fördersumme bei 47.500 €, also einer Vollzeitstelle mit 950 Arbeitsstunden zu je max. 50€. Wenn der Stundensatz höher liegen soll, muss die Stundenzahl entsprechend verringert werden – außerdem müsst ihr uns über Rechnungen nachweisen, dass ihr als freie Entwickler\*innen höhere Stundenlöhne (maximal 150 €) erzielt habt. Teams benennen und bepreisen Arbeitspakete, die addiert nicht den Umfang der Höchstfördersumme (s. o.) überschreiten dürfen. Die Summen für die Second Stage sind jeweils angelehnt an eine bzw. zwei Vollzeitstellen mit 4 Monaten Laufzeit. Zu beachten ist, dass der Stundenlohn in der Second Stage auf 50 € gedeckelt ist.
+    Die Maximalfördersumme vom 95.000 € für Teams berechnet sich angelehnt an die Gesamt&shy;arbeits&shy;stunden&shy;zahl von zwei Vollzeitstellen, das heißt 1900 Arbeits&shy;stunden (bzw. zweimal 950 Arbeitsstunden) mit einem Stundensatz von max. 50 € für die gesamte Förderlaufzeit. Für Einzelpersonen liegt die maximale Fördersumme bei 47.500 €, also einer Vollzeitstelle mit 950 Arbeitsstunden zu je max. 50€. Wenn der Stundensatz höher liegen soll, muss die Stundenzahl entsprechend verringert werden – außerdem müsst ihr uns über Rechnungen nachweisen, dass ihr als freie Entwickler\*innen höhere Stundenlöhne (maximal 150 €) erzielt habt. Teams benennen und bepreisen Arbeitspakete, die addiert nicht den Umfang der Höchstfördersumme (s. o.) überschreiten dürfen. Die Summen für die Second Stage sind jeweils angelehnt an eine bzw. zwei Vollzeitstellen mit 4 Monaten Laufzeit. Zu beachten ist, dass der Stundenlohn in der Second Stage auf 50 € gedeckelt ist.
 
     Die angegebene Stundenzahl muss in einem angemessenen Verhältnis zur Projektidee stehen. Macht euch im Vorfeld Gedanken, wie viel Zeit ihr sinnvollerweise investieren müsst, um den vorge&shy;schlagenen Prototypen umzusetzen. Die realistische Planung des Projektumfangs zählt auch zu den Bewertungskriterien der Jury. Wenn ihr neben der Förderung durch den Prototype Fund in Teilzeit angestellt seid, bestimmen die Gesetze zum Arbeitsschutz die Begrenzung der Stunden nach oben.
 
@@ -195,11 +195,11 @@ projects:
 
 - name: Was muss ich zur Second-Stage-Förderung wissen?
   tags: ["foerderung"]
-  url: https://prototypefund.de/BLOGBEITRAG
+  # url: https://prototypefund.de/BLOGBEITRAG
   summary: |
     Neben der regulären sechsmonatigen Förderung besteht die Möglichkeit, sich auf eine zehnmonatige Förderung zu bewerben. Dies gebt ihr bei der initialen Bewerbung an und beschreibt, was ihr in den vier weiteren Monaten erreichen wollt. In der Second Stage geht es nicht mehr vordergründig um die technische Arbeit am Projekt sondern darum, das Projekt in die Nutzung zu bringen und bekannt zu machen. Der Fokus liegt also auf User Tests, Öffentlichkeitsarbeit, Communityarbeit, Lizenzierung, ggf. der Erarbeitung eines Geschäftsmodells. In der Second Stage nehmt ihr verpflichtend an Coachings teil, die zu euren Bedarfen passen.
 
-    Im 4. Monat der regulären Förderphase reicht ihr die (kurze) Bewerbung für die Second Stage ein. Darauf folgt eine Präsentation vor einem Gremium aus Juror\*innen, Vertreter\*innen des Prototype Fund und des DLR Projektträgers. Im Anschluss an diese Präsentation wird über die Bewilligung der Second Stage-Förderung entschieden.
+    Im 4. Monat der regulären Förderphase reicht ihr die (kurze) Bewerbung für die Second Stage ein. Darauf folgt eine Präsentation vor einem Gremium aus Juror\*innen, Vertreter\*innen des Prototype Fund und des DLR Projektträgers. Im Anschluss an diese Präsentation wird über die Bewilligung der Second-Stage-Förderung entschieden.
 
     In der Second Stage könnt ihr als Team maximal 63.333 € und als Einzelperson maximal 31.667 € beantragen, diese Summen sind angelehnt an zwei bzw. eine Vollzeitstelle über vier Monate. Der Stundenlohn ist auf 50 € gedeckelt.
     Projekte, die zehn Monate gefördert werden, nehmen ebenfalls am Demo Day nach sechs Monaten teil. Nach Abschluss der Second Stage findet ein Workshop mit wenigen Gästen statt, bei denen die Projektergebnisse detailliert vorgestellt und besprochen werden.

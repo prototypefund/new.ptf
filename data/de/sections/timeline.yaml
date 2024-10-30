@@ -19,7 +19,7 @@ experiences:
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
     overview: |
-      In der Bewerbungsphase könnt ihr eure Projektideen einreichen. Dafür beantwortet ihr XX Fragen zu eurer Idee und teilt mit, ob ihr euch für sechs oder zehn Monate Förderung bewerbt. Der Bewerbungszeitraum startet am 11. November 2024 und endet am 02. Januar 2025. Anders als bisher wird es jährlich nur eine Bewerbungsphase geben. Die Bewerbungsphase für Jahrgang 02 startet voraussichtlich am 01. Oktober 2025.
+      In der Bewerbungsphase könnt ihr eure Projektideen einreichen. Dafür beantwortet ihr ein paar Fragen zu eurer Idee und teilt mit, ob ihr euch für sechs oder zehn Monate Förderung bewerbt. Der Bewerbungszeitraum startet am 11. November 2024 und endet am 02. Januar 2025. Anders als bisher wird es jährlich nur eine Bewerbungsphase geben. Die Bewerbungsphase für Jahrgang 02 startet voraussichtlich am 01. Oktober 2025.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
     start: 11. November 2024
@@ -56,8 +56,8 @@ experiences:
       Während der Förderzeit arbeiten die Geförderten intensiv an ihren Projekten. Sie stehen im Austausch mit dem restlichen Jahrgang sowie dem Team des Prototype Fund. Außerdem haben sie Anspruch auf Coachings in den Bereichen Projektmanagement, Usability, Branding, Gründung etc.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
-    start: Juni 2025
-    end: Dezember 2025
+    start: 01. Juni 2025
+    end: 31. November 2025
 
 - company:
     name: Auswahl Second Stage-Förderung
