@@ -64,6 +64,14 @@
                 >{{ i18n "project_details" }}</a
               >
             </span>
+            {{ else if .siteurl }}
+            <span>
+              <a
+                class="btn btn-outline-info btn-sm"
+                href="{{ .siteurl }}"
+                >{{ i18n "project_details" }}</a
+              >
+            </span>
             {{ end }}
           </div>
         </div>

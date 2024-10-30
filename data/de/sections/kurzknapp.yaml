@@ -49,10 +49,13 @@ socialLinks:
 #  icon: "fab fa-podcast"
 #  url: "https://public-interest-podcast.podigee.io/"
 
-# You can put custom buttons to link your relevant resources.
-# For example, you can put link for your resume.
-resourceLinks:
+# You can put custom buttons to link on this site
+# These won't open in a new tab.
+siteLinks:
 - title: "Zur Bewerbung"
-  url: /#bewerbung
+  url: "#bewerbung"
+# You can put custom buttons to link your relevant resources.
+# These will open in a new tab
+resourceLinks:
 - title: "Mehr Informationen im Blog"
   url: "https://prototypefund.de/der-prototype-fund-geht-weiter-und-wie/"

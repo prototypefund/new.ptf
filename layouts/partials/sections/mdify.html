@@ -18,6 +18,11 @@
         {{ .summary | markdownify }}
       </p>
 
+      {{ range .siteLinks }}
+      <a href="{{ .url | relURL }}" title="{{ .title }}"
+        ><button class="btn btn-dark">{{ .title }}</button></a
+      >
+      {{ end }}
       {{ range .resourceLinks }}
       <a href="{{ .url | relURL }}" title="{{ .title }}" target="#"
         ><button class="btn btn-dark">{{ .title }}</button></a

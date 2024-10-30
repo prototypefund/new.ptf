@@ -50,7 +50,7 @@ projects:
     Das sind z. B. Software-Pakete oder standardisierte Implementierungen von Protokollen, die nötig sind, um Anwendungen zu schreiben und zu betreiben. Diese Elemente werden von Entwickler\*innen eingesetzt, um Arbeitsschritte einzusparen und bilden das Fundament aller Anwendungen, die wir täglich nutzen.
 
 - name: Wie sieht der zeitliche Ablauf aus?
-  url: "#timeline"
+  siteurl: "/#timeline"
   tags: ["grundlagen"]
   summary: |
     Die Einreichungsphase läuft jeweils über 2 Monate. Wir geben euch gute 8 Wochen nach Einreichungsschluss – d. h. im März 2025 – Bescheid, ob die Jury euer Projekt zur Förderung  vorgeschlagen hat.\

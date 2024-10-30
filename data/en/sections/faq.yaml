@@ -50,7 +50,7 @@ projects:
     This includes software packages or standardized implementations of protocols that are necessary to write and operate applications. These elements are used by developers to reduce the number of work steps and form the basis for all the applications we use every day.
 
 - name: What is the timeline?
-  url: /en/#timeline
+  siteurl: /en/#timeline
   tags: ["grundlagen"]
   summary: |
     The submission period lasts for two months. We will let you know whether the jury has recommended your project for funding within eight weeks of the submission deadline, i.e. in March 2025.\
