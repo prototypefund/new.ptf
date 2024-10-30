@@ -48,6 +48,10 @@ summary: |
 Liegen unter /assets/images. .png, .jpg und .svg funktionieren als Formate.
 Aufgerufen werden sie dann mit /images/image.svg
 
+### Dateien
+
+Unter /static/files können Dateien eingefügt werden, diese sind dann unter /files/Dateiname.Dateiendung abrufbar.
+
 
 # Anpassungen
 
