@@ -51,6 +51,7 @@ projects:
 
 - name: Wie sieht der zeitliche Ablauf aus?
   siteurl: "/#timeline"
+  urlname: Zur Timeline
   tags: ["grundlagen"]
   summary: |
     Die Einreichungsphase läuft jeweils über 2 Monate. Wir geben euch gute 8 Wochen nach Einreichungsschluss – d. h. im März 2025 – Bescheid, ob die Jury euer Projekt zur Förderung  vorgeschlagen hat.\
