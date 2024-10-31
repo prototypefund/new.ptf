@@ -112,7 +112,7 @@ projects:
   summary: |
     Nein.
 
-- name: Du willst dich als Student*in oder Rentner*in bewerben?
+- name: Kann ich mich als Student*in oder Rentner*in bewerben?
   url: "https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/In-der-Rente/Hinzuverdienst-und-Einkommensanrechnung/hinzuverdienst-und-einkommensanrechnung_node.html"
   tags: ["bewerbung"]
   summary: |
