@@ -2,7 +2,7 @@
 section:
   # name: Am XX.XX startet die Bewerbungsphase!
   name: |
-    Bewerbungen ab dem 01. November möglich!
+    Bewerbungen ab dem 11. November möglich!
   navbar: Bewerbung
   id: bewerbung
   enable: true
