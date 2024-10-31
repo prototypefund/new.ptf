@@ -14,7 +14,7 @@ description: |
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: More Prototype Fund
+- name: Mehr Prototype Fund
   url: https://prototypefund.de/
   # specify whether to hide the menu item from top navbar or not.
   hideFromNavbar: false
