@@ -76,13 +76,23 @@
               </span>
             {{ end }}
             {{ else if .siteurl }}
-            <span>
-              <a
-                class="btn btn-outline-info btn-sm"
-                href="{{ .siteurl }}"
-                >{{ i18n "project_details" }}</a
-              >
-            </span>
+            {{ if .urlname}}
+              <span>
+                <a
+                  class="btn btn-outline-info btn-sm"
+                  href="{{ .url }}"
+                  >{{ .urlname }}</a
+                >
+              </span>
+            {{ else }}
+              <span>
+                <a
+                  class="btn btn-outline-info btn-sm"
+                  href="{{ .url }}"
+                  >{{ i18n "project_details" }}</a
+                >
+              </span>
+            {{ end }}
             {{ end }}
           </div>
         </div>
