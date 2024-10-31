@@ -46,7 +46,7 @@ projects:
     [Datensicherheit](/files/Datensicherheit.pdf):\
     Dabei handelt sich sich um Werkzeuge mit Fokus auf Privatsphäre, sichere Kommunikation bzw. Datenübertragung und Datensparsamkeit. Das kann beispielsweise ein verschlüsselter und datensparsamer Messenger, ein einfacherer oder sichererer Zugang zu VPN-Verschlüsselung oder eine andere „privacy by design“ Anwendung sein.
 
-    [Softwareinfrastruktur](/files/SoftwareInfrastruktur.pdf):\
+    [Software-Infrastruktur](/files/SoftwareInfrastruktur.pdf):\
     Das sind z. B. Software-Pakete oder standardisierte Implementierungen von Protokollen, die nötig sind, um Anwendungen zu schreiben und zu betreiben. Diese Elemente werden von Entwickler\*innen eingesetzt, um Arbeitsschritte einzusparen und bilden das Fundament aller Anwendungen, die wir täglich nutzen.
 
 - name: Wie sieht der zeitliche Ablauf aus?
