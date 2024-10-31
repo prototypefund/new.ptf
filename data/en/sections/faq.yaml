@@ -252,4 +252,4 @@ projects:
 - name: Under which license must the software created during the funding period be published?
   tags: ["foerderung"]
   summary: |
-    The software must be published under an open source license. The code must be publicly accessible (e.g. via a public [Github](github.com) or [Bitbucket](https://bitbucket.org/) repository). Here is an overview of open source licenses.
+    The software must be published under an open source license. The code must be publicly accessible (e.g. via a public [Github](github.com) or [Bitbucket](https://bitbucket.org/) repository). [Here](https://choosealicense.com/licenses/) is a guide on open source licenses.
