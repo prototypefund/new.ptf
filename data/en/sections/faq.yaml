@@ -114,6 +114,7 @@ projects:
 
 - name: Can I apply as a student or a retiree?
   url: "https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/In-der-Rente/Hinzuverdienst-und-Einkommensanrechnung/hinzuverdienst-und-einkommensanrechnung_node.html"
+  urlname: Details (in German)
   tags: ["bewerbung"]
   summary: |
     As a student, you must observe the [working student rule](https://www.mystipendium.de/werkstudent/werkstudent-arbeitszeit): You **cannot** work on the project full-time while studying full-time, but only for a maximum of 20 hours per week during the semester for a period of six months.\

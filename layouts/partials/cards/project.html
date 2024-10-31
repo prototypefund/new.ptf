@@ -56,14 +56,25 @@
               >{{ i18n "project_star" }}</a
             >
             {{ else if .url }}
-            <span>
-              <a
-                class="btn btn-outline-info btn-sm"
-                href="{{ .url }}"
-                target="#"
-                >{{ i18n "project_details" }}</a
-              >
-            </span>
+            {{ if .urlname}}
+              <span>
+                <a
+                  class="btn btn-outline-info btn-sm"
+                  href="{{ .url }}"
+                  target="#"
+                  >{{ .urlname }}</a
+                >
+              </span>
+            {{ else }}
+              <span>
+                <a
+                  class="btn btn-outline-info btn-sm"
+                  href="{{ .url }}"
+                  target="#"
+                  >{{ i18n "project_details" }}</a
+                >
+              </span>
+            {{ end }}
             {{ else if .siteurl }}
             <span>
               <a
