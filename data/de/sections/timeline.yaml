@@ -32,7 +32,7 @@ experiences:
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
     start: Januar 2025
-    end:  Mai 2025
+    end:  April 2025
 
 - company:
     name: Antrag
@@ -40,7 +40,7 @@ experiences:
       Alle zur Förderung vorgeschlagenen Projekte benötigen nun noch einen formalen Antrag. Dafür nehmen die Bewerber*innen an unserem Antragsworkshop teil: Bis Mitte April muss der Antrag beim BMBF eingereicht sein, damit dieses ihn bis zum Beginn der Förderphase prüfen kann.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
-    start: Mai 2025
+    start: April 2025
 
 - company:
     name: Kick-Off Workshop
@@ -71,6 +71,7 @@ experiences:
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
     start: September 2025
+    end: Oktober 2025
 
 
 - company:
@@ -92,8 +93,8 @@ experiences:
       Ausgewählte Projekte arbeiten in der viermonatigen Second Stage daran, ihr Projekt nutzbar und bekanntzumachen. Der Fokus liegt bspw. auf User Testing, Community- und Öffentlichkeitsarbeit oder der finanziellen Absicherung. Technische Arbeiten stehen dabei eher im Hintergrund.
   positions:
   - designation: Senior Software Engineer #wird nicht angezeigt
-    start: Dezember 2025
-    end: April 2026
+    start: 1. Dezember 2025
+    end: 31. März 2026
 
 - company:
     name: Abschlussworkshop der Second Stage
