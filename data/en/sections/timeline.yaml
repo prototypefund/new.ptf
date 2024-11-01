@@ -32,7 +32,7 @@ experiences:
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
     start: January 2025
-    end:  March 2025
+    end:  April 2025
 
 - company:
     name: Formal Application
@@ -71,6 +71,7 @@ experiences:
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
     start: September 2025
+    end: October 2025
 
 
 - company:
@@ -92,8 +93,8 @@ experiences:
       During the four-month Second Stage, selected projects work on making their project usable and known. The focus is on user testing, community building and public relations, or financial security. Technical work is less of a priority.
   positions:
   - designation: Senior Software Engineer #wird nicht angezeigt
-    start: December 2025
-    end: April 2026
+    start: December 1st, 2025
+    end: March 31st, 2026
 
 - company:
     name: Second Stage Final Workshop
