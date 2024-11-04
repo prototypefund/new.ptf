@@ -198,7 +198,7 @@ projects:
   tags: ["foerderung"]
   #url: https://prototypefund.de/BLOGBEITRAG-EN
   summary: |
-    In addition to the regular six-month funding, there is the option to apply for a ten-month funding. You indicate this in your initial application and describe what you want to achieve in the four additional months - the so-called Second Stage. The Second Stage is no longer primarily abouttechnical work on the project, but about bringing the project into use and making it known. The focus is on user testing, outreach, community building, licensing, and, if necessary, developing a business model. In the Second Stage, you will participate in coaching sessions that match your needs.
+    In addition to the regular six-month funding, there is the option to apply for a ten-month funding. You indicate this in your initial application and describe what you want to achieve in the four additional months - the so-called Second Stage. The Second Stage is no longer primarily about technical work on the project, but about bringing the project into use and making it known. The focus is on user testing, outreach, community building, licensing, and, if necessary, developing a business model. In the Second Stage, you will participate in coaching sessions that match your needs.
 
     In the fourth month of the regular funding phase, you submit a (short) application for the Second Stage. This is followed by a presentation to a committee of judges, representatives of the Prototype Fund and the DLR Projektträger. After this presentation, a decision will be made on whether to grant Second Stage funding.
 
@@ -218,7 +218,7 @@ projects:
 - name: I am working on my project with a team. What do I need to bear in mind?
   tags: ["foerderung"]
   summary: |
-    Teams must form a GbR. No other legal form is permitted for teams that receive funding through Prototype Fund.
+    Teams must form a [Gesellschaft bürgerlichen Rechts (GbR)](https://www.clevver.io/gesellschaft-burgerlichen-rechts-gbr-in-germany/). No other legal form is permitted for teams that receive funding through Prototype Fund.
 
     All team members receiving funding from the Prototype Fund must be registered as resident in the EU. However, the registered office of the GbR (and the place of residence of the managing director) must be in Germany. Teams selected for funding by the jury submit the formal application as a civil-law association (GbR). The applicant is always the GbR – all persons who are to receive funding must be united in the GbR: subcontracting to third parties is not permitted. You appoint a project manager or another partner as managing director, who legally represents the GbR externally (and, for example, participates in the application workshop and signs the appilcation).\
     We will provide you with a template for setting up a GbR when you submit your application – only then is it necessary to set one up. If you want to be funded as a team, you should also identify the individual components of the project and assign them to the people in the team.
@@ -232,7 +232,7 @@ projects:
     * kick-off workshop (full day in Berlin, all team members, around June 1st)
     * scheduled exchanges during the funding period
     * demo day (full day in Berlin, all team members, around December 1st)
-    * Second Stage final workshop (full day in Berlin, all team members, around April 30th).
+    * Second Stage final workshop (full day in Berlin, all team members of Second Stage projects, around April 30th).
 
 
 
@@ -240,13 +240,13 @@ projects:
   tags: ["foerderung"]
   summary: |
     Payment is made in installments based on work performed, at the beginning of each new quarter.\
-    **Example**: If funding begins on June 1st, 2025, you can access the funding amount for the work performed at the beginning of the new quarter from July 1st, 2025.
+    **Example**: If funding begins on June 1st, 2025, you can retroactively access the funding amount for the work performed in this quarter at the beginning of the new quarter from July 1st, 2025.
 
 - name: What happens at the end of the project period and after?
   tags: ["foerderung"]
   summary: |
-    At the end of the six-month project period, we invite all grantees to a Demo Day. This day is designed to showcase the prototypes and share the experiences you have had as developers during the funding period. The Demo Day is open to the public, so you can also talk to future users and other interested parties. We will connect you with mentors and other sponsors during the project period. As part of the Prototype Fund network, you will remain closely connected to the program and other participants even after the project period. The project descriptions will also remain available on our website after the end of the funding period.\
-    After ten months, a semi-public final workshop will be held for the Second Stage participants, with a few invited guests. The focus here is on a detailed presentation of the projects.chgespräch, bei dem wir uns freuen, etwas über die weitere Projektentwicklung zu erfahren.
+    At the end of the six-month project period, we invite all grantees to a Demo Day. This day is designed to showcase the prototypes and share the experiences you have had as developers during the funding period. The Demo Day is open to the public, so you can also talk to future users and other interested parties. We will connect you with coaches and other sponsors during the project period. As part of the Prototype Fund network, you will remain closely connected to the program and other participants even after the project period. The project descriptions will also remain available on our website after the end of the funding period.\
+    After ten months, a semi-public final workshop will be held for the Second Stage participants, with a few invited guests. The focus here is on a detailed presentation of the projects.
 
     In addition to publishing the code in an open source repository at the end of the project, you will create a short and generally understandable project report for the funding agency, which will also be published. Examples from previous years can be found [here](https://www.tib.eu/de/suchen/?tx_tibsearch_search%5Bquery%5D=Software-Sprint&tx_tibsearch_search%5Bcnt%5D=20&tx_tibsearch_search%5Bpg%5D=1&tx_tibsearch_search%5BDlicenseModel%5D%5B0%5D=oa). About a year after the funding, we will also contact you for a sustainability evaluation – a follow-up discussion in which we look forward to learning about further project development.
 
