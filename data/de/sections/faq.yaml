@@ -64,10 +64,10 @@ projects:
   summary: |
     Wir sind der Überzeugung, dass Ideen, die geteilt werden, neue Anknüpfungspunkte für Projekte und Kooperationen bieten. Wir wollen gewährleisten, dass geförderte Projekte auch in Zukunft weiterentwickelt werden können.
 
-- name: Wo finde ich die Förderrichtlinie?
-  tags: ["grundlagen"]
-  summary: |
-    [Hier](LINK) findet ihr die Richtlinie NAME des BMBF vom DATUM.
+#- name: Wo finde ich die Förderrichtlinie?
+#  tags: ["grundlagen"]
+#  summary: |
+#    [Hier](LINK) findet ihr die Richtlinie NAME des BMBF vom DATUM.
 
 
 # Bewerbung

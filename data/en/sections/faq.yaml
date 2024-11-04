@@ -63,10 +63,10 @@ projects:
   summary: |
     We are convinced that ideas that are shared offer new starting points for projects and collaborations. We want to ensure that funded projects can continue to be developed in the future.
 
-- name: Where can I see the funding guideline?
-  tags: ["grundlagen"]
-  summary: |
-    You can find the BMBF's guidelines [here](LINK) under the NAME and DATUM.
+#- name: Where can I see the funding guideline?
+#  tags: ["grundlagen"]
+#  summary: |
+#    You can find the BMBF's guidelines [here](LINK) under the NAME and DATUM.
 
 
 # Bewerbung
