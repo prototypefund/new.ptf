@@ -4,9 +4,7 @@ a {
   @include transition();
 
   &:link {
-    text-decoration: none;
-    //falls wie auf ptf.de:
-    //text-decoration: get-light-color('text-color') underline;
+    text-decoration: get-light-color('text-color') underline;
   }
 
   &:hover,
@@ -14,6 +12,7 @@ a {
     -webkit-text-decoration: get-light-color('accent-color') underline;
             text-decoration: get-light-color('accent-color') underline;
     color: get-light-color('accent-color');
+    text-decoration: none;
     @include transition();
   }
 }
