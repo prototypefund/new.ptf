@@ -36,7 +36,7 @@ projects:
     * Eine finanzielle Förderung
       * für Einzelpersonen mit bis zu 47.500 € für sechs Monate oder 79.167 € für zehn Monate
       * für kleine Teams von bis zu vier Personen mit bis zu 95.000 € für sechs Monate oder 158.333 € für zehn Monate
-    * Unterstützung durch Beratung und Coaching, z.B. in den Bereichen User Centered Design, Projektmanagement, Security, Gründung, Lizenzen
+    * Unterstützung durch Beratung und Coaching, z. B. in den Bereichen User Centered Design, Projektmanagement, Security, Gründung, Lizenzen
     * Aufmerksamkeit für dein Projekt über unsere Kanäle
     * Ein Netzwerk bestehend aus anderen Geförderten und Alumni\*ae, weiteren Förderern, potentiellen Partner\*innen und anderen Kontakten.
 
@@ -44,7 +44,7 @@ projects:
   tags: ["grundlagen", "foerderung"]
   summary: |
     [Datensicherheit](/files/Datensicherheit.pdf):\
-    Dabei handelt sich sich um Werkzeuge mit Fokus auf Privatsphäre, sichere Kommunikation bzw. Datenübertragung und Datensparsamkeit. Das kann beispielsweise ein verschlüsselter und datensparsamer Messenger, ein einfacherer oder sichererer Zugang zu VPN-Verschlüsselung oder eine andere „privacy by design“ Anwendung sein.
+    Dabei handelt sich sich um Werkzeuge mit Fokus auf Privatsphäre, sichere Kommunikation bzw. Datenübertragung und Datensparsamkeit. Das kann beispielsweise ein verschlüsselter und datensparsamer Messenger, ein einfacherer oder sichererer Zugang zu VPN-Verschlüsselung oder eine andere Anwendung sein, die „privacy by design“ umsetzt.
 
     [Software-Infrastruktur](/files/SoftwareInfrastruktur.pdf):\
     Das sind z. B. Software-Pakete oder standardisierte Implementierungen von Protokollen, die nötig sind, um Anwendungen zu schreiben und zu betreiben. Diese Elemente werden von Entwickler\*innen eingesetzt, um Arbeitsschritte einzusparen und bilden das Fundament aller Anwendungen, die wir täglich nutzen.
@@ -81,7 +81,7 @@ projects:
     * Als Einzelentwickler\*innen habt ihr euren Wohnsitz in Deutschland, seid selbstständig** oder Freiberufler\*innen und zahlt eure Steuern hier.
     * Bei Teams liegt der Sitz eurer GbR in Deutschland, die Wohnorte einzelner Teammitglieder können sich im EU-Ausland befinden.
 
-    \*Teams: Lest bitte vor der Bewerbung bei den Fragen unter **Förderung** nach, was für Maßgaben für euch gelten.\
+    \*Teams: Lest bitte vor der Bewerbung bei den Fragen unter *Förderung* nach, was für Maßgaben für euch gelten.\
     \*\*oder für die Projektlaufzeit (anteilig) vom Arbeitgeber freigestellt. Das heißt, ihr könnt auch weiterhin in Teilzeit angestellt sein.
 
 - name: Können sich Unternehmen, Institutionen oder andere Organisationen bewerben?
@@ -139,7 +139,7 @@ projects:
   #url:
   tags: ["bewerbung"]
   summary: |
-    Beantworte alle Fragen auf unserer Bewerbungs&shy;plattform und klicke anschließend auf „submit for review“. Du erhältst danach eine automatische E-Mail, um dir Passwort für die Bewerbungsplattform zu setzen.
+    Beantworte alle Fragen auf unserer Bewerbungs&shy;plattform und klicke anschließend auf „submit for review“. Du erhältst danach eine automatische E-Mail, um dir ein Passwort für die Bewerbungsplattform zu setzen.
 
     Falls du Unterstützung benötigst oder etwas nicht einwandfrei funktioniert, erreichst du uns hier: info@prototypefund.de.
 
@@ -191,16 +191,16 @@ projects:
     * (Binnen-)GbR-Vertrag (eine Person muss einzelvertretungsberechtigt sein, eine Vorlage erhaltet ihr von uns)
     * die Postadressen aller GbR-Mitglieder,
     * Kontoverbindung des eingerichteten GbR-Kontos (kann auch nach der Bewilligung erfolgen),
-    * GbR Steuernummer/Anmeldung beim Finanzamt (kann auch nach der Bewilligung erfolgen).
+    * GbR Steuernummer/-Anmeldung beim Finanzamt (kann auch nach der Bewilligung erfolgen).
 
 
 - name: Was muss ich zur Second-Stage-Förderung wissen?
   tags: ["foerderung"]
   # url: https://prototypefund.de/BLOGBEITRAG
   summary: |
-    Neben der regulären sechsmonatigen Förderung besteht die Möglichkeit, sich auf eine zehnmonatige Förderung zu bewerben. Dies gebt ihr bei der initialen Bewerbung an und beschreibt, was ihr in den vier weiteren Monaten erreichen wollt. In der Second Stage geht es nicht mehr vordergründig um die technische Arbeit am Projekt sondern darum, das Projekt in die Nutzung zu bringen und bekannt zu machen. Der Fokus liegt also auf User Tests, Öffentlichkeitsarbeit, Communityarbeit, Lizenzierung, ggf. der Erarbeitung eines Geschäftsmodells. In der Second Stage nehmt ihr verpflichtend an Coachings teil, die zu euren Bedarfen passen.
+    Neben der regulären sechsmonatigen Förderung besteht die Möglichkeit, sich auf eine zehnmonatige Förderung zu bewerben. Dies gebt ihr bei der initialen Bewerbung an und beschreibt, was ihr in den vier weiteren Monaten erreichen wollt. In der Second Stage geht es nicht mehr vordergründig um die technische Arbeit am Projekt, sondern darum, das Projekt in die Nutzung zu bringen und bekannt zu machen. Der Fokus liegt also auf User Tests, Öffentlichkeitsarbeit, Communityarbeit, Lizenzierung, ggf. der Erarbeitung eines Geschäftsmodells. In der Second Stage nehmt ihr verpflichtend an Coachings teil, die zu euren Bedarfen passen.
 
-    Im 4. Monat der regulären Förderphase reicht ihr die (kurze) Bewerbung für die Second Stage ein. Darauf folgt eine Präsentation vor einem Gremium aus Juror\*innen, Vertreter\*innen des Prototype Fund und des DLR Projektträgers. Im Anschluss an diese Präsentation wird über die Bewilligung der Second-Stage-Förderung entschieden.
+    Im vierten Monat der regulären Förderphase reicht ihr die (kurze) Bewerbung für die Second Stage ein. Darauf folgt eine Präsentation vor einem Gremium aus Juror\*innen, Vertreter\*innen des Prototype Fund und des DLR Projektträgers. Im Anschluss an diese Präsentation wird über die Bewilligung der Second-Stage-Förderung entschieden.
 
     In der Second Stage könnt ihr als Team maximal 63.333 € und als Einzelperson maximal 31.667 € beantragen, diese Summen sind angelehnt an zwei bzw. eine Vollzeitstelle über vier Monate. Der Stundenlohn ist auf 50 € gedeckelt.
     Projekte, die zehn Monate gefördert werden, nehmen ebenfalls am Demo Day nach sechs Monaten teil. Nach Abschluss der Second Stage findet ein Workshop mit wenigen Gästen statt, bei denen die Projektergebnisse detailliert vorgestellt und besprochen werden.
@@ -219,9 +219,9 @@ projects:
 - name: Ich arbeite an meinem Projekt mit einem Team, welche Dinge muss ich beachten?
   tags: ["foerderung"]
   summary: |
-    Teams müssen zwingend eine GbR gründen. Keine andere Gesellschaftsform ist für die Förderung zulässig.
+    Teams müssen zwingend eine [Gesellschaft bürgerlichen Rechts (GbR)](https://de.wikipedia.org/wiki/Gesellschaft_b%C3%BCrgerlichen_Rechts_%28Deutschland%29) gründen. Keine andere Gesellschaftsform ist für die Förderung zulässig.
 
-    Alle Teammitglieder, die vom Prototype Fund gefördert werden, müssen ihren Wohnsitz in der EU angemeldet haben. Der Sitz der GbR (und der Wohnort des Geschäftsführers) muss allerdings in Deutschland liegen. Teams, die von der Jury für die Förderung ausgewählt wurden, reichen den formalen Antrag als [Gesellschaft bürgerlichen Rechts (GbR)](https://de.wikipedia.org/wiki/Gesellschaft_b%C3%BCrgerlichen_Rechts_%28Deutschland%29) ein. Antragsteller ist immer die GbR - alle Personen, die Förderung erhalten sollen, müssen in der GbR zusammengeschlossen sein: eine Unterauftragsvergabe an Dritte ist nicht zulässig. Ihr benennt eine\*n Projektleiter\*in oder eine\*n andere\*n Gesellschafter\*in zur Geschäftsführer\*in, der oder die die GbR nach außen rechtswirksam vertritt (und z. B. am Antragsworkshop teilnimmt und den Antrag unterschreibt). Eine Vorlage für eine GbR-Gründung erhaltet ihr von uns, wenn ihr den Antrag stellt – erst dann ist eine Gründung notwendig. Wenn ihr als Team gefördert werden wollt, solltet ihr außerdem die einzelnen Bausteine des Projekts benennen und den Personen im Team zuweisen.
+    Alle Teammitglieder, die vom Prototype Fund gefördert werden, müssen ihren Wohnsitz in der EU angemeldet haben. Der Sitz der GbR (und der Wohnort des Geschäftsführers) muss allerdings in Deutschland liegen. Teams, die von der Jury für die Förderung ausgewählt wurden, reichen den formalen Antrag als GbR ein. Antragsteller ist immer die GbR - alle Personen, die Förderung erhalten sollen, müssen in der GbR zusammengeschlossen sein: eine Unterauftragsvergabe an Dritte ist nicht zulässig. Ihr benennt eine\*n Projektleiter\*in oder eine\*n andere\*n Gesellschafter\*in zur Geschäftsführer\*in, der oder die die GbR nach außen rechtswirksam vertritt (und z. B. am Antragsworkshop teilnimmt und den Antrag unterschreibt). Eine Vorlage für eine GbR-Gründung erhaltet ihr von uns, wenn ihr den Antrag stellt – erst dann ist eine Gründung notwendig. Wenn ihr als Team gefördert werden wollt, solltet ihr außerdem die einzelnen Bausteine des Projekts benennen und den Personen im Team zuweisen.
 
 
 - name: Was erwartet mich noch während der Projektlaufzeit?
@@ -233,18 +233,18 @@ projects:
     * Kick-Off-Workshop (ganzer Tag in Berlin, alle Teammitglieder, um den 01.06.)
     * Austauschtermine während der Förderzeit
     * Demo Day (ganzer Tag in Berlin, alle Teammitglieder, um den 30.11.)
-    * Abschlussworkshop der Second Stage (ganzer Tag in Berlin, alle Teammitglieder, um den 30.04.)
+    * Abschlussworkshop der Second Stage (ganzer Tag in Berlin, alle Teammitglieder der Projekte der Second Stage, um den 30.04.)
 
 - name: Wie sind die Auszahlungsmodalitäten?
   tags: ["foerderung"]
   summary: |
     Die Auszahlung erfolgt in Raten, basierend auf geleisteter Arbeit und jeweils zu Beginn eines neuen Quartals.\
-    ***Beispiel**: Förderbeginn ist der 01.06.2025, dann kannst du mit Anfang des neuen Quartals ab dem 01.07.2025 die anteilige Fördersumme für die erbrachte Leistung abrufen.*
+    ***Beispiel**: Förderbeginn ist der 01.06.2025, dann kannst du mit Anfang des neuen Quartals ab dem 01.07.2025 die anteilige Fördersumme für die bisher erbrachte Leistung aus dem vorigen Quartal abrufen.*
 
 - name: Was passiert zum Ende und nach der Projektlaufzeit?
   tags: ["foerderung"]
   summary: |
-    Am Ende der sechsmonatigen Projektlaufzeit laden wir alle Geförderten zu einem Demo Day ein. Dieser Tag dient dazu, die Prototypen vorzustellen und die Erfahrungen zu teilen, die ihr während der Förderung als Entwickler\*innen gemacht habt. Der Demo Day ist öffentlich, sodass ihr auch mit künftigen Anwender\*innen und anderen Interessierten ins Gespräch kommen könnt. Wir vernetzen euch bereits während der Projektlaufzeit mit Mentor\*innen und weiteren Förderern. Als Teil des Prototype-Fund-Netzwerks seid ihr auch nach der Projektlaufzeit eng mit dem Programm und anderen Teilnehmenden verbunden. Die Projektbeschreibungen bleiben zudem über das Förderende hinaus auf unserer Website abrufbar.
+    Am Ende der sechsmonatigen Projektlaufzeit laden wir alle Geförderten zu einem Demo Day ein. Dieser Tag dient dazu, die Prototypen vorzustellen und die Erfahrungen zu teilen, die ihr während der Förderung als Entwickler\*innen gemacht habt. Der Demo Day ist öffentlich, sodass ihr auch mit künftigen Anwender\*innen und anderen Interessierten ins Gespräch kommen könnt. Wir vernetzen euch bereits während der Projektlaufzeit mit möglichen Mentor\*innen, anderen Projekten oder Communities und weiteren Förderern. Als Teil des Prototype-Fund-Netzwerks seid ihr auch nach der Projektlaufzeit eng mit dem Programm und anderen Teilnehmenden verbunden. Die Projektbeschreibungen bleiben zudem über das Förderende hinaus auf unserer Website abrufbar.
 
     Nach zehn Monaten findet für die Geförderten der Second Stage ein halböffentlicher Abschlussworkshop mit wenigen geladenen Gästen statt. Der Schwerpunkt liegt hier auf einer detailreichen Präsentation der Projekte.
 

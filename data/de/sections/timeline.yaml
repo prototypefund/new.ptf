@@ -28,7 +28,7 @@ experiences:
 - company:
     name: Auswahlphase
     overview: |
-      Nachdem die Bewerbungen eingegangen sind, begutachten die Teams des Prototype Fund und des DLR Projektträger diese und erstellen anhand formaler Kriterien eine Shortlist. Diese wird danach der Jury vorgestellt und von ihr evaluiert. Anfang Februar gibt es eine Jury-Sitzung, in der eine Projektauswahl getroffen wird, die dem Bundesministerium für Bildung und Forschung (BMBF) zur Förderung vorgeschlagen wird. Das BMBF überprüft die Vorschläge. Alle Bewerber*innen erhalten im März ihre Rückmeldung.
+      Nachdem die Bewerbungen eingegangen sind, begutachten die Teams des Prototype Fund und des DLR Projektträgers diese und erstellen anhand formaler Kriterien eine Shortlist. Diese wird danach der Jury vorgestellt und von ihr evaluiert. Anfang Februar gibt es eine Jury-Sitzung, in der eine Projektauswahl getroffen wird, die dem Bundesministerium für Bildung und Forschung (BMBF) zur Förderung vorgeschlagen wird. Das BMBF überprüft die Vorschläge. Alle Bewerber*innen erhalten im März ihre Rückmeldung.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
     start: Januar 2025
@@ -60,7 +60,7 @@ experiences:
     end: 30. November 2025
 
 - company:
-    name: Auswahl Second Stage-Förderung
+    name: Auswahl Second Stage Förderung
     # location: Dhaka Branch
     # logo: /images/sections/experiences/company1.jpg
     # Can optionally show a different logo for dark theme
@@ -77,7 +77,7 @@ experiences:
 - company:
     name: Demo Day
     overview: |
-      Am Demo Day stellen alle Geförderten nach Ablauf der sechsmonatigen Förderphase ihre Erfahrungen und Projektergebnisse als Demos, in Vorträgen oder auf Panels bei einer öffentlichen Veranstaltung vor. Wie so ein Demo Day aussehen kann, könnt ihr im [Blogbeitrag zum Demo Day der Runde 15](https://prototypefund.de/das-war-der-demo-day-der-runde-15/) nachlesen.
+      Der Demo Day ist eine öffentliche Veranstaltung bei der alle Geförderten nach Ablauf der sechsmonatigen Förderphase ihre Erfahrungen und Projektergebnisse als Demos, in Vorträgen oder auf Panels vorstellen. Wie so ein Demo Day aussehen kann, könnt ihr im [Blogbeitrag zum Demo Day der Runde 15](https://prototypefund.de/das-war-der-demo-day-der-runde-15/) nachlesen.
   positions:
   - designation: Senior Software Engineer #wird nicht angezeigt
     start: um den 01. Dezember 2025
