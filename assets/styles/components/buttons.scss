@@ -24,7 +24,7 @@
 .btn-outline-info {
   color: get-light-color('main-color') !important;
   border-color: get-light-color('main-color') !important;
-
+  text-decoration: none !important;
   &:hover,
   &:focus {
     background-color: get-light-color('accent-color') !important;
