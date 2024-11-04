@@ -20,14 +20,16 @@ section:
 #Can optionally show tagline:
 tagline: "Instructions for Application"
 
+# Zeile zur Förderrichlinie:
+#     * [This](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2017/08/1395_aenderung-der-bekanntmachung) is the associated funding guideline by the BMBF.
 
 summary: |
   The application phase for class 01 starts on November 11th, 2024 and ends on January 2nd, 2025.
 
   Information and assistance with the application:
+    * This [checklist](/files/Checkliste.pdf) has all important steps and information on the application process. 
     * The application guide will lead you through the application process step by step.
     * In [this blog post (in German)](https://prototypefund.de/die-perfekte-bewerbung/), we have compiled answers from successful applications from 2016 to 2024 and show why they were positively evaluated.
-    * [This](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2017/08/1395_aenderung-der-bekanntmachung) is the associated funding guideline by the BMBF.
     * In [this blog post (in German)](https://prototypefund.de/5-bewerbungstipps/) we have published five additional application tips on things that we have frequently noticed.
 
   When evaluating applications, the jury pays particular attention to the following criteria:
