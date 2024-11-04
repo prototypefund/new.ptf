@@ -114,11 +114,11 @@ projects:
     Nein.
 
 - name: Kann ich mich als Student*in oder Rentner*in bewerben?
-  url: "https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/In-der-Rente/Hinzuverdienst-und-Einkommensanrechnung/hinzuverdienst-und-einkommensanrechnung_node.html"
   tags: ["bewerbung"]
   summary: |
-    Als Studierende müsst ihr die [Werk&shy;studenten&shy;regelung](https://www.mystipendium.de/werkstudent/werkstudent-arbeitszeit) beachten: Ihr könnt neben einem Voll&shy;zeit&shy;studium **nicht** Vollzeit am Projekt arbeiten sondern nur im Umfang von max. 20h/Woche während der Semester&shy;laufzeit für 6 Monate.\
-    Für Förderinteressierte im Rentenalter gilt: Nur wer die sogenannte [Regelaltersgrenze](https://www.finanztip.de/gesetzliche-rentenversicherung/) erreicht hat, darf zur gesetzlichen Rente **unbegrenzt dazuverdienen**. Die Regelaltersgrenze ist im Sozialgesetzbuch VI definiert ([§ 35 Satz 2 SGB VI](http://www.gesetze-im-internet.de/sgb_6/__35.html)) und wird mit Vollendung des **67. Lebensjahres** erreicht. Wer früher in die Rente eingetreten ist, für den gelten Verdienstgrenzen.
+    Als Studierende müsst ihr die [Werk&shy;studenten&shy;regelung](https://www.mystipendium.de/werkstudent/werkstudent-arbeitszeit) beachten: Ihr könnt neben einem Voll&shy;zeit&shy;studium **nicht** Vollzeit am Projekt arbeiten sondern nur im Umfang von max. 20h/Woche während der Semester&shy;laufzeit für 6 Monate.
+    
+    Für Förderinteressierte im Rentenalter gilt: Nur wer die sogenannte [Regelaltersgrenze](https://www.finanztip.de/gesetzliche-rentenversicherung/) erreicht hat, darf zur gesetzlichen Rente **unbegrenzt dazuverdienen**. Die Regelaltersgrenze ist im Sozialgesetzbuch VI definiert ([§ 35 Satz 2 SGB VI](http://www.gesetze-im-internet.de/sgb_6/__35.html)) und wird mit Vollendung des **67. Lebensjahres** erreicht. Wer früher in die Rente eingetreten ist, für den gelten Verdienstgrenzen. Details dazu findet ihr [hier](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/In-der-Rente/Hinzuverdienst-und-Einkommensanrechnung/hinzuverdienst-und-einkommensanrechnung_node.html).
 
 - name: Wer ist nicht antragsberechtigt?
   tags: ["bewerbung"]
