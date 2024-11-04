@@ -5,6 +5,7 @@ a {
 
   &:link {
     text-decoration: get-light-color('text-color') underline;
+    text-decoration-thickness: 0.05rem;
   }
 
   &:hover,
