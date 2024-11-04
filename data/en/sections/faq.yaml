@@ -51,6 +51,7 @@ projects:
 
 - name: What is the timeline?
   siteurl: /en/#timeline
+  urlname: Timeline
   tags: ["grundlagen"]
   summary: |
     The submission period lasts for two months. We will let you know whether the jury has recommended your project for funding within eight weeks of the submission deadline, i.e. in March 2025.\
