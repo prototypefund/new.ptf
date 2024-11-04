@@ -19,14 +19,16 @@ section:
 #Can optionally show tagline:
 tagline: "Hinweise zur Bewerbung"
 
+# Zeile zur Förderrichtlinie:
+#     * [Das](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2017/08/1395_aenderung-der-bekanntmachung) ist die zugehörige Förderrichtlinie des BMBF.
 
 summary: |
   Die Bewerbungsphase für den ersten Jahrgang startet am 11. November 2024 und endet am 02. Januar 2025.
 
   Infos und Hilfestellung bei der Bewerbung:
+    * Es gibt eine [Checkliste](https://new.prototypefund.de/files/Checkliste.pdf) mit allen wichtigen Infos & Schritten zur Bewerbung.
     * Schritt für Schritt durch die Bewerbung führt euch [das Bewerbungshandbuch](https://prototypefund.de/wp-content/uploads/2023/12/PTF_Handbuch_Bewerbung_12.2023.pdf).
     * In [diesem Blogpost](https://prototypefund.de/die-perfekte-bewerbung/) haben wir Antworten aus erfolgreichen Bewerbungen aus den Jahren 2016 bis 2024 zusammengetragen und zeigen, warum sie positiv bewertet wurden.
-    * [Das](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2017/08/1395_aenderung-der-bekanntmachung) ist die zugehörige Förderrichtlinie des BMBF.
     * In [diesem Blogpost](https://prototypefund.de/5-bewerbungstipps/) haben wir zu Dingen, die uns häufig aufgefallen sind, fünf zusätzliche Bewerbungstipps veröffentlicht.
 
   Bei der Bewertung achtet die Jury besonders auf die folgenden Kriterien:
