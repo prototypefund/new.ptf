@@ -44,6 +44,8 @@ summary: |
   Hier fängt ein zweiter Absatz an, der jedoch nicht durch eine Leerzeile getrennt ist.
 ```
 
+Es gibt auch eine Möglichkeit, bedingte Zeilenumbrüche/-silbentrennung einzufügen (z.B. um Blocksatz hübscher zu gestalten). Leider gibt es dafür kein Markdownfeature, sodass auf HTML zurückgegriffen werden muss. Wird in ein Wort `&shy;` eingesetzt, so resultiert das an dieser Stelle nur dann in einem Bindestrich, wenn das Wort auch tatsächlich getrennt wird. Dies ist insbesondere bei langen Wörtern hilfreich. Statt also Gesamtarbeitsstundenzahl immer fest zusammen zu schreiben, kann HTML mit `Gesamt&shy;arbeits&shy;stunden&shy;zahl` flexibel trennen.
+
 ### Bilder
 
 Liegen unter /assets/images. .png, .jpg und .svg funktionieren als Formate.
