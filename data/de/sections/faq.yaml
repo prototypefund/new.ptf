@@ -117,7 +117,7 @@ projects:
   tags: ["bewerbung"]
   url: https://www.mystipendium.de/werkstudent/werkstudent-arbeitszeit
   summary: |
-    Als Studierende müsst ihr die Werk&shy;studenten&shy;regelung beachten: Ihr könnt neben einem Voll&shy;zeit&shy;studium **nicht** Vollzeit am Projekt arbeiten sondern nur im Umfang von max. 20h/Woche während der Semester&shy;laufzeit für 6 Monate.
+    Als Studierende müsst ihr die Werk&shy;studenten&shy;regelung beachten: Ihr könnt neben einem Voll&shy;zeit&shy;studium **nicht** Vollzeit am Projekt arbeiten sondern nur im Umfang von max. 20h/Woche während der Semester&shy;laufzeit.
 
 - name: Kann ich mich als Rentner*in bewerben?
   tags: ["bewerbung"]
@@ -157,7 +157,7 @@ projects:
 - name: Wie setzt sich die Fördersumme zusammen und wie hängt diese mit den Gesamtarbeitsstunden zusammen?
   tags: ["foerderung"]
   summary: |
-    Die Maximalfördersumme vom 95.000 € für Teams berechnet sich angelehnt an die Gesamt&shy;arbeits&shy;stunden&shy;zahl von zwei Vollzeitstellen, das heißt 1900 Arbeits&shy;stunden (bzw. zweimal 950 Arbeitsstunden) mit einem Stundensatz von max. 50 € für die gesamte Förderlaufzeit. Für Einzelpersonen liegt die maximale Fördersumme bei 47.500 €, also einer Vollzeitstelle mit 950 Arbeitsstunden zu je max. 50€. Wenn der Stundensatz höher liegen soll, muss die Stundenzahl entsprechend verringert werden – außerdem müsst ihr uns über Rechnungen nachweisen, dass ihr als freie Entwickler\*innen höhere Stundenlöhne (maximal 150 €) erzielt habt. Teams benennen und bepreisen Arbeitspakete, die addiert nicht den Umfang der Höchstfördersumme (s. o.) überschreiten dürfen. Die Summen für die Second Stage sind jeweils angelehnt an eine bzw. zwei Vollzeitstellen mit 4 Monaten Laufzeit. Zu beachten ist, dass der Stundenlohn in der Second Stage auf 50 € gedeckelt ist.
+    Die Maximalfördersumme vom 95.000 € für Teams in sechs Monaten berechnet sich angelehnt an die Gesamt&shy;arbeits&shy;stunden&shy;zahl von zwei Vollzeitstellen, das heißt 1900 Arbeits&shy;stunden (bzw. zweimal 950 Arbeitsstunden) mit einem Stundensatz von max. 50 € für die gesamte Förderlaufzeit. Für Einzelpersonen liegt die maximale Fördersumme bei 47.500 €, also einer Vollzeitstelle über sechs Monate mit insgesamt 950 Arbeitsstunden zu je max. 50€. Wenn der Stundensatz höher liegen soll, muss die Stundenzahl entsprechend verringert werden – außerdem müsst ihr uns über Rechnungen nachweisen, dass ihr als freie Entwickler\*innen höhere Stundenlöhne (maximal 150 €) erzielt habt. Teams benennen und bepreisen Arbeitspakete, die addiert nicht den Umfang der Höchstfördersumme (s. o.) überschreiten dürfen. Die Summen für die Second Stage sind jeweils angelehnt an eine bzw. zwei Vollzeitstellen mit vier Monaten Laufzeit. Zu beachten ist, dass der Stundenlohn in der Second Stage auf 50 € gedeckelt ist.
 
     Die angegebene Stundenzahl muss in einem angemessenen Verhältnis zur Projektidee stehen. Macht euch im Vorfeld Gedanken, wie viel Zeit ihr sinnvollerweise investieren müsst, um den vorge&shy;schlagenen Prototypen umzusetzen. Die realistische Planung des Projektumfangs zählt auch zu den Bewertungskriterien der Jury. Wenn ihr neben der Förderung durch den Prototype Fund in Teilzeit angestellt seid, bestimmen die Gesetze zum Arbeitsschutz die Begrenzung der Stunden nach oben.
 
