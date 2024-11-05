@@ -15,6 +15,7 @@
   a {
     color: get-light-color('bg-primary-inverse');
     @include transition();
+    text-decoration: none;
     &:hover {
       color: get-light-color('accent-color');
       -webkit-text-decoration: get-light-color('accent-color') underline;

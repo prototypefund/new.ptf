@@ -81,7 +81,7 @@
           <ul>
             {{ range $key,$value:= $author.contactInfo }}
               {{ if (eq $key "1_email") }}
-                <a href={{ printf "mailto:%s" $value }} target="_blank" rel="noopener">
+                <a href={{ $value }} target="_blank" rel="noopener">
                   <i class="fas fa-envelope"></i></a>
               {{ else if (eq $key "phone") }}
                 <span><i class="fas fa-phone-alt"></i></span> <span>{{ $value }}</span>

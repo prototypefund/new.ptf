@@ -6,9 +6,7 @@ greeting: " "
 image: "images/ptf-author.svg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  1_email: "info@prototypefund.de"
-  # phone: ""
-
+  1_email: https://prototypefund.de/newsletter/
   3_linkedin: prototype-fund
   2_mastodon: prototypefund
   4_github: prototypefund
