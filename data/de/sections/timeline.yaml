@@ -28,7 +28,7 @@ experiences:
 - company:
     name: Auswahlphase
     overview: |
-      Nachdem die Bewerbungen eingegangen sind, begutachten die Teams des Prototype Fund und des DLR Projektträgers diese und erstellen anhand formaler Kriterien eine Shortlist. Diese wird danach der Jury vorgestellt und von ihr evaluiert. Anfang Februar gibt es eine Jury-Sitzung, in der eine Projektauswahl getroffen wird, die dem Bundesministerium für Bildung und Forschung (BMBF) zur Förderung vorgeschlagen wird. Das BMBF überprüft die Vorschläge. Alle Bewerber*innen erhalten im März ihre Rückmeldung.
+      Nachdem die Bewerbungen eingegangen sind, begutachten die Teams des Prototype Fund und des DLR Projektträgers diese und erstellen anhand formaler Kriterien (hier werden z.B. Bewerbungen von Unternehmen aussortiert) eine Shortlist. Diese wird danach der Jury vorgestellt und von ihr evaluiert. Anfang Februar gibt es eine Jury-Sitzung, in der eine Projektauswahl getroffen wird, die dem Bundesministerium für Bildung und Forschung (BMBF) zur Förderung vorgeschlagen wird. Das BMBF überprüft die Vorschläge. Alle Bewerber*innen erhalten im März ihre Rückmeldung.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
     start: Januar 2025
@@ -67,7 +67,7 @@ experiences:
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
     overview: |
-      Alle, die sich auf eine zehnmonatige Förderung beworben haben, reichen eine Präsentation ein und stellen ihre Projekte in einer Auswahlsitzung (online) vor. Auf Basis der Einreichung sowie der Vorstellung entscheidet ein Gremium aus Juror*innen, Prototype Fund und DLR Projektträger über die viermonatige Weiterförderung.
+      Alle, die sich auf eine zehnmonatige Förderung beworben haben, reichen eine Präsentation ein und stellen ihre Projekte in einer digital stattfindenden Auswahlsitzung vor. Auf Basis der Einreichung sowie der Vorstellung entscheidet ein Gremium aus Juror*innen, Prototype Fund und DLR Projektträger über die viermonatige Weiterförderung.
   positions:
   - designation: Senior Software Engineer # wird nicht angezeigt
     start: September 2025
