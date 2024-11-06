@@ -43,7 +43,7 @@ projects:
 - name: Which key topics are funded?
   tags: ["grundlagen", "foerderung"]
   summary: |
-    [Data Security](/files/DataSecurity.pdf):\
+    [Data security](/files/DataSecurity.pdf):\
     These are tools with a focus on privacy, secure communication and data transfer, and data minimization. This could be, for example, an encrypted and data-minimized messenger, easier or more secure access to VPN encryption or another “privacy by design” application.
 
     [Software infrastructure](/files/SoftwareInfrastructure.pdf):\
