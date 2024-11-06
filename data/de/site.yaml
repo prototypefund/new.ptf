@@ -22,6 +22,14 @@ customMenus:
   # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
   showOnFooter: false
 
+footer:
+- name:  Code of Conduct
+  url: https://prototypefund.de/code-of-conduct/
+- name: Impressum / Datenschutz
+  url: https://prototypefund.de/impressum/
+- name: Code der Webseite
+  url: https://github.com/prototypefund/new.ptf
+
 # Specify OpenGraph Headers
 openGraph:
   title: Prototype Fund
