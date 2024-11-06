@@ -86,7 +86,7 @@
               {{ else if (eq $key "phone") }}
                 <span><i class="fas fa-phone-alt"></i></span> <span>{{ $value }}</span>
               {{ else if (eq $key "2_mastodon") }}
-                <a href={{ printf "https://mastodon.social/@%s" $value }} target="_blank" rel="noopener">
+                <a rel="me" href={{ printf "https://mastodon.social/@%s" $value }} target="_blank">
                   <i class="fab fa-mastodon"></i></a>
               {{ else if (eq $key "3_linkedin") }}
                 <a href={{ printf "https://www.linkedin.com/company/%s" $value }} target="_blank" rel="noopener">
