@@ -2,7 +2,8 @@
 section:
   # name: Am XX.XX startet die Bewerbungsphase!
   name: |
-    Applications possible as of November 11th!
+    All set?\
+    Aplly now!
 
   navbar: Application
   id: application
@@ -14,10 +15,10 @@ section:
   # hideTitle: true
   # Can optionally show button:
 resourceLinks:
-#  - title: "Application Platform"
-#    url: ""
- - title: "Application Checklist"
-   url: "/files/Checklist.pdf"
+  - title: "Application Platform"
+    url: "https://bewerben.prototypefund.de/"
+  - title: "Application Checklist"
+    url: "/files/Checklist.pdf"
 
 #Can optionally show tagline:
 tagline: "Instructions for Application"
