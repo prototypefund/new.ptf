@@ -10,14 +10,12 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
   # Can optionally show button: (Wenn der Blogbeitrag veröffentlicht ist, hier einfügen und die # entfernen)
-#resourceLinks:
-#  - title: "Mehr Infos im Blog"
-#    url: "https://prototypefund.de/BLOGBEITRAG"
+resourceLinks:
+  - title: "Mehr Infos im Blog"
+    url: "https://prototypefund.de/fuer-den-lift-off-braucht-es-eine-second-stage/"
 
 
 summary: |
   In der Technologie- sowie im Speziellen der FOSS-Förderung gibt es ein Problem: Innovationen werden gut und gerne finanziert, nur bleibt oft offen, wie es danach weitergeht. Wenige Technologien sind nach der initialen Finanzierung so weit, dass sie in den Produktiv&shy;betrieb gehen und sich selbst finanzieren können. Deswegen bieten wir mit der Second Stage die Möglichkeit, weitere vier Monate an der nachhaltigen Absicherung des Projektes zu arbeiten. Dies geschieht z. B. duch Community-Aufbau, Verbreitung und Verbesserung der Nutzbarkeit der Software oder durch Aufbau z. B. einer Vereins&shy;struktur. Dafür nehmen die Geförderten an Gründungs&shy;coachings teil, betreiben Öffentlichkeits&shy;arbeit, führen User Tests durch oder kümmern sich um die Dokumentation ihrer Arbeit – ganz abhängig davon, was das einzelne Projekt braucht.
 
   Schon bei der initialen Bewerbung gebt ihr an, ob ihr mit eurem Projekt in der Second Stage gefördert werden wollt. Drei Monate nach Beginn der regulären Förder&shy;phase folgt ein niedrigschwelliges Bewerbungs- und Auswahl&shy;verfahren, in dem 10-15 Projekte ausgewählt werden.
-
-  Mehr Infos im [Blogpost zur Second Stage](https://prototypefund.de/fuer-den-lift-off-braucht-es-eine-second-stage/).
