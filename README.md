@@ -67,6 +67,16 @@ resourceLinks:
 - title: "Text, der auf dem Button stehen soll"
   url: "example.com"
 ```
+
+Zu den FAQs kann auch eine url hinzugefügt werden, dies geschieht einfach per Tag:
+```
+url: "example.com"
+```
+Wird nichts weiter eingetragen, so wird automatisch ein Button mit Aufrschift "Details" (de/en aus i18n) generiert. Alternative Beschriftung kann einfach per Tag `urlname:` 
+```
+urlname: Details (in German)
+```
+
 # Anpassungen
 
 Viele Custom SCSS und angepasste HTML. z.T. nicht so sauber, work in Progress - funktioniert aber alles.
