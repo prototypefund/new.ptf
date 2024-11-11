@@ -57,7 +57,16 @@ Aufgerufen werden sie dann mit /images/image.svg
 
 Unter /static/files können Dateien eingefügt werden, diese sind dann unter /files/Dateiname.Dateiendung abrufbar.
 
-
+### Buttons
+Es gibt BUTTONS! Einige Sections unterstützen dieses Feature (z.B. mdify, mdifyr, mdifyl, about). Dazu müssen einfach die richtigen URLs unter resourceLinks (für externe Links bzw. wenn sie im neuen Tab öffnen sollen) bzw. unter siteLinks (diese öffnen nicht in einem neuen Tab) eingefügt werden:
+```
+siteLinks:
+- title: "Text, der auf dem Button stehen soll"
+  url: "#bewerbung" oder "/en"
+resourceLinks:
+- title: "Text, der auf dem Button stehen soll"
+  url: "example.com"
+```
 # Anpassungen
 
 Viele Custom SCSS und angepasste HTML. z.T. nicht so sauber, work in Progress - funktioniert aber alles.
