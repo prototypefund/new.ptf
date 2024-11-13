@@ -11,7 +11,7 @@ Alle weiteren Infos zum Prototype Fund gibt es auf unserer [Webseite](https://pr
 # Deployment
 
 Die Webseite wird nach Veränderungen in diesem Repository automatisch nach [new.prototypefund.de](https://new.prototypefund.de) deployed. Build-Status und eventuelle Fehlermeldungen [finden sich hier](https://lab.okfn.de/build-status/).
-Wer die Webseite lokal betreiben/verändern möchte, nutzt dazu [Hugo](https://gohugo.io/) mit dem Befehl `hugo server`. Per Befehl  `hugo` wird unter /public das HTML generiert, das dann per beliebigen Webserver (z.B. [Apache](https://httpd.apache.org/)) bereitgestellt werden kann.
+Wer die Webseite lokal betreiben/verändern möchte, nutzt dazu [Hugo](https://gohugo.io/) mit dem Befehl `hugo server`. Per Befehl `hugo` wird unter /public das HTML generiert, das dann per beliebigen Webserver (z.B. [Apache](https://httpd.apache.org/)) bereitgestellt werden kann.
 
 # Content
 
@@ -72,7 +72,7 @@ Zu den FAQs kann auch eine url hinzugefügt werden, dies geschieht einfach per T
 ```
 url: "example.com"
 ```
-Wird nichts weiter eingetragen, so wird automatisch ein Button mit Aufrschift "Details" (de/en aus i18n) generiert. Alternative Beschriftung kann einfach per Tag `urlname:` 
+Wird nichts weiter eingetragen, so wird automatisch ein Button mit Aufschrift "Details" (de/en aus i18n) generiert. Alternativ einfach per Tag `urlname:` ein Beschriftung des Buttons hinzufügen:
 ```
 urlname: Details (in German)
 ```
