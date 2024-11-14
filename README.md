@@ -11,7 +11,7 @@ Alle weiteren Infos zum Prototype Fund gibt es auf unserer [Webseite](https://pr
 # Deployment
 
 Die Webseite wird nach Veränderungen in diesem Repository automatisch nach [new.prototypefund.de](https://new.prototypefund.de) deployed. Build-Status und eventuelle Fehlermeldungen [finden sich hier](https://lab.okfn.de/build-status/).
-Wer die Webseite lokal betreiben/verändern möchte, nutzt dazu [Hugo](https://gohugo.io/) mit dem Befehl `hugo server`. Per Befehl `hugo` wird unter /public das HTML generiert, das dann per beliebigen Webserver (z.B. [Apache](https://httpd.apache.org/)) bereitgestellt werden kann.
+Wer die Webseite lokal betreiben/verändern möchte, nutzt dazu [Hugo](https://gohugo.io/) mit dem Befehl `hugo server`. Per Befehl d`hugo` wird unter /public das HTML generiert, das dann per beliebigen Webserver (z.B. [Apache](https://httpd.apache.org/)) bereitgestellt werden kann.
 
 # Content
 

@@ -44,7 +44,7 @@ projects:
   tags: ["grundlagen", "foerderung"]
   summary: |
     [Datensicherheit](/files/Datensicherheit.pdf):\
-    Dabei handelt sich sich um Werkzeuge mit Fokus auf Privatsphäre, sichere Kommunikation bzw. Daten&shy;übertragung und Daten&shy;sparsamkeit. Das kann beispielsweise ein verschlüsselter und daten&shy;sparsamer Messenger, ein einfacherer oder sichererer Zugang zu VPN-Verschlüsselung oder eine andere Anwendung sein, die „privacy by design“ umsetzt.
+    Dabei handelt sich sich um Werkzeuge mit Fokus auf dem Schutz sensibler Daten vor Verlust, unbefugtem Zugriff oder Manipulation. Das kann beispiels&shy;weise ein einfacherer oder sichererer Zugang zu VPN-Verschlüsselung, ein Tool für Software&shy;tests oder eine andere Anwendung sein, die Security by Design umsetzt.
 
     [Software-Infrastruktur](/files/SoftwareInfrastruktur.pdf):\
     Das sind z. B. Software-Pakete oder standardisierte Implementierungen von Protokollen, die nötig sind, um Anwendungen zu schreiben und zu betreiben. Diese Elemente werden von Entwickler\*innen eingesetzt, um Arbeits&shy;schritte einzusparen und bilden das Fundament aller Anwendungen, die wir täglich nutzen.

@@ -44,7 +44,7 @@ projects:
   tags: ["grundlagen", "foerderung"]
   summary: |
     [Data security](/files/DataSecurity.pdf):\
-    These are tools with a focus on privacy, secure communication and data transfer, and data minimization. This could be, for example, an encrypted and data-minimized messenger, easier or more secure access to VPN encryption or another “privacy by design” application.
+    Data security tools focus on protecting sensitive data from loss, unauthorized access or manipulation. This could be an easier or more secure access to VPN encryption, a software testing tool or an application that implements security by design in another way.
 
     [Software infrastructure](/files/SoftwareInfrastructure.pdf):\
     This includes software packages or standardized implementations of protocols that are necessary to write and operate applications. These elements are used by developers to reduce the number of work steps and form the basis for all the applications we use every day.
