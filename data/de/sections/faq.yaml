@@ -64,10 +64,11 @@ projects:
   summary: |
     Wir sind der Überzeugung, dass Ideen, die geteilt werden, neue Anknüpfungs&shy;punkte für Projekte und Kooperationen bieten. Wir wollen gewährleisten, dass geförderte Projekte auch in Zukunft weiter&shy;entwickelt werden können.
 
-#- name: Wo finde ich die Förderrichtlinie?
-#  tags: ["grundlagen"]
-#  summary: |
-#    [Hier](LINK) findet ihr die Richtlinie NAME des BMBF vom DATUM.
+- name: Wo finde ich die Förderrichtlinie?
+  tags: ["grundlagen"]
+  url: https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2024/11/2024-11-15-bekanntmachung-software-sprint.html
+  summary: |
+    [Hier](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2024/11/2024-11-15-bekanntmachung-software-sprint.html) findet ihr die Richtlinie *Software Sprint – Förderung von Open Source Entwicklerinnen und Entwicklern* des BMBF vom 15. November 2024.
 
 
 # Bewerbung
@@ -93,7 +94,7 @@ projects:
   tags: ["bewerbung"]
   summary: |
     Nicht aufwändig. Über das Bewerbungs&shy;formular könnt ihr der Jury im ersten Schritt kurz und klar beschreiben, was ihr umsetzen möchtet: In prägnanten Texten, die den Kern deiner Idee erklären und die Verbindung zu uns&shy;eren geförderten Schwerpunkten deutlich machen.\
-    Falls euer Projekt von der Jury ausgewählt wird, müsst ihr im Anschluss einen etwas umfang&shy;reicheren formalen Antrag gemäß der Förderrichtlinie des BMBF einreichen. Wir helfen euch bei der Antrags&shy;stellung und richten dazu einen gemeinsamen Antrags&shy;workshop aus.
+    Falls euer Projekt von der Jury ausgewählt wird, müsst ihr im Anschluss einen etwas umfang&shy;reicheren formalen Antrag gemäß der [Förderrichtlinie des BMBF](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2024/11/2024-11-15-bekanntmachung-software-sprint.html) einreichen. Wir helfen euch bei der Antrags&shy;stellung und richten dazu einen gemeinsamen Antrags&shy;workshop aus.
 
 - name: Von wann bis wann kann ich mich bewerben?
   tags: ["bewerbung"]
@@ -183,7 +184,7 @@ projects:
 - name: Wenn die Jury mein Projekt auswählt, wie läuft dann die Antragstellung ab?
   tags: ["foerderung"]
   summary: |
-    Falls euer Projekt von der Jury ausgewählt wird, müsst ihr im Anschluss einen formalen Antrag gemäß der Förder&shy;richt&shy;linie des BMBF einreichen. Wir unterstützen euch dabei im Antrags&shy;workshop und bewältigen die Formalien gemeinsam. Falls ihr von der Jury Auflagen erhalten habt, werden diese eingearbeitet. Außerdem müssen weitere Dokumente eingereicht werden. Das Bundesministerium für Bildung und Forschung prüft auf Basis dieses Antrags, ob ein Projekt die Förderung erhält.
+    Falls euer Projekt von der Jury ausgewählt wird, müsst ihr im Anschluss einen formalen Antrag gemäß der [Förder&shy;richt&shy;linie des BMBF](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2024/11/2024-11-15-bekanntmachung-software-sprint.html) einreichen. Wir unterstützen euch dabei im Antrags&shy;workshop und bewältigen die Formalien gemeinsam. Falls ihr von der Jury Auflagen erhalten habt, werden diese eingearbeitet. Außerdem müssen weitere Dokumente eingereicht werden. Das Bundesministerium für Bildung und Forschung prüft auf Basis dieses Antrags, ob ein Projekt die Förderung erhält.
 
     Hier eine Checkliste über die zur Projekt&shy;bewilligung einzureichenden Dokumente:
 

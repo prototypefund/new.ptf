@@ -22,15 +22,13 @@ resourceLinks:
 #Can optionally show tagline:
 tagline: "Hinweise zur Bewerbung"
 
-# Zeile zur Förderrichtlinie:
-#     * [Das](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2017/08/1395_aenderung-der-bekanntmachung) ist die zugehörige Förderrichtlinie des BMBF.
-
 summary: |
   Die Bewerbungsphase für Jahrgang 01 endet am 02. Januar 2025.
 
   Infos und Hilfestellung bei der Bewerbung:
     * Es gibt eine [Checkliste](/files/Checkliste.pdf) mit allen wichtigen Infos & Schritten zur Bewerbung.
     * Schritt für Schritt durch die Bewerbung führt euch [das Bewerbungshandbuch](/files/HandbuchBewerbung.pdf).
+    * [Das](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2024/11/2024-11-15-bekanntmachung-software-sprint.html) ist die zugehörige Förderrichtlinie des BMBF.
     * In [diesem Blogpost](https://prototypefund.de/die-perfekte-bewerbung/) haben wir Antworten aus erfolgreichen Bewerbungen aus den Jahren 2016 bis 2024 zusammengetragen und zeigen, warum sie positiv bewertet wurden.
     * In [diesem Blogpost](https://prototypefund.de/5-bewerbungstipps/) haben wir zu Dingen, die uns häufig aufgefallen sind, fünf zusätzliche Bewerbungstipps veröffentlicht.
 

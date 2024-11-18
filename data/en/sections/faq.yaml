@@ -64,10 +64,11 @@ projects:
   summary: |
     We are convinced that ideas that are shared offer new starting points for projects and collaborations. We want to ensure that funded projects can continue to be developed in the future.
 
-#- name: Where can I see the funding guideline?
-#  tags: ["grundlagen"]
-#  summary: |
-#    You can find the BMBF's guidelines [here](LINK) under the NAME and DATUM.
+- name: Where can I see the funding guideline?
+  tags: ["grundlagen"]
+  url:  https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2024/11/2024-11-15-bekanntmachung-software-sprint.html
+  summary: |
+    You can find the BMBF's guidelines [here](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2024/11/2024-11-15-bekanntmachung-software-sprint.html).
 
 
 # Bewerbung
@@ -93,7 +94,7 @@ projects:
   tags: ["bewerbung"]
   summary: |
     Not at all. Using the application form, you can briefly and clearly describe to the jury what you would like to implement: in concise texts that explain the core of your idea and make the connection to our funded priorities clear.\
-    If your project is selected by the jury, you will then have to submit a somewhat more extensive formal application in accordance with the BMBF's funding guideline. We will help you with the application and organize a joint application workshop for this purpose.
+    If your project is selected by the jury, you will then have to submit a somewhat more extensive formal application in accordance with the [BMBF's funding guideline](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2024/11/2024-11-15-bekanntmachung-software-sprint.html). We will help you with the application and organize a joint application workshop for this purpose.
 
 - name: When can I apply?
   tags: ["bewerbung"]
@@ -184,7 +185,7 @@ projects:
 - name: If the jury selects my project, how does the formal application process work?
   tags: ["foerderung"]
   summary: |
-    If your project is selected by the jury, you will then have to submit a formal application in accordance with the BMBF's funding guideline. We will support you in this process in the formal application workshop and help you complete the formalities. If the jury has imposed conditions on your project idea, these will be incorporated. In addition, further documents must be submitted. The BMBF will use this application to decide whether a project will receive funding.
+    If your project is selected by the jury, you will then have to submit a formal application in accordance with the [BMBF's funding guideline](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2024/11/2024-11-15-bekanntmachung-software-sprint.html). We will support you in this process in the formal application workshop and help you complete the formalities. If the jury has imposed conditions on your project idea, these will be incorporated. In addition, further documents must be submitted. The BMBF will use this application to decide whether a project will receive funding.
 
     Here is a checklist of the documents to be submitted for project approval:
 
