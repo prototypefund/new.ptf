@@ -88,7 +88,7 @@ projects:
 - name: Can companies, institutions or organizations apply?
   tags: ["bewerbung"]
   summary: |
-    No. Teams must join together as a GbR (see funding section) to receive funding.
+    No. Teams must join together as a GbR (see questions under **funding**) to receive funding.
 
 - name: How cumbersome is the application process?
   tags: ["bewerbung"]
