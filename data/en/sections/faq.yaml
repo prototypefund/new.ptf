@@ -49,6 +49,12 @@ projects:
     [Software infrastructure](/files/SoftwareInfrastructure.pdf):\
     This includes software packages or standardized implementations of protocols that are necessary to write and operate applications. These elements are used by developers to reduce the number of work steps and form the basis for all the applications we use every day.
 
+- name: Can I book a consultation appointment?
+  # url: "test.com"
+  tags: ["grundlagen"]
+  summary: |
+    No, unfortunately we cannot offer individual consultation appointments. For reasons of fairness, we do not comment on the substance of your application idea – besides, the evaluation of your submission is ultimately carried out by our jury. However, if you have any questions about the application or funding that are not answered on this page or in the [application guide](/files/ApplicationGuide.pdf), please do not hesitate to email us at info@prototypefund.de.
+
 - name: What is the timeline?
   siteurl: /en/#timeline
   urlname: Timeline
