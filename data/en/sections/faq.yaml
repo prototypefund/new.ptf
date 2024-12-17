@@ -10,7 +10,10 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-summary: "Auch den Prototype Fund selbst verstehen wir als Prototypen. Unser Programm ist das erste öffentliche Förderprogramm eines Bundesministeriums, das sich gezielt an Open-Source-Entwickler*innen in Selbstständigkeit oder Freiberufliche richtet. Wir wollen lernen, unsere Erfahrungen teilen und euch dabei unterstützen, eure Projekte und Vorhaben bestmöglich zu stemmen. Hier findet ihr die wichtigsten Informationen zur Bewerbung."
+summary: |
+  We also see the Prototype Fund itself as a prototype. Our program is the first public funding program of a federal ministry that is specifically aimed at open source developers who are self-employed or freelancers. We want to learn, share our experience and support you in getting your projects and plans off the ground in the best possible way. You can find the most important information about the application here.
+
+  If your question is not answered here or on the rest of the website, please email us at info@prototypefund.de - please refrain from writing to our team members individually.
 
 buttons:
 - name: All

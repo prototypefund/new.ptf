@@ -12,6 +12,9 @@
         <span id="{{ $sectionID }}"></span>{{ .section.name }}</h1>
   {{ end }}
   <div class="container ms-auto text-center">
+    {{ .summary | markdownify }}
+  </div>
+  <div class="container ms-auto text-center">
     <div class="btn-group flex-wrap" role="group" id="project-filter-buttons">
       {{ range .buttons }}
       <button type="button" class="btn btn-dark project-filtr-control" data-filter="{{ .filter }}">
