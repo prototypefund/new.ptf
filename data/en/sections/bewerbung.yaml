@@ -15,8 +15,6 @@ section:
   # hideTitle: true
   # Can optionally show button:
 resourceLinks:
-  - title: "Application Platform"
-    url: "https://bewerben.prototypefund.de/"
   - title: "Application Checklist"
     url: "/files/Checklist.pdf"
 
