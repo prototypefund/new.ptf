@@ -53,8 +53,6 @@ socialLinks:
 # You can put custom buttons to link on this site
 # These won't open in a new tab
 siteLinks:
-- title: "Zur Bewerbung"
-  url: "#bewerbung"
 # You can put custom buttons to link your relevant resources.
 # These will open in a new tab
 resourceLinks:
