@@ -14,8 +14,6 @@ section:
   # hideTitle: true
   # Can optionally show button:
 resourceLinks:
-  - title: "Zur Bewerbungsplattform"
-    url: "https://bewerben.prototypefund.de/"
   - title: "Checkliste zur Bewerbung"
     url: "/files/Checkliste.pdf"
 
