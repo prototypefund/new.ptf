@@ -3,16 +3,66 @@ section:
   name: Jury
   navbar: Jury
   id: jury
-  enable: false
+  enable: true
   weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 summary: |
-  Die Auswahl der Förderentscheidung durch das BMBF basiert auf einer Empfehlung unserer Jury. Diese unterstützt uns mit ihrem Wissen und Erfahrungsschatz in den Bereichen IT-Sicherheit, Infrastruktur, Software-Bausteine und Open Source. Die Jury bewertet die zahlreichen Einreichungen hinsichtlich Erfolgsaussichen, Sinnhaftigkeit und gesellschaftlichen Mehrwert.
-  Momentan können wir die finale Besetzung der Jury noch nicht bekannt geben – ihr erfahrt es bald hier.
-
+  The BMBF's funding decision is based on a recommendation from our jury. They support us with their knowledge and expertise in the areas of IT security, infrastructure, software modules and open source. The jury evaluates the numerous submissions in terms of their prospects of success, usefulness and social impact.
 skills:
-#- name:
-#  summary:
-#  url:
+- name: Anna Biselli
+  summary: |
+    Anna is a journalist and writes about all things digital, primarily at [netzpolitik.org](https://netzpolitik.org/author/anna/) – since 2022 as Editor-in-Chief. After studying computer science, she became part of the netzpolitik.org editorial team and has since written about technology for numerous renowned German media. Her preferred area of interest is data protection, and she plays the technology explainer.
+  url: https://netzpolitik.org/author/anna/
+
+- name: Markus Drenger
+  summary:  Markus Drenger is an IT security expert and currently works as a consultant at HI Solutions AG. Previously, he worked as a consultant for network policy for the Bündnis 90/Die Grünen parliamentary group in the German Bundestag. He is very active in various communities around the CCC, where he is an advocate for open data and has worked, among other things, to analyze the risks of the electronic lawyer’s mailbox and the electronic patient file.
+
+- name: Lars Hohl
+  summary: Lars Hohl (derPUPE) currently works as an Information Security Manager at Deutsche Bahn AG and is a long-time Open Source advocate. For more than 25 years he has been working in various IT and management positions within large companies and institutions and is particularly interested in the intersection between technology, processes and people. IT security and data protection are topics that interest him both professionally and privately, and he is involved in several civil society organizations.
+  url: https://www.linkedin.com/in/lars-hohl-89265a20/
+
+- name: Jana Kludas
+  summary: Jana Kludas is Lead Data Scientist at msg systems ag, where she works as a consultant on data science in the public sector. Previously, she conducted research on machine learning, artificial neural networks and artificial intelligence.
+
+- name: Jens Ohlig
+  summary: Jens Ohlig works as a cybersecurity consultant. He previously worked as an editor at Tagesspiegel Background Cybersecurity and prior to that spent many years at Wikimedia Deutschland. In 2012, he was part of the initial team that developed the software behind the Wikidata project. Before working as a software developer, he studied translation and languages. He was on the board of the Chaos Computer Club and supports various hackspaces.
+  url: http://www.johl.io/
+
+- name: Leah Oswald
+  summary: Leah Oswald works as Operations Team Lead at the hoster uberspace. She focuses on communication, feminism and queer rights. She is also part of the organizing team of the IT security conference MRMCD and runs the CCC Mastodon instance chaos.social.
+  url: https://leah.is/about/
+
+- name: Lydia Pintscher
+  summary: Lydia Pintscher is Portfolio Lead for Wikidata at Wikimedia Deutschland and Deputy Chair of the Board of KDE e. V. She has previously led extensive mentoring programs and worked with numerous free and open source communities. Lydia studied computer science at the University of Karlsruhe.
+  url: http://www.lydiapintscher.de/about.php
+
+- name: Raphael Robert
+  summary: Raphael Robert is an expert in security and cryptography and focuses on secure messaging in his work. He is the founder and managing director of [Phoenix R&D](https://phnx.im/). Among other things, he was Head of Security at Wire. He is co-author of the Messaging Layer Security (MLS) protocol and helped found the IETF More Instant Messaging Interoperability (MIMI) working group.
+
+- name: Stefan Ullrich
+  summary: Stefan Ullrich holds a doctorate in computer science and philosophy. He is an associate researcher in the research group “Digitalisation, Sustainability and Participation” at the Weizenbaum Institute for the Networked Society. He is also a consultant for the AI Ideas Workshop for Environmental Protection of the ZUG on behalf of the Federal Ministry for the Environment and is responsible for science communication and didactics of AI systems. He is the deputy spokesperson for the specialist group “Informatics and Ethics” of the German Informatics Society (GI e. V.). He is also an active member of the FIfF e. V. and sits on the board of the Bits & Bäume conference.
+  url: https://www.weizenbaum-institut.de/portrait/p/stefan-ullrich/
+
+- name: Lisa Gutermuth
+  summary: Lisa Gutermuth s a senior program officer at Mozilla Foundation’s Data Futures Lab. The Data Futures Lab is an experimental space for instigating new approaches to data stewardship and data governance. Prior to joining the Data Futures Lab, Lisa was a program manager at Ranking Digital Rights and a project coordinator at the Tactical Technology Collective. She has worked primarily on digital security projects (such as Security in a Box) as well as projects that leverage digital tools and open data for citizen-centered advocacy and OSINT.
+  url: https://twitter.com/gutermul?lang=de
+
+- name: Daniel Mack
+  summary: Software and hardware developer
+
+- name: Prof. Dr. Sebastian Meier
+  summary: Sebastian Meier is a professor in the Department of Design for the Design of Knowledge Transfer at the Potsdam University of Applied Sciences. He is involved in the field of Open Data and advocates for open source software in administration and universities. In his work and research, he focuses particularly on low-barrier and interactive forms of knowledge transfer and open educational resources.
+
+- name: Kasia Odrozek
+  summary: Kasia Odrozek leads the Insights team at Mozilla, where she researches ideas, products, and communities. She currently focuses on alternative economic models, privacy and AI, and trust. She founded the Berlin ZebrasUnite chapter, which advocates for an ethical and inclusive movement to counteract the existing startup and venture capital culture.
+
+- name: Zara Rahman
+  summary: Research Lead at [The Engine Room](https://www.theengineroom.org/)
+
+- name: Dr. Irmhild Rogalla
+  summary: Dr. Irmhild Rogalla is a member of the leadership team of the [Institute for Digital Participation (IDT) at Bremen University of Applied Sciences](https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/forschung-und-transfer/institut-fuer-digitale-teilhabe/) and head of the [Institute for Practical Interdisciplinarity](https://www.institut-pi.de/). Her main topics are “Digitalization and Work” and “Digital Accessibility.” By conviction, she has been a user of FOSS for decades and is particularly involved in the LibreOffice community.
+
+- name: Sana Shah
+  summary: Sana Shah works as a technical project manager at AllCloud. She has a professional background in research, project management, diversity and inclusion. She is also a teaching assistant for Data Science and Machine Learning at Le Wagon. Previously, she worked at Algorithmwatch for the DataSkop project as well as for the Digital Autonomy Hub and at the German Center for Integration and Migration Research, where she led the department on network and diversity management.

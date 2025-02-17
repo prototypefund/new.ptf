@@ -13,11 +13,12 @@ summary: |
 
 skills:
 - name: Anna Biselli
-  summary: Anna ist Journalistin und schreibt über Digitales, vor allem bei [netzpolitik.org](https://netzpolitik.org/author/anna/) – seit 2022 als Chefredakteurin. Nach dem Studium im Bereich Informatik wurde sie Teil der Redaktion von netzpolitik.org und hat seitdem für zahlreiche renommierte deutsche Medien über Technik geschrieben. Am liebsten beschäftigt sie sich mit Datenschutz und spielt den Technik-Erklärbär.
+  summary: |
+    Anna ist Journalistin und schreibt über Digitales, vor allem bei [netzpolitik.org](https://netzpolitik.org/author/anna/) – seit 2022 als Chefredakteurin. Nach dem Studium im Bereich Informatik wurde sie Teil der Redaktion von netzpolitik.org und hat seitdem für zahlreiche renommierte deutsche Medien über Technik geschrieben. Am liebsten beschäftigt sie sich mit Datenschutz und spielt den Technik-Erklärbär.
   url: https://netzpolitik.org/author/anna/
 
 - name: Markus Drenger
-  summary: Markus Drenger ist IT-Sicherheitsexperte und arbeitet derzeit als Berater bei HI Solutions AG. Zuvor war er als Referent für Netzpolitik für die Fraktion Bündnis 90/ Die Grünen im Deutschen Bundestag tätig. Er ist in verschiedenen Communities rund um den CCC sehr aktiv, wo er sich für offene Daten einsetzt und unter anderem daran gearbeitet hat, die Risiken des elektronischen Anwaltspostfachs und der elektronischen Patientenakte zu analysieren.
+  summary: Markus Drenger ist IT-Sicherheitsexperte und arbeitet derzeit als Berater bei HI Solutions AG. Zuvor war er als Referent für Netzpolitik für die Fraktion Bündnis 90/Die Grünen im Deutschen Bundestag tätig. Er ist in verschiedenen Communities rund um den CCC sehr aktiv, wo er sich für offene Daten einsetzt und unter anderem daran gearbeitet hat, die Risiken des elektronischen Anwaltspostfachs und der elektronischen Patientenakte zu analysieren.
 
 - name: Lars Hohl
   summary: Lars Hohl (derPUPE) arbeitet aktuell als Information Security Manager bei der Deutschen Bahn AG und ist langjähriger Open-Source-Fürsprecher. Seit über 25 Jahren ist er in verschiedenen IT- und Management-Positionen innerhalb von großen Unternehmen und Institutionen tätig und interessiert sich besonders für die Schnittstellen zwischen Technik, Prozessen und Menschen. Ihn treibt sowohl beruflich wie auch privat das Thema IT-Sicherheit mit gelebtem Datenschutz an und bringt sich damit bei mehreren zivilgesellschaftlichen Organisationen ein.
@@ -39,7 +40,8 @@ skills:
   url: http://www.lydiapintscher.de/about.php
 
 - name: Raphael Robert
-  summary: Raphael Robert ist Experte für Sicherheit und Kryptographie und beschäftigt sich in seiner Arbeit mit sicherem Messaging. Er ist Gründer und Geschäftsführer des Unternehmens [Phoenix R&D](https://phnx.im/). Er war unter anderem Head of Security bei Wire. Er ist Mitautor des Messaging Layer Security (MLS)-Protokolls und half bei der Gründung der IETF-Arbeitsgruppe More Instant Messaging Interoperability (MIMI).
+  summary: |
+    Raphael Robert ist Experte für Sicherheit und Kryptographie und beschäftigt sich in seiner Arbeit mit sicherem Messaging. Er ist Gründer und Geschäftsführer des Unternehmens [Phoenix R&D](https://phnx.im/). Er war unter anderem Head of Security bei Wire. Er ist Mitautor des Messaging Layer Security (MLS)-Protokolls und half bei der Gründung der IETF-Arbeitsgruppe More Instant Messaging Interoperability (MIMI).
 
 - name: Stefan Ullrich
   summary: Stefan Ullrich ist promovierter Informatiker und Philosoph. Er ist assoziierter Forscher in der Forschungsgruppe „Digitalisierung, Nachhaltigkeit und Teilhabe“ am Weizenbaum-Institut für die vernetzte Gesellschaft. Außerdem ist er Referent für die KI-Ideenwerkstatt für Umweltschutz der ZUG im Auftrag des Bundesumweltministeriums und zuständig für die Wissenschaftskommunikation und Didaktik von KI-Systemen. Er ist stellvertretender Sprecher der Fachgruppe »Informatik und Ethik« der deutschen Gesellschaft für Informatik (GI e. V.). Zudem ist er aktives Mitglied des FIfF e. V. und sitzt im Trägerkreis der Bits & Bäume.
