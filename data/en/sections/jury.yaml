@@ -9,7 +9,7 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 summary: |
-  The BMBF's funding decision is based on a recommendation from our jury. They support us with their knowledge and expertise in the areas of IT security, infrastructure, software modules and open source. The jury evaluates the numerous submissions in terms of their prospects of success, usefulness and social impact.
+  The BMBF's funding decision is based on a recommendation from our jury. They support us with their knowledge and expertise in the areas of IT security, infrastructure, software modules and open source. The jury evaluates the numerous submissions in terms of their prospects of success, usefulness and social impact. The following jurors evaluated the submissions for class 01.
 skills:
 - name: Anna Biselli
   summary: |
