@@ -44,25 +44,3 @@ skills:
 - name: Stefan Ullrich
   summary: Stefan Ullrich holds a doctorate in computer science and philosophy. He is an associate researcher in the research group “Digitalisation, Sustainability and Participation” at the Weizenbaum Institute for the Networked Society. He is also a consultant for the AI Ideas Workshop for Environmental Protection of the ZUG on behalf of the Federal Ministry for the Environment and is responsible for science communication and didactics of AI systems. He is the deputy spokesperson for the specialist group “Informatics and Ethics” of the German Informatics Society (GI e. V.). He is also an active member of the FIfF e. V. and sits on the board of the Bits & Bäume conference.
   url: https://www.weizenbaum-institut.de/portrait/p/stefan-ullrich/
-
-- name: Lisa Gutermuth
-  summary: Lisa Gutermuth s a senior program officer at Mozilla Foundation’s Data Futures Lab. The Data Futures Lab is an experimental space for instigating new approaches to data stewardship and data governance. Prior to joining the Data Futures Lab, Lisa was a program manager at Ranking Digital Rights and a project coordinator at the Tactical Technology Collective. She has worked primarily on digital security projects (such as Security in a Box) as well as projects that leverage digital tools and open data for citizen-centered advocacy and OSINT.
-  url: https://twitter.com/gutermul?lang=de
-
-- name: Daniel Mack
-  summary: Software and hardware developer
-
-- name: Prof. Dr. Sebastian Meier
-  summary: Sebastian Meier is a professor in the Department of Design for the Design of Knowledge Transfer at the Potsdam University of Applied Sciences. He is involved in the field of Open Data and advocates for open source software in administration and universities. In his work and research, he focuses particularly on low-barrier and interactive forms of knowledge transfer and open educational resources.
-
-- name: Kasia Odrozek
-  summary: Kasia Odrozek leads the Insights team at Mozilla, where she researches ideas, products, and communities. She currently focuses on alternative economic models, privacy and AI, and trust. She founded the Berlin ZebrasUnite chapter, which advocates for an ethical and inclusive movement to counteract the existing startup and venture capital culture.
-
-- name: Zara Rahman
-  summary: Research Lead at [The Engine Room](https://www.theengineroom.org/)
-
-- name: Dr. Irmhild Rogalla
-  summary: Dr. Irmhild Rogalla is a member of the leadership team of the [Institute for Digital Participation (IDT) at Bremen University of Applied Sciences](https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/forschung-und-transfer/institut-fuer-digitale-teilhabe/) and head of the [Institute for Practical Interdisciplinarity](https://www.institut-pi.de/). Her main topics are “Digitalization and Work” and “Digital Accessibility.” By conviction, she has been a user of FOSS for decades and is particularly involved in the LibreOffice community.
-
-- name: Sana Shah
-  summary: Sana Shah works as a technical project manager at AllCloud. She has a professional background in research, project management, diversity and inclusion. She is also a teaching assistant for Data Science and Machine Learning at Le Wagon. Previously, she worked at Algorithmwatch for the DataSkop project as well as for the Digital Autonomy Hub and at the German Center for Integration and Migration Research, where she led the department on network and diversity management.
